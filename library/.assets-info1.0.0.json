@@ -29,10 +29,6 @@
       "time": 1746418793000,
       "uuid": "11938e97-a8b3-4375-9632-5313d684e918"
     },
-    "/Volumes/固态/project/assets/resources/gui": {
-      "time": 1746418793000,
-      "uuid": "8082dcd2-510f-4867-b2f1-c377843e16b4"
-    },
     "/Volumes/固态/project/assets/resources/language": {
       "time": 1746418793000,
       "uuid": "212e9f36-3089-49a2-80d3-28e93d0d19f1"
@@ -60,10 +56,6 @@
     "/Volumes/固态/project/assets/resources/config/game": {
       "time": 1746418793000,
       "uuid": "a2c06fee-9cbe-4e3b-b9ff-a29cdd9e6646"
-    },
-    "/Volumes/固态/project/assets/resources/gui/prefab": {
-      "time": 1746418793000,
-      "uuid": "e05e3ca3-6657-4d57-8c14-544b16c49d9f"
     },
     "/Volumes/固态/project/assets/resources/language/json": {
       "time": 1746418793000,
@@ -547,7 +539,7 @@
       "uuid": "28ac0ad6-53bf-471a-9256-ae7c8ad351a7"
     },
     "/Volumes/固态/ccProject/assets/script/game/common/config/GameUIConfig.ts": {
-      "time": 1746427547000,
+      "time": 1746429303000,
       "uuid": "ffa5cdbb-3d85-42be-80bb-63b60eca5ffc"
     },
     "/Volumes/固态/ccProject/assets/script/game/common/ecs/SingletonModuleComp.ts": {
@@ -942,7 +934,7 @@
       "uuid": "abdfa6f0-33f7-4604-b4dd-a7489de57650"
     },
     "/Volumes/固态/ccProject/assets/bundle/battle/prefabs": {
-      "time": 1746426680000,
+      "time": 1746428876000,
       "uuid": "c56c0585-ba51-4e21-b81e-9e3ea6972758"
     },
     "/Volumes/固态/ccProject/assets/bundle/battle/textrues": {
@@ -1018,7 +1010,7 @@
       "uuid": "10c41c33-3906-4d02-925b-37c288ba162b"
     },
     "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bulletHell.ts": {
-      "time": 1746274424000,
+      "time": 1746429310000,
       "uuid": "14305c80-c89d-4c8d-9bb8-afbb05a3529a"
     },
     "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/detector.ts": {
@@ -1244,7 +1236,7 @@
       "time": 1746426996000
     },
     "/Volumes/固态/ccProject/assets/bundle/main/prefabs/main.prefab": {
-      "time": 1746427678000,
+      "time": 1746429236000,
       "uuid": "5b6511a4-181b-4c81-9f9c-51e4c21b4d64"
     }
   },
@@ -1300,14 +1292,14 @@
       "removeTime": 1746427135558
     },
     "8082dcd2-510f-4867-b2f1-c377843e16b4": {
-      "path": "/Volumes/固态/ccProject/assets/resources/gui",
+      "path": "/Volumes/固态/project/assets/resources/gui",
       "time": 1746418793000,
-      "removeTime": 1746427007762
+      "removeTime": 1746429687150
     },
     "e05e3ca3-6657-4d57-8c14-544b16c49d9f": {
-      "path": "/Volumes/固态/ccProject/assets/resources/gui/prefab",
-      "time": 1746426970000,
-      "removeTime": 1746427007762
+      "path": "/Volumes/固态/project/assets/resources/gui/prefab",
+      "time": 1746418793000,
+      "removeTime": 1746429687151
     },
     "70f4f050-dfae-466a-885f-099c7454f64d": {
       "path": "/Volumes/固态/ccProject/assets/bundle/battle/main.ts",

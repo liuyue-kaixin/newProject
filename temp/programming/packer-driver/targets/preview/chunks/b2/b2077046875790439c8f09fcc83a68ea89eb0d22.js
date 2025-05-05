@@ -182,17 +182,19 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
         }
 
         createEnemy(x, y) {
-          var enemy = null; //随机产生两种
+          var _enemy, _enemy2, _enemy3;
+
+          var enemy; //随机产生两种
 
           if (Math.random() > 0.5) enemy = (_crd && Ghost === void 0 ? (_reportPossibleCrUseOfGhost({
             error: Error()
           }), Ghost) : Ghost).get(this.ghost);else enemy = (_crd && SnailTail === void 0 ? (_reportPossibleCrUseOfSnailTail({
             error: Error()
           }), SnailTail) : SnailTail).get(this.snailTail);
-          enemy.insert(this.objects);
+          (_enemy = enemy) == null || _enemy.insert(this.objects);
           tempPos.set(x, y, 0);
-          enemy.setPosition(tempPos);
-          enemy.init(); //初始化
+          (_enemy2 = enemy) == null || _enemy2.setPosition(tempPos);
+          (_enemy3 = enemy) == null || _enemy3.init(); //初始化
         }
 
         update(dt) {
@@ -211,14 +213,14 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           this.camera.position = tempPos; //背景跟随
 
           var bg = this.node.getChildByName("bg");
-          var sprite = bg.getComponent(Sprite);
-          var material = sprite.getMaterial(0);
+          var sprite = bg == null ? void 0 : bg.getComponent(Sprite);
+          var material = sprite == null ? void 0 : sprite.getMaterial(0);
           var uvOffset = new Vec2(position.x / 512.0, -position.y / 512.0);
-          material.setProperty("tilingOffset", uvOffset);
+          material == null || material.setProperty("tilingOffset", uvOffset);
           bg.position = position;
         }
 
-      }, _class3._inst = null, _class3), (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "ghost", [_dec2], {
+      }, _class3._inst = void 0, _class3), (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "ghost", [_dec2], {
         configurable: true,
         enumerable: true,
         writable: true,

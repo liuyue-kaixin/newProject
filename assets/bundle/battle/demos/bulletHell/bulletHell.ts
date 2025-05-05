@@ -16,25 +16,25 @@ const tempRot = new Quat();
 export class BulletHell extends Component {
 
     @property(Prefab)
-    ghost: Prefab = null; //敌人
+    ghost: Prefab = null!; //敌人
 
     @property(Prefab)
-    snailTail: Prefab = null; //敌人
+    snailTail: Prefab = null!; //敌人
 
     @property(Prefab)
-    player: Prefab = null; //主角
+    player: Prefab = null!; //主角
 
     @property(Node)
-    objects: Node = null; //enemy 显示挂载点
+    objects: Node = null!; //enemy 显示挂载点
 
     @property(Node)
-    bullets: Node = null; //bullet 显示挂载点
+    bullets: Node = null!; //bullet 显示挂载点
 
     @property(Node)
-    camera: Node = null; //跟随相机
+    camera: Node = null!; //跟随相机
 
     @property(Joystick)
-    joystick: Joystick = null; //主角摇杆
+    joystick: Joystick = null!; //主角摇杆
 
 
 
@@ -52,7 +52,7 @@ export class BulletHell extends Component {
     //....
 
 
-    private static _inst: BulletHell = null;
+    private static _inst: BulletHell;
     static get inst() {
         return this._inst;
     }
@@ -99,7 +99,7 @@ export class BulletHell extends Component {
 
     createEnemy(x: number, y: number) {
 
-        let enemy: cObject = null;
+        let enemy: cObject | undefined;
 
         //随机产生两种
         if (Math.random() > 0.5)
@@ -107,12 +107,12 @@ export class BulletHell extends Component {
         else
             enemy = SnailTail.get(this.snailTail);
 
-        enemy.insert(this.objects);
+        enemy?.insert(this.objects);
 
         tempPos.set(x,y,0);
-        enemy.setPosition(tempPos);
+        enemy?.setPosition(tempPos);
 
-        enemy.init(); //初始化
+        enemy?.init(); //初始化
     }
 
     protected update(dt: number): void {
@@ -129,11 +129,11 @@ export class BulletHell extends Component {
 
         //背景跟随
         let bg = this.node.getChildByName("bg");
-        let sprite = bg.getComponent(Sprite);
-        let material = sprite.getMaterial(0);
+        let sprite = bg?.getComponent(Sprite);
+        let material = sprite?.getMaterial(0);
         let uvOffset = new Vec2(position.x / 512.0, -position.y / 512.0);
-        material.setProperty("tilingOffset", uvOffset);
-        bg.position = position;
+        material?.setProperty("tilingOffset", uvOffset);
+        bg!.position = position;
 
     }
 
