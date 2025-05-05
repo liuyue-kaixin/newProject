@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///Volumes/SSD%201/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectEvent.ts"],"names":["EffectEvent"],"mappings":";;;;;;;;;;;;;;AAAA;6BACYA,W,0BAAAA,W;AAAAA,QAAAA,W;eAAAA,W","sourcesContent":["/** 特效管理模块事件 */\r\nexport enum EffectEvent {\r\n    /** 回收节点 */\r\n    Put = \"EffectEvent_Put\"\r\n}"]}

@@ -12,13 +12,13 @@
     ],
     "paths": {
       "db://internal/*": [
-        "/Volumes/固态/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
+        "/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
       ],
       "db://assets/*": [
-        "/Volumes/固态/ccProject/assets/*"
+        "/Volumes/SSD 1/ccProject/assets/*"
       ],
       "db://oops-framework/*": [
-        "/Volumes/固态/ccProject/extensions/oops-plugin-framework/assets/*"
+        "/Volumes/SSD 1/ccProject/extensions/oops-plugin-framework/assets/*"
       ]
     },
     "experimentalDecorators": true,

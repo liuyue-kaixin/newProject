@@ -1238,6 +1238,839 @@
     "/Volumes/固态/ccProject/assets/script/game/common/config/ConstDefine.ts": {
       "time": 1746432538000,
       "uuid": "128b8f58-7fe9-48b1-875f-ed7d35487d6c"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle": {
+      "time": 1746426984000,
+      "uuid": "2541ef24-edf2-4d70-829f-f339d5773702"
+    },
+    "/Volumes/SSD 1/ccProject/assets/res": {
+      "time": 1746422386000,
+      "uuid": "18a36a4e-73d0-4f2d-b336-f363fc0769c3"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources": {
+      "time": 1746427007000,
+      "uuid": "11349493-059b-466d-8a63-bc29a4d895cd"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script": {
+      "time": 1746430237000,
+      "uuid": "c71845dc-9d65-4d6d-8aca-dcb8079e4aae"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle": {
+      "time": 1746430259000,
+      "uuid": "5f01baac-103e-4e5e-92bd-bcf1869c9f77"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/main": {
+      "time": 1746433146000,
+      "uuid": "e2090612-c7f4-43b0-a11f-25c70040413a"
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/common": {
+      "time": 1746418793000,
+      "uuid": "95b1abc4-6bad-4dc1-aa40-21a8a4d829ea"
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/loading": {
+      "time": 1746418793000,
+      "uuid": "989ba6a5-5936-4360-802e-82a5a22158da"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/common": {
+      "time": 1746418793000,
+      "uuid": "b9dc5d89-1070-4f62-8a31-5b96306c192b"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/config": {
+      "time": 1746418793000,
+      "uuid": "11938e97-a8b3-4375-9632-5313d684e918"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language": {
+      "time": 1746425615000,
+      "uuid": "212e9f36-3089-49a2-80d3-28e93d0d19f1"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/loading": {
+      "time": 1746418793000,
+      "uuid": "c2392cff-8a0b-4baa-95de-e3bfe2999f3c"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle": {
+      "time": 1746433146000,
+      "uuid": "b13b5f37-c0ba-400f-bd13-d2f07a144182"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game": {
+      "time": 1746430864000,
+      "uuid": "b8688d91-9274-40b5-a605-23ee4e5a4eec"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/Joystick": {
+      "time": 1746430269000,
+      "uuid": "be767544-e8bd-4abc-9f5e-839165d70f45"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect": {
+      "time": 1746274424000,
+      "uuid": "abdfa6f0-33f7-4604-b4dd-a7489de57650"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs": {
+      "time": 1746428876000,
+      "uuid": "c56c0585-ba51-4e21-b81e-9e3ea6972758"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues": {
+      "time": 1746274423000,
+      "uuid": "49f78363-43b5-42ca-9e2e-0ed8f2ebb048"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/main/prefabs": {
+      "time": 1746430832000,
+      "uuid": "ab165d15-d832-486a-9981-b2a8f6c0745b"
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/common/texture": {
+      "time": 1746418793000,
+      "uuid": "3877e37f-d7d8-4947-8f6b-0a22217ba4d4"
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/loading/texture": {
+      "time": 1746418793000,
+      "uuid": "9df30361-6dbb-444f-8809-df0b7fd3f29e"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/common/prefab": {
+      "time": 1746418793000,
+      "uuid": "853ce1af-fb40-4f30-aebb-f12234f3d7fe"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/config/game": {
+      "time": 1746418793000,
+      "uuid": "a2c06fee-9cbe-4e3b-b9ff-a29cdd9e6646"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/json": {
+      "time": 1746418793000,
+      "uuid": "92204c5e-0e0d-437c-9b83-4bc1d2994a5d"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/spine": {
+      "time": 1746418793000,
+      "uuid": "d4b2745d-3af5-4ffa-8b11-b0ac6a927551"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/texture": {
+      "time": 1746425615000,
+      "uuid": "b67a859f-640d-4a5a-825e-51971fed24a5"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/loading/prefab": {
+      "time": 1746418793000,
+      "uuid": "9e4a59af-22c3-4c0b-b864-98193db88d5f"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision": {
+      "time": 1746274424000,
+      "uuid": "c5baf42d-39d2-4b12-8490-134f48794b0b"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos": {
+      "time": 1746274957000,
+      "uuid": "543df115-de6a-4334-a7eb-d038a1461dac"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/account": {
+      "time": 1746418793000,
+      "uuid": "65e03a7a-ab3e-4ab1-964c-85a3da63e02c"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common": {
+      "time": 1746418793000,
+      "uuid": "c0e162ab-0190-4687-abe4-c16c332d72bc"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/gameMain": {
+      "time": 1746430842000,
+      "uuid": "877de6e7-ad53-4ed6-9410-6948b470660c"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize": {
+      "time": 1746418793000,
+      "uuid": "4325eaa8-a4b2-47d4-9c38-1b0d046e0b5b"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/Joystick/texture": {
+      "time": 1746274424000,
+      "uuid": "27c54470-b67d-4641-bc8e-f43899abd359"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell": {
+      "time": 1746274424000,
+      "uuid": "dedd6571-3587-4092-9b83-1441d4f10ce2"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1": {
+      "time": 1746274423000,
+      "uuid": "3d2acd8d-7aee-491c-9111-7d382118696a"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/texture/en": {
+      "time": 1746418793000,
+      "uuid": "ec976edd-f0a0-4f29-a3f9-c803b92ef9be"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/texture/zh": {
+      "time": 1746418793000,
+      "uuid": "c03f86e4-9b94-4703-a944-93c83c0c07fd"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell": {
+      "time": 1746274424000,
+      "uuid": "1591bb1a-b26e-4179-9cbf-4498f81158e9"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/collisions": {
+      "time": 1746432018000,
+      "uuid": "eb84b418-2731-443c-b2b5-d79e0b63064e"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/config": {
+      "time": 1746431130000,
+      "uuid": "61074860-e9b7-4908-b0b8-5dd4eaea38d6"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/ecs": {
+      "time": 1746418793000,
+      "uuid": "d8b25dc9-9148-43ce-8bdb-47597cf4d81f"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize/bll": {
+      "time": 1746418793000,
+      "uuid": "885f1a81-eed8-4faa-abb3-7d173cdc9974"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize/view": {
+      "time": 1746418793000,
+      "uuid": "1a305252-1909-4d8d-8214-788067d83b59"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/moveUV.effect": {
+      "time": 1746274602000,
+      "uuid": "bc7d76c2-3f1a-4667-ad2c-38abd98bd1f6"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/scaleXY.effect": {
+      "time": 1746274602000,
+      "uuid": "844977fc-c166-4889-906d-c0388f16ebe0"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/sprite3d.effect": {
+      "time": 1746274602000,
+      "uuid": "d47c07b0-7352-4518-9dec-1ed02aecc971"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/Main.ts": {
+      "time": 1746422516000,
+      "uuid": "0eec0b38-aab6-45ee-89cf-95806b0fecbe"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/Joystick.ts": {
+      "time": 1746274424000,
+      "uuid": "690837d4-6828-40c1-8d01-63474bede24b"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/AILib.ts": {
+      "time": 1746274424000,
+      "uuid": "e200aacb-5a04-4ad9-a115-77799beb9ba7"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Agent.ts": {
+      "time": 1746274424000,
+      "uuid": "27880b8d-662f-424c-bc03-cc34ced420d1"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Body.ts": {
+      "time": 1746274424000,
+      "uuid": "35d5e698-33d7-49c2-ba8f-b24111279140"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Collider.ts": {
+      "time": 1746274424000,
+      "uuid": "e991894f-6409-4d11-9182-d646fff5caa8"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Maths.ts": {
+      "time": 1746274424000,
+      "uuid": "82beda41-8436-469b-b114-074b809e3527"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Object.ts": {
+      "time": 1746274424000,
+      "uuid": "f834e33c-a449-4ea8-9ef5-ed8cff5edf7e"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Shape.ts": {
+      "time": 1746274424000,
+      "uuid": "83d948db-2e76-45ee-856c-d964358c92be"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/account/Account.ts": {
+      "time": 1746418793000,
+      "uuid": "33c06a92-3daf-4c45-b4d4-39fd6efbb491"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/gameMain/GameMain.ts": {
+      "time": 1746430910000,
+      "uuid": "46770dbb-ecc5-4250-99ad-b71fcaaadfda"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize/Initialize.ts": {
+      "time": 1746418793000,
+      "uuid": "ffbce42c-e99f-48a0-8e73-ea6b756af330"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/bullet.ts": {
+      "time": 1746430403000,
+      "uuid": "10c41c33-3906-4d02-925b-37c288ba162b"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/bulletHell.ts": {
+      "time": 1746432770000,
+      "uuid": "14305c80-c89d-4c8d-9bb8-afbb05a3529a"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/detector.ts": {
+      "time": 1746431670000,
+      "uuid": "d96b64ad-1c49-42a8-b88b-4060f3cc0dfc"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/enemy.ts": {
+      "time": 1746431724000,
+      "uuid": "ab37b69b-c891-4384-8e62-ac860bb01b70"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/ghost.ts": {
+      "time": 1746430589000,
+      "uuid": "a6edb24b-b960-4693-b556-7a1cf733ea36"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/gun.ts": {
+      "time": 1746431779000,
+      "uuid": "fe09de8f-f51f-4d67-b660-d9867f6c9e60"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/player.ts": {
+      "time": 1746431769000,
+      "uuid": "069bf3d5-88c3-4866-8872-9e014b2d59c4"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/skill.ts": {
+      "time": 1746431792000,
+      "uuid": "2fede599-2a9c-436e-8a70-a3b8c1cf72a8"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/snailTail.ts": {
+      "time": 1746431838000,
+      "uuid": "d2a8a52c-b729-4735-bca1-cc71918616ca"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/collisions/Camera3D.ts": {
+      "time": 1746431945000,
+      "uuid": "449d7ca5-091e-4d8e-9662-036c8e17a364"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/collisions/Config.ts": {
+      "time": 1746274424000,
+      "uuid": "30590317-fea2-4a81-a0bc-b7419ce719a1"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/config/ConstDefine.ts": {
+      "time": 1746432538000,
+      "uuid": "128b8f58-7fe9-48b1-875f-ed7d35487d6c"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/config/GameEvent.ts": {
+      "time": 1746418793000,
+      "uuid": "28ac0ad6-53bf-471a-9256-ae7c8ad351a7"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/config/GameUIConfig.ts": {
+      "time": 1746430873000,
+      "uuid": "ffa5cdbb-3d85-42be-80bb-63b60eca5ffc"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/ecs/SingletonModuleComp.ts": {
+      "time": 1746418793000,
+      "uuid": "c1147d9a-3dcd-4fd0-ad87-f4d964ee62a8"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize/bll/InitRes.ts": {
+      "time": 1746422538000,
+      "uuid": "2ee0cf3e-ed1f-4414-a41b-f8e3e7f66964"
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize/view/LoadingViewComp.ts": {
+      "time": 1746432161000,
+      "uuid": "92429ca4-4e7c-450a-b706-c96e7c2568e3"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle.meta": {
+      "time": 1746425781000
+    },
+    "/Volumes/SSD 1/ccProject/assets/res.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle.meta": {
+      "time": 1746425702000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/main.meta": {
+      "time": 1746426984000
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/common.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/loading.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/common.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/config.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/loading.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle.meta": {
+      "time": 1746430237000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/Joystick.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/main/prefabs.meta": {
+      "time": 1746427132000
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/common/texture.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/loading/texture.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/common/prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/config/game.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/spine.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/texture.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/loading/prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/account.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/gameMain.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/Joystick/texture.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/texture/en.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/texture/zh.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/collisions.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/config.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/ecs.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize/bll.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize/view.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/Main.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/Joystick.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/AILib.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Agent.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/moveUV.effect.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/scaleXY.effect.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Body.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Collider.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Maths.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/sprite3d.effect.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Object.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/collision/Shape.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/account/Account.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/gameMain/GameMain.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize/Initialize.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/bullet.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/bulletHell.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/detector.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/enemy.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/ghost.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/gun.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/player.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/skill.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/bulletHell/snailTail.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/collisions/Camera3D.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/battle/demos/collisions/Config.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/config/ConstDefine.ts.meta": {
+      "time": 1746431130000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/config/GameEvent.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/config/GameUIConfig.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/common/ecs/SingletonModuleComp.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize/bll/InitRes.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/script/game/initialize/view/LoadingViewComp.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/main.scene": {
+      "time": 1746427740000,
+      "uuid": "ba0b085f-f8d5-40b0-9964-2fd25728d707"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/config.json": {
+      "time": 1746418793000,
+      "uuid": "0f8f84c7-5a96-49fe-a127-f66d9c90c822"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/project.manifest": {
+      "time": 1746418793000,
+      "uuid": "acbe03ba-4e92-43cf-a521-c5337c12e38b"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/version.manifest": {
+      "time": 1746418793000,
+      "uuid": "4eada1a4-cb98-4e24-ba67-fa8126531d52"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/Joystick/Joystick.prefab": {
+      "time": 1746274609000,
+      "uuid": "51f91924-d562-44b1-8d68-91a9ba13415a"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/material3d.mtl": {
+      "time": 1746274609000,
+      "uuid": "472d6cd5-7051-4388-97da-69ac3355170f"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/moveUV.mtl": {
+      "time": 1746274609000,
+      "uuid": "59449087-a36c-4a5c-93c6-9f8795c511c2"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/Ghost.png": {
+      "time": 1746274423000,
+      "uuid": "b8b065ca-6aad-4ba5-a149-1678e9296b97"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/SnailTail.png": {
+      "time": 1746274423000,
+      "uuid": "3cfef8b3-ac7b-4985-9338-8ddf3fddc9ef"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/bb1.png": {
+      "time": 1746274423000,
+      "uuid": "fdb142d5-8967-42d0-82f4-73bb75ffd9fb"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/bullet.png": {
+      "time": 1746274423000,
+      "uuid": "fbb5cd22-1942-4619-8485-07e8f05847d5"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/ninja.png": {
+      "time": 1746274423000,
+      "uuid": "ade1df4b-bdf9-4be9-9e69-602bfbfca650"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/main/prefabs/GameMain.prefab": {
+      "time": 1746432746000,
+      "uuid": "5b6511a4-181b-4c81-9f9c-51e4c21b4d64"
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/common/texture/loading.png": {
+      "time": 1746418793000,
+      "uuid": "06942a20-0474-4385-9a85-293366d2473e"
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/loading/texture/bg.png": {
+      "time": 1746418793000,
+      "uuid": "0021cb5a-e4f0-4709-b0b6-5e21875720b7"
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/loading/texture/icon_loading_bar.png": {
+      "time": 1746418793000,
+      "uuid": "1ac049d7-c899-492a-89a7-4e8d85ce4cb1"
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/loading/texture/panel_loading_bottom_frame.png": {
+      "time": 1746418793000,
+      "uuid": "a2001856-24f5-4ac7-9309-1207a3210cd8"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/common/prefab/netinstable.prefab": {
+      "time": 1746418793000,
+      "uuid": "9cc71d8c-192a-4234-8204-352f42b95c65"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/common/prefab/notify.prefab": {
+      "time": 1746418793000,
+      "uuid": "10285c1d-979d-4a7e-80c0-86e0dc2a65d8"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/common/prefab/window.prefab": {
+      "time": 1746418793000,
+      "uuid": "2501cdfd-ca13-49a6-9c23-ea51586c54c4"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/config/game/Language.json": {
+      "time": 1746418793000,
+      "uuid": "b92e9be8-b6df-4e15-8b4b-16326a243229"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/json/en.json": {
+      "time": 1746418793000,
+      "uuid": "2c0f4643-d84a-49b9-9069-8efe9434304c"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/json/en.ttf": {
+      "time": 1746418793000,
+      "uuid": "859314dc-c952-48fc-84a7-bba774e1f873"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/json/zh.json": {
+      "time": 1746418793000,
+      "uuid": "f39d9bde-aff1-4255-846f-cbc4169d5d45"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/json/zh.ttf": {
+      "time": 1746418793000,
+      "uuid": "d06fcc91-daf7-4f73-9c6f-84054f48cf5c"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/loading/prefab/loading.prefab": {
+      "time": 1746418793000,
+      "uuid": "b3142304-c27f-4492-b94f-551d154a2bf4"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/Joystick/texture/inner.png": {
+      "time": 1746274424000,
+      "uuid": "868822a0-410c-473b-a675-d940ab90ac1d"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/Joystick/texture/round.png": {
+      "time": 1746274424000,
+      "uuid": "329348fa-8862-4fda-91f4-8c7a2ed04a60"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/BulletHell.prefab": {
+      "time": 1746427807000,
+      "uuid": "c93b2303-7f2c-4a6c-b362-e3394e32faf1"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/bullet.prefab": {
+      "time": 1746427813000,
+      "uuid": "10207235-ed29-422a-98ac-58c5c14e3575"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/ghost.prefab": {
+      "time": 1746427841000,
+      "uuid": "a7792874-245f-4507-b288-dca28576c2c9"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/gun.prefab": {
+      "time": 1746274609000,
+      "uuid": "6f22c883-e51d-406b-92df-9034d6ffe08c"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/player.prefab": {
+      "time": 1746427851000,
+      "uuid": "881ab165-9759-4328-bbe9-b8885ba87c55"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/skill.prefab": {
+      "time": 1746427865000,
+      "uuid": "28040096-9dbc-461a-bd60-14f739b234ae"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/snailTail.prefab": {
+      "time": 1746427869000,
+      "uuid": "8a64d5cb-a728-4926-982d-77f5550c3561"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill1.anim": {
+      "time": 1746274423000,
+      "uuid": "e95b689e-25d3-4b10-a5be-c97778c022e0"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill1.png": {
+      "time": 1746274423000,
+      "uuid": "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill2.png": {
+      "time": 1746274423000,
+      "uuid": "851181b1-fd71-4211-a39d-2cc8e4af90dd"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill3.png": {
+      "time": 1746274423000,
+      "uuid": "970b19b0-5d56-49c6-a496-69f39efb6497"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill4.png": {
+      "time": 1746274423000,
+      "uuid": "92fa089a-9fc2-4ae0-b690-e295fe4c4b88"
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill5.png": {
+      "time": 1746274423000,
+      "uuid": "d9f901fe-ac88-4fd8-8dee-77f14afaea4b"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/texture/en/image.jpg": {
+      "time": 1746418793000,
+      "uuid": "3d5b607a-face-426b-8200-acf8384108db"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/texture/zh/image.jpg": {
+      "time": 1746418793000,
+      "uuid": "a65eaaec-d315-4134-a79e-23bb817d1939"
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/config.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/main.scene.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/Joystick/Joystick.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/project.manifest.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/version.manifest.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/material3d.mtl.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/moveUV.mtl.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/Ghost.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/bullet.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/SnailTail.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/ninja.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/bb1.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/main/prefabs/GameMain.prefab.meta": {
+      "time": 1746430832000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/common/prefab/netinstable.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/common/prefab/notify.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/common/texture/loading.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/loading/texture/panel_loading_bottom_frame.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/loading/texture/icon_loading_bar.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/common/prefab/window.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/res/loading/texture/bg.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/config/game/Language.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/json/en.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/json/zh.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/loading/prefab/loading.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/BulletHell.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/json/en.ttf.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/bullet.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/json/zh.ttf.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/ghost.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/Joystick/texture/inner.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/Joystick/texture/round.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/gun.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/player.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/skill.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/prefabs/bulletHell/snailTail.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill1.anim.meta": {
+      "time": 1746274423000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill1.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill2.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill3.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill4.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/bundle/battle/textrues/skill1/skill5.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/texture/en/image.jpg.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/SSD 1/ccProject/assets/resources/language/texture/zh/image.jpg.meta": {
+      "time": 1746418793000
     }
   },
   "missing": {
