@@ -10,11 +10,11 @@ import { LayerType, UIConfig } from "../../../../../extensions/oops-plugin-frame
 export enum UIID {
     /** 资源加载界面 */
     Loading = 1,
-    Main
+    GameMain
 }
 
 /** 打开界面方式的配置数据 */
 export var UIConfigData: { [key: number]: UIConfig } = {
     [UIID.Loading]: { layer: LayerType.UI, prefab: "loading/prefab/loading", bundle: "resources" },
-    [UIID.Main]: { layer: LayerType.UI, prefab: "main/prefabs/main", bundle: "bundle"},
+    [UIID.GameMain]: { layer: LayerType.UI, prefab: "main/prefabs/GameMain", bundle: "bundle"},
 }

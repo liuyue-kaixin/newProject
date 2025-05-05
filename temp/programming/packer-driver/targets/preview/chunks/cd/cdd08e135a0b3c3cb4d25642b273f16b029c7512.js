@@ -36,7 +36,7 @@ System.register(["cc"], function (_export, _context) {
         onLoad() {
           this._median = this.duration / 2; // 获取材质
 
-          this._material = this.node.getComponent(Sprite).getMaterial(0); // 设置材质对应的属性
+          this._material = this.node.getComponent(Sprite).getSharedMaterial(0); // 设置材质对应的属性
 
           this._material.setProperty("u_rate", 1);
         }

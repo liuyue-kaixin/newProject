@@ -33,7 +33,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
       /** 界面唯一标识（方便服务器通过编号数据触发界面打开） */
       _export("UIID", UIID = /*#__PURE__*/function (UIID) {
         UIID[UIID["Loading"] = 1] = "Loading";
-        UIID[UIID["Main"] = 2] = "Main";
+        UIID[UIID["GameMain"] = 2] = "GameMain";
         return UIID;
       }({}));
       /** 打开界面方式的配置数据 */
@@ -47,11 +47,11 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
           prefab: "loading/prefab/loading",
           bundle: "resources"
         },
-        [UIID.Main]: {
+        [UIID.GameMain]: {
           layer: (_crd && LayerType === void 0 ? (_reportPossibleCrUseOfLayerType({
             error: Error()
           }), LayerType) : LayerType).UI,
-          prefab: "main/prefabs/main",
+          prefab: "main/prefabs/GameMain",
           bundle: "bundle"
         }
       });

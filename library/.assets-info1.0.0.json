@@ -415,7 +415,7 @@
       "uuid": "11349493-059b-466d-8a63-bc29a4d895cd"
     },
     "/Volumes/固态/ccProject/assets/script": {
-      "time": 1746422759000,
+      "time": 1746430237000,
       "uuid": "c71845dc-9d65-4d6d-8aca-dcb8079e4aae"
     },
     "/Volumes/固态/ccProject/assets/res/common": {
@@ -443,7 +443,7 @@
       "uuid": "c2392cff-8a0b-4baa-95de-e3bfe2999f3c"
     },
     "/Volumes/固态/ccProject/assets/script/game": {
-      "time": 1746418793000,
+      "time": 1746430864000,
       "uuid": "b8688d91-9274-40b5-a605-23ee4e5a4eec"
     },
     "/Volumes/固态/ccProject/assets/res/common/texture": {
@@ -486,10 +486,6 @@
       "time": 1746418793000,
       "uuid": "c0e162ab-0190-4687-abe4-c16c332d72bc"
     },
-    "/Volumes/固态/ccProject/assets/script/game/demo": {
-      "time": 1746422815000,
-      "uuid": "877de6e7-ad53-4ed6-9410-6948b470660c"
-    },
     "/Volumes/固态/ccProject/assets/script/game/initialize": {
       "time": 1746418793000,
       "uuid": "4325eaa8-a4b2-47d4-9c38-1b0d046e0b5b"
@@ -503,7 +499,7 @@
       "uuid": "c03f86e4-9b94-4703-a944-93c83c0c07fd"
     },
     "/Volumes/固态/ccProject/assets/script/game/common/config": {
-      "time": 1746418793000,
+      "time": 1746431130000,
       "uuid": "61074860-e9b7-4908-b0b8-5dd4eaea38d6"
     },
     "/Volumes/固态/ccProject/assets/script/game/common/ecs": {
@@ -526,10 +522,6 @@
       "time": 1746418793000,
       "uuid": "33c06a92-3daf-4c45-b4d4-39fd6efbb491"
     },
-    "/Volumes/固态/ccProject/assets/script/game/demo/Demo.ts": {
-      "time": 1746422815000,
-      "uuid": "46770dbb-ecc5-4250-99ad-b71fcaaadfda"
-    },
     "/Volumes/固态/ccProject/assets/script/game/initialize/Initialize.ts": {
       "time": 1746418793000,
       "uuid": "ffbce42c-e99f-48a0-8e73-ea6b756af330"
@@ -539,7 +531,7 @@
       "uuid": "28ac0ad6-53bf-471a-9256-ae7c8ad351a7"
     },
     "/Volumes/固态/ccProject/assets/script/game/common/config/GameUIConfig.ts": {
-      "time": 1746429303000,
+      "time": 1746430873000,
       "uuid": "ffa5cdbb-3d85-42be-80bb-63b60eca5ffc"
     },
     "/Volumes/固态/ccProject/assets/script/game/common/ecs/SingletonModuleComp.ts": {
@@ -551,7 +543,7 @@
       "uuid": "2ee0cf3e-ed1f-4414-a41b-f8e3e7f66964"
     },
     "/Volumes/固态/ccProject/assets/script/game/initialize/view/LoadingViewComp.ts": {
-      "time": 1746427396000,
+      "time": 1746432161000,
       "uuid": "92429ca4-4e7c-450a-b706-c96e7c2568e3"
     },
     "/Volumes/固态/ccProject/assets/res.meta": {
@@ -614,9 +606,6 @@
     "/Volumes/固态/ccProject/assets/script/game/common.meta": {
       "time": 1746418793000
     },
-    "/Volumes/固态/ccProject/assets/script/game/demo.meta": {
-      "time": 1746418793000
-    },
     "/Volumes/固态/ccProject/assets/script/game/initialize.meta": {
       "time": 1746418793000
     },
@@ -642,9 +631,6 @@
       "time": 1746418793000
     },
     "/Volumes/固态/ccProject/assets/script/game/account/Account.ts.meta": {
-      "time": 1746418793000
-    },
-    "/Volumes/固态/ccProject/assets/script/game/demo/Demo.ts.meta": {
       "time": 1746418793000
     },
     "/Volumes/固态/ccProject/assets/script/game/initialize/Initialize.ts.meta": {
@@ -807,12 +793,6 @@
     "/Volumes/固态/ccProject/assets/bundle/battle/Joystick.meta": {
       "time": 1746274602000
     },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos.meta": {
-      "time": 1746274602000
-    },
     "/Volumes/固态/ccProject/assets/bundle/battle/effect.meta": {
       "time": 1746274602000
     },
@@ -822,37 +802,7 @@
     "/Volumes/固态/ccProject/assets/bundle/battle/textrues.meta": {
       "time": 1746274602000
     },
-    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/Joystick.ts.meta": {
-      "time": 1746274602000
-    },
     "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/texture.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/AILib.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Agent.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Body.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Collider.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Maths.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Object.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Shape.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions.meta": {
       "time": 1746274602000
     },
     "/Volumes/固态/ccProject/assets/bundle/battle/effect/moveUV.effect.meta": {
@@ -870,63 +820,16 @@
     "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1.meta": {
       "time": 1746274602000
     },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bullet.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bulletHell.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/detector.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/enemy.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/ghost.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/gun.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/player.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/skill.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/snailTail.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/Camera3D.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/Config.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/demo2d.ts.meta": {
-      "time": 1746274602000
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/demo3d.ts.meta": {
-      "time": 1746274602000
-    },
     "/Volumes/固态/ccProject/assets/bundle": {
       "time": 1746426984000,
       "uuid": "2541ef24-edf2-4d70-829f-f339d5773702"
     },
     "/Volumes/固态/ccProject/assets/bundle/battle/Joystick": {
-      "time": 1746274424000,
+      "time": 1746430269000,
       "uuid": "be767544-e8bd-4abc-9f5e-839165d70f45"
     },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision": {
-      "time": 1746274424000,
-      "uuid": "c5baf42d-39d2-4b12-8490-134f48794b0b"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos": {
-      "time": 1746274957000,
-      "uuid": "543df115-de6a-4334-a7eb-d038a1461dac"
-    },
     "/Volumes/固态/ccProject/assets/bundle/battle": {
-      "time": 1746427033000,
+      "time": 1746430259000,
       "uuid": "5f01baac-103e-4e5e-92bd-bcf1869c9f77"
     },
     "/Volumes/固态/ccProject/assets/bundle/battle/effect": {
@@ -944,46 +847,6 @@
     "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/texture": {
       "time": 1746274424000,
       "uuid": "27c54470-b67d-4641-bc8e-f43899abd359"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/Joystick.ts": {
-      "time": 1746274424000,
-      "uuid": "690837d4-6828-40c1-8d01-63474bede24b"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/AILib.ts": {
-      "time": 1746274424000,
-      "uuid": "e200aacb-5a04-4ad9-a115-77799beb9ba7"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Agent.ts": {
-      "time": 1746274424000,
-      "uuid": "27880b8d-662f-424c-bc03-cc34ced420d1"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Body.ts": {
-      "time": 1746274424000,
-      "uuid": "35d5e698-33d7-49c2-ba8f-b24111279140"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Collider.ts": {
-      "time": 1746274424000,
-      "uuid": "e991894f-6409-4d11-9182-d646fff5caa8"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Maths.ts": {
-      "time": 1746274424000,
-      "uuid": "82beda41-8436-469b-b114-074b809e3527"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell": {
-      "time": 1746274424000,
-      "uuid": "1591bb1a-b26e-4179-9cbf-4498f81158e9"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions": {
-      "time": 1746274424000,
-      "uuid": "eb84b418-2731-443c-b2b5-d79e0b63064e"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Object.ts": {
-      "time": 1746274424000,
-      "uuid": "f834e33c-a449-4ea8-9ef5-ed8cff5edf7e"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Shape.ts": {
-      "time": 1746274424000,
-      "uuid": "83d948db-2e76-45ee-856c-d964358c92be"
     },
     "/Volumes/固态/ccProject/assets/bundle/battle/effect/moveUV.effect": {
       "time": 1746274602000,
@@ -1004,58 +867,6 @@
     "/Volumes/固态/ccProject/assets/bundle/battle/effect/sprite3d.effect": {
       "time": 1746274602000,
       "uuid": "d47c07b0-7352-4518-9dec-1ed02aecc971"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bullet.ts": {
-      "time": 1746274424000,
-      "uuid": "10c41c33-3906-4d02-925b-37c288ba162b"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bulletHell.ts": {
-      "time": 1746429310000,
-      "uuid": "14305c80-c89d-4c8d-9bb8-afbb05a3529a"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/detector.ts": {
-      "time": 1746274424000,
-      "uuid": "d96b64ad-1c49-42a8-b88b-4060f3cc0dfc"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/enemy.ts": {
-      "time": 1746274424000,
-      "uuid": "ab37b69b-c891-4384-8e62-ac860bb01b70"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/ghost.ts": {
-      "time": 1746274424000,
-      "uuid": "a6edb24b-b960-4693-b556-7a1cf733ea36"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/gun.ts": {
-      "time": 1746274424000,
-      "uuid": "fe09de8f-f51f-4d67-b660-d9867f6c9e60"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/player.ts": {
-      "time": 1746274424000,
-      "uuid": "069bf3d5-88c3-4866-8872-9e014b2d59c4"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/skill.ts": {
-      "time": 1746274424000,
-      "uuid": "2fede599-2a9c-436e-8a70-a3b8c1cf72a8"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/snailTail.ts": {
-      "time": 1746274424000,
-      "uuid": "d2a8a52c-b729-4735-bca1-cc71918616ca"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/Camera3D.ts": {
-      "time": 1746274424000,
-      "uuid": "449d7ca5-091e-4d8e-9662-036c8e17a364"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/Config.ts": {
-      "time": 1746274424000,
-      "uuid": "30590317-fea2-4a81-a0bc-b7419ce719a1"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/demo2d.ts": {
-      "time": 1746274424000,
-      "uuid": "aec980dd-85c4-4063-bed1-e9cde4a4b35a"
-    },
-    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/demo3d.ts": {
-      "time": 1746274424000,
-      "uuid": "66d84727-9d0d-4bfc-90b7-396d1b0d93ff"
     },
     "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/Joystick.prefab.meta": {
       "time": 1746274609000
@@ -1229,15 +1040,204 @@
       "time": 1746427132000
     },
     "/Volumes/固态/ccProject/assets/bundle/main/prefabs": {
-      "time": 1746427135000,
+      "time": 1746430832000,
       "uuid": "ab165d15-d832-486a-9981-b2a8f6c0745b"
     },
-    "/Volumes/固态/ccProject/assets/bundle/main/prefabs/main.prefab.meta": {
-      "time": 1746426996000
+    "/Volumes/固态/ccProject/assets/script/battle.meta": {
+      "time": 1746430237000
     },
-    "/Volumes/固态/ccProject/assets/bundle/main/prefabs/main.prefab": {
-      "time": 1746429236000,
+    "/Volumes/固态/ccProject/assets/script/battle": {
+      "time": 1746430269000,
+      "uuid": "b13b5f37-c0ba-400f-bd13-d2f07a144182"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision": {
+      "time": 1746274424000,
+      "uuid": "c5baf42d-39d2-4b12-8490-134f48794b0b"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/AILib.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/AILib.ts": {
+      "time": 1746274424000,
+      "uuid": "e200aacb-5a04-4ad9-a115-77799beb9ba7"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Agent.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Agent.ts": {
+      "time": 1746274424000,
+      "uuid": "27880b8d-662f-424c-bc03-cc34ced420d1"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Body.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Body.ts": {
+      "time": 1746274424000,
+      "uuid": "35d5e698-33d7-49c2-ba8f-b24111279140"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Collider.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Collider.ts": {
+      "time": 1746274424000,
+      "uuid": "e991894f-6409-4d11-9182-d646fff5caa8"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos": {
+      "time": 1746274957000,
+      "uuid": "543df115-de6a-4334-a7eb-d038a1461dac"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell": {
+      "time": 1746274424000,
+      "uuid": "1591bb1a-b26e-4179-9cbf-4498f81158e9"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Maths.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Maths.ts": {
+      "time": 1746274424000,
+      "uuid": "82beda41-8436-469b-b114-074b809e3527"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/collisions.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/collisions": {
+      "time": 1746432018000,
+      "uuid": "eb84b418-2731-443c-b2b5-d79e0b63064e"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Object.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Object.ts": {
+      "time": 1746274424000,
+      "uuid": "f834e33c-a449-4ea8-9ef5-ed8cff5edf7e"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Shape.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/collision/Shape.ts": {
+      "time": 1746274424000,
+      "uuid": "83d948db-2e76-45ee-856c-d964358c92be"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/bullet.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/bullet.ts": {
+      "time": 1746430403000,
+      "uuid": "10c41c33-3906-4d02-925b-37c288ba162b"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/bulletHell.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/bulletHell.ts": {
+      "time": 1746432770000,
+      "uuid": "14305c80-c89d-4c8d-9bb8-afbb05a3529a"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/detector.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/detector.ts": {
+      "time": 1746431670000,
+      "uuid": "d96b64ad-1c49-42a8-b88b-4060f3cc0dfc"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/enemy.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/enemy.ts": {
+      "time": 1746431724000,
+      "uuid": "ab37b69b-c891-4384-8e62-ac860bb01b70"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/ghost.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/ghost.ts": {
+      "time": 1746430589000,
+      "uuid": "a6edb24b-b960-4693-b556-7a1cf733ea36"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/gun.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/gun.ts": {
+      "time": 1746431779000,
+      "uuid": "fe09de8f-f51f-4d67-b660-d9867f6c9e60"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/player.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/player.ts": {
+      "time": 1746431769000,
+      "uuid": "069bf3d5-88c3-4866-8872-9e014b2d59c4"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/skill.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/skill.ts": {
+      "time": 1746431792000,
+      "uuid": "2fede599-2a9c-436e-8a70-a3b8c1cf72a8"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/snailTail.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/bulletHell/snailTail.ts": {
+      "time": 1746431838000,
+      "uuid": "d2a8a52c-b729-4735-bca1-cc71918616ca"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/collisions/Camera3D.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/collisions/Camera3D.ts": {
+      "time": 1746431945000,
+      "uuid": "449d7ca5-091e-4d8e-9662-036c8e17a364"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/collisions/Config.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/demos/collisions/Config.ts": {
+      "time": 1746274424000,
+      "uuid": "30590317-fea2-4a81-a0bc-b7419ce719a1"
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/Joystick.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/script/battle/Joystick.ts": {
+      "time": 1746274424000,
+      "uuid": "690837d4-6828-40c1-8d01-63474bede24b"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/main/prefabs/GameMain.prefab.meta": {
+      "time": 1746430832000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/main/prefabs/GameMain.prefab": {
+      "time": 1746432746000,
       "uuid": "5b6511a4-181b-4c81-9f9c-51e4c21b4d64"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/gameMain.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/gameMain": {
+      "time": 1746430842000,
+      "uuid": "877de6e7-ad53-4ed6-9410-6948b470660c"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/gameMain/GameMain.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/gameMain/GameMain.ts": {
+      "time": 1746430910000,
+      "uuid": "46770dbb-ecc5-4250-99ad-b71fcaaadfda"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/config/ConstDefine.ts.meta": {
+      "time": 1746431130000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/config/ConstDefine.ts": {
+      "time": 1746432538000,
+      "uuid": "128b8f58-7fe9-48b1-875f-ed7d35487d6c"
     }
   },
   "missing": {
@@ -1287,9 +1287,9 @@
       "removeTime": 1746426822864
     },
     "5b6511a4-181b-4c81-9f9c-51e4c21b4d64": {
-      "path": "/Volumes/固态/ccProject/assets/bundle/main/main.prefab",
-      "time": 1746427051000,
-      "removeTime": 1746427135558
+      "path": "/Volumes/固态/ccProject/assets/bundle/main/prefabs/gameMain.prefab",
+      "time": 1746430802000,
+      "removeTime": 1746430832016
     },
     "8082dcd2-510f-4867-b2f1-c377843e16b4": {
       "path": "/Volumes/固态/project/assets/resources/gui",
@@ -1305,6 +1305,141 @@
       "path": "/Volumes/固态/ccProject/assets/bundle/battle/main.ts",
       "time": 1746274424000,
       "removeTime": 1746427033116
+    },
+    "c5baf42d-39d2-4b12-8490-134f48794b0b": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/collision",
+      "time": 1746274424000,
+      "removeTime": 1746430259070
+    },
+    "e200aacb-5a04-4ad9-a115-77799beb9ba7": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/collision/AILib.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259071
+    },
+    "27880b8d-662f-424c-bc03-cc34ced420d1": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/collision/Agent.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259072
+    },
+    "35d5e698-33d7-49c2-ba8f-b24111279140": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/collision/Body.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259072
+    },
+    "e991894f-6409-4d11-9182-d646fff5caa8": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/collision/Collider.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259073
+    },
+    "82beda41-8436-469b-b114-074b809e3527": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/collision/Maths.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259073
+    },
+    "f834e33c-a449-4ea8-9ef5-ed8cff5edf7e": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/collision/Object.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259073
+    },
+    "83d948db-2e76-45ee-856c-d964358c92be": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/collision/Shape.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259074
+    },
+    "543df115-de6a-4334-a7eb-d038a1461dac": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos",
+      "time": 1746274957000,
+      "removeTime": 1746430259081
+    },
+    "1591bb1a-b26e-4179-9cbf-4498f81158e9": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell",
+      "time": 1746274424000,
+      "removeTime": 1746430259082
+    },
+    "eb84b418-2731-443c-b2b5-d79e0b63064e": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions",
+      "time": 1746274424000,
+      "removeTime": 1746430259082
+    },
+    "10c41c33-3906-4d02-925b-37c288ba162b": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bullet.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259083
+    },
+    "14305c80-c89d-4c8d-9bb8-afbb05a3529a": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bulletHell.ts",
+      "time": 1746429310000,
+      "removeTime": 1746430259084
+    },
+    "d96b64ad-1c49-42a8-b88b-4060f3cc0dfc": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/detector.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259084
+    },
+    "ab37b69b-c891-4384-8e62-ac860bb01b70": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/enemy.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259085
+    },
+    "a6edb24b-b960-4693-b556-7a1cf733ea36": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/ghost.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259085
+    },
+    "fe09de8f-f51f-4d67-b660-d9867f6c9e60": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/gun.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259086
+    },
+    "069bf3d5-88c3-4866-8872-9e014b2d59c4": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/player.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259086
+    },
+    "2fede599-2a9c-436e-8a70-a3b8c1cf72a8": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/skill.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259087
+    },
+    "d2a8a52c-b729-4735-bca1-cc71918616ca": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/snailTail.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259087
+    },
+    "449d7ca5-091e-4d8e-9662-036c8e17a364": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/Camera3D.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259088
+    },
+    "30590317-fea2-4a81-a0bc-b7419ce719a1": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/Config.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430259088
+    },
+    "aec980dd-85c4-4063-bed1-e9cde4a4b35a": {
+      "path": "/Volumes/固态/ccProject/assets/script/battle/demos/collisions/demo2d.ts",
+      "time": 1746274424000,
+      "removeTime": 1746432005551
+    },
+    "66d84727-9d0d-4bfc-90b7-396d1b0d93ff": {
+      "path": "/Volumes/固态/ccProject/assets/script/battle/demos/collisions/demo3d.ts",
+      "time": 1746274424000,
+      "removeTime": 1746432018540
+    },
+    "690837d4-6828-40c1-8d01-63474bede24b": {
+      "path": "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/Joystick.ts",
+      "time": 1746274424000,
+      "removeTime": 1746430269937
+    },
+    "46770dbb-ecc5-4250-99ad-b71fcaaadfda": {
+      "path": "/Volumes/固态/ccProject/assets/script/game/demo/GameMain.ts",
+      "time": 1746422815000,
+      "removeTime": 1746430864890
+    },
+    "877de6e7-ad53-4ed6-9410-6948b470660c": {
+      "path": "/Volumes/固态/ccProject/assets/script/game/demo",
+      "time": 1746430842000,
+      "removeTime": 1746430864890
     }
   }
 }

@@ -50,7 +50,7 @@ System.register(["cc"], function (_export, _context) {
         }
 
         update(dt) {
-          this._material = this.node.getComponent(Sprite).getMaterial(0);
+          this._material = this.node.getComponent(Sprite).getSharedMaterial(0);
 
           if (this.node.active && this._material) {
             this._setShaderTime(dt);

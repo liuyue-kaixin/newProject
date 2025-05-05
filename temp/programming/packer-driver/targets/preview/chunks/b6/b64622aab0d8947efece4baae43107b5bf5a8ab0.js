@@ -110,7 +110,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
               error: Error()
             }), oops) : oops).gui.open((_crd && UIID === void 0 ? (_reportPossibleCrUseOfUIID({
               error: Error()
-            }), UIID) : UIID).Main);
+            }), UIID) : UIID).GameMain);
           }, 500);
         }
 

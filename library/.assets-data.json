@@ -110,7 +110,7 @@
     "versionCode": 1
   },
   "877de6e7-ad53-4ed6-9410-6948b470660c": {
-    "url": "db://assets/script/game/demo",
+    "url": "db://assets/script/game/gameMain",
     "value": {},
     "versionCode": 1
   },
@@ -160,7 +160,7 @@
     "versionCode": 1
   },
   "46770dbb-ecc5-4250-99ad-b71fcaaadfda": {
-    "url": "db://assets/script/game/demo/Demo.ts",
+    "url": "db://assets/script/game/gameMain/GameMain.ts",
     "value": {},
     "versionCode": 1
   },
@@ -352,7 +352,7 @@
     "versionCode": 1
   },
   "5b6511a4-181b-4c81-9f9c-51e4c21b4d64": {
-    "url": "db://assets/bundle/main/prefabs/main.prefab",
+    "url": "db://assets/bundle/main/prefabs/GameMain.prefab",
     "value": {
       "depends": [
         "c93b2303-7f2c-4a6c-b362-e3394e32faf1",
@@ -499,12 +499,12 @@
     "versionCode": 1
   },
   "c5baf42d-39d2-4b12-8490-134f48794b0b": {
-    "url": "db://assets/bundle/battle/collision",
+    "url": "db://assets/script/battle/collision",
     "value": {},
     "versionCode": 1
   },
   "543df115-de6a-4334-a7eb-d038a1461dac": {
-    "url": "db://assets/bundle/battle/demos",
+    "url": "db://assets/script/battle/demos",
     "value": {},
     "versionCode": 1
   },
@@ -534,7 +534,7 @@
     "versionCode": 1
   },
   "690837d4-6828-40c1-8d01-63474bede24b": {
-    "url": "db://assets/bundle/battle/Joystick/Joystick.ts",
+    "url": "db://assets/script/battle/Joystick.ts",
     "value": {},
     "versionCode": 1
   },
@@ -544,47 +544,47 @@
     "versionCode": 1
   },
   "e200aacb-5a04-4ad9-a115-77799beb9ba7": {
-    "url": "db://assets/bundle/battle/collision/AILib.ts",
+    "url": "db://assets/script/battle/collision/AILib.ts",
     "value": {},
     "versionCode": 1
   },
   "27880b8d-662f-424c-bc03-cc34ced420d1": {
-    "url": "db://assets/bundle/battle/collision/Agent.ts",
+    "url": "db://assets/script/battle/collision/Agent.ts",
     "value": {},
     "versionCode": 1
   },
   "35d5e698-33d7-49c2-ba8f-b24111279140": {
-    "url": "db://assets/bundle/battle/collision/Body.ts",
+    "url": "db://assets/script/battle/collision/Body.ts",
     "value": {},
     "versionCode": 1
   },
   "e991894f-6409-4d11-9182-d646fff5caa8": {
-    "url": "db://assets/bundle/battle/collision/Collider.ts",
+    "url": "db://assets/script/battle/collision/Collider.ts",
     "value": {},
     "versionCode": 1
   },
   "82beda41-8436-469b-b114-074b809e3527": {
-    "url": "db://assets/bundle/battle/collision/Maths.ts",
+    "url": "db://assets/script/battle/collision/Maths.ts",
     "value": {},
     "versionCode": 1
   },
   "f834e33c-a449-4ea8-9ef5-ed8cff5edf7e": {
-    "url": "db://assets/bundle/battle/collision/Object.ts",
+    "url": "db://assets/script/battle/collision/Object.ts",
     "value": {},
     "versionCode": 1
   },
   "83d948db-2e76-45ee-856c-d964358c92be": {
-    "url": "db://assets/bundle/battle/collision/Shape.ts",
+    "url": "db://assets/script/battle/collision/Shape.ts",
     "value": {},
     "versionCode": 1
   },
   "1591bb1a-b26e-4179-9cbf-4498f81158e9": {
-    "url": "db://assets/bundle/battle/demos/bulletHell",
+    "url": "db://assets/script/battle/demos/bulletHell",
     "value": {},
     "versionCode": 1
   },
   "eb84b418-2731-443c-b2b5-d79e0b63064e": {
-    "url": "db://assets/bundle/battle/demos/collisions",
+    "url": "db://assets/script/battle/demos/collisions",
     "value": {},
     "versionCode": 1
   },
@@ -630,67 +630,67 @@
     "versionCode": 1
   },
   "10c41c33-3906-4d02-925b-37c288ba162b": {
-    "url": "db://assets/bundle/battle/demos/bulletHell/bullet.ts",
+    "url": "db://assets/script/battle/demos/bulletHell/bullet.ts",
     "value": {},
     "versionCode": 1
   },
   "14305c80-c89d-4c8d-9bb8-afbb05a3529a": {
-    "url": "db://assets/bundle/battle/demos/bulletHell/bulletHell.ts",
+    "url": "db://assets/script/battle/demos/bulletHell/bulletHell.ts",
     "value": {},
     "versionCode": 1
   },
   "d96b64ad-1c49-42a8-b88b-4060f3cc0dfc": {
-    "url": "db://assets/bundle/battle/demos/bulletHell/detector.ts",
+    "url": "db://assets/script/battle/demos/bulletHell/detector.ts",
     "value": {},
     "versionCode": 1
   },
   "ab37b69b-c891-4384-8e62-ac860bb01b70": {
-    "url": "db://assets/bundle/battle/demos/bulletHell/enemy.ts",
+    "url": "db://assets/script/battle/demos/bulletHell/enemy.ts",
     "value": {},
     "versionCode": 1
   },
   "a6edb24b-b960-4693-b556-7a1cf733ea36": {
-    "url": "db://assets/bundle/battle/demos/bulletHell/ghost.ts",
+    "url": "db://assets/script/battle/demos/bulletHell/ghost.ts",
     "value": {},
     "versionCode": 1
   },
   "fe09de8f-f51f-4d67-b660-d9867f6c9e60": {
-    "url": "db://assets/bundle/battle/demos/bulletHell/gun.ts",
+    "url": "db://assets/script/battle/demos/bulletHell/gun.ts",
     "value": {},
     "versionCode": 1
   },
   "069bf3d5-88c3-4866-8872-9e014b2d59c4": {
-    "url": "db://assets/bundle/battle/demos/bulletHell/player.ts",
+    "url": "db://assets/script/battle/demos/bulletHell/player.ts",
     "value": {},
     "versionCode": 1
   },
   "2fede599-2a9c-436e-8a70-a3b8c1cf72a8": {
-    "url": "db://assets/bundle/battle/demos/bulletHell/skill.ts",
+    "url": "db://assets/script/battle/demos/bulletHell/skill.ts",
     "value": {},
     "versionCode": 1
   },
   "d2a8a52c-b729-4735-bca1-cc71918616ca": {
-    "url": "db://assets/bundle/battle/demos/bulletHell/snailTail.ts",
+    "url": "db://assets/script/battle/demos/bulletHell/snailTail.ts",
     "value": {},
     "versionCode": 1
   },
   "449d7ca5-091e-4d8e-9662-036c8e17a364": {
-    "url": "db://assets/bundle/battle/demos/collisions/Camera3D.ts",
+    "url": "db://assets/script/battle/demos/collisions/Camera3D.ts",
     "value": {},
     "versionCode": 1
   },
   "30590317-fea2-4a81-a0bc-b7419ce719a1": {
-    "url": "db://assets/bundle/battle/demos/collisions/Config.ts",
+    "url": "db://assets/script/battle/demos/collisions/Config.ts",
     "value": {},
     "versionCode": 1
   },
   "aec980dd-85c4-4063-bed1-e9cde4a4b35a": {
-    "url": "db://assets/bundle/battle/demos/collisions/demo2d.ts",
+    "url": "db://assets/script/battle/demos/collisions/demo2d.ts",
     "value": {},
     "versionCode": 1
   },
   "66d84727-9d0d-4bfc-90b7-396d1b0d93ff": {
-    "url": "db://assets/bundle/battle/demos/collisions/demo3d.ts",
+    "url": "db://assets/script/battle/demos/collisions/demo3d.ts",
     "value": {},
     "versionCode": 1
   },
@@ -1179,6 +1179,16 @@
   },
   "ab165d15-d832-486a-9981-b2a8f6c0745b": {
     "url": "db://assets/bundle/main/prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "b13b5f37-c0ba-400f-bd13-d2f07a144182": {
+    "url": "db://assets/script/battle",
+    "value": {},
+    "versionCode": 1
+  },
+  "128b8f58-7fe9-48b1-875f-ed7d35487d6c": {
+    "url": "db://assets/script/game/common/config/ConstDefine.ts",
     "value": {},
     "versionCode": 1
   }

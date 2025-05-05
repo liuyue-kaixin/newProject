@@ -976,11 +976,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 19067.417932,
+      "mTimestamp": 3102042.502276,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/Joystick/Joystick.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/Main.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -989,2596 +989,2435 @@
             },
             "end": {
               "line": 5,
-              "column": 123
+              "column": 103
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/AILib.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/Joystick.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
               "line": 5,
-              "column": 139
+              "column": 119
             },
             "end": {
               "line": 5,
-              "column": 225
+              "column": 198
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Agent.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/AILib.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
               "line": 5,
-              "column": 241
+              "column": 214
             },
             "end": {
               "line": 5,
-              "column": 327
+              "column": 300
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Body.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Agent.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
               "line": 5,
-              "column": 343
+              "column": 316
             },
             "end": {
               "line": 5,
-              "column": 428
+              "column": 402
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Collider.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Body.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
               "line": 5,
-              "column": 444
+              "column": 418
             },
             "end": {
               "line": 5,
-              "column": 533
+              "column": 503
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Maths.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Collider.ts",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
               "line": 5,
-              "column": 549
+              "column": 519
             },
             "end": {
               "line": 5,
-              "column": 635
+              "column": 608
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Object.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Maths.ts",
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
               "line": 5,
-              "column": 651
+              "column": 624
             },
             "end": {
               "line": 5,
-              "column": 738
+              "column": 710
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Shape.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts",
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
               "line": 5,
-              "column": 754
+              "column": 726
             },
             "end": {
               "line": 5,
-              "column": 840
+              "column": 813
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/bullet.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Shape.ts",
           "resolved": "__unresolved_8",
           "loc": {
             "start": {
               "line": 5,
-              "column": 856
+              "column": 829
             },
             "end": {
               "line": 5,
-              "column": 950
+              "column": 915
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/bulletHell.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/bullet.ts",
           "resolved": "__unresolved_9",
           "loc": {
             "start": {
               "line": 5,
-              "column": 966
+              "column": 931
             },
             "end": {
               "line": 5,
-              "column": 1064
+              "column": 1025
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/detector.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/bulletHell.ts",
           "resolved": "__unresolved_10",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1080
+              "column": 1041
             },
             "end": {
               "line": 5,
-              "column": 1176
+              "column": 1139
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/enemy.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/detector.ts",
           "resolved": "__unresolved_11",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1192
+              "column": 1155
             },
             "end": {
               "line": 5,
-              "column": 1285
+              "column": 1251
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/ghost.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/enemy.ts",
           "resolved": "__unresolved_12",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1301
+              "column": 1267
             },
             "end": {
               "line": 5,
-              "column": 1394
+              "column": 1360
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/gun.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/ghost.ts",
           "resolved": "__unresolved_13",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1410
+              "column": 1376
             },
             "end": {
               "line": 5,
-              "column": 1501
+              "column": 1469
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/player.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/gun.ts",
           "resolved": "__unresolved_14",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1517
+              "column": 1485
             },
             "end": {
               "line": 5,
-              "column": 1611
+              "column": 1576
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/skill.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/player.ts",
           "resolved": "__unresolved_15",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1627
+              "column": 1592
             },
             "end": {
               "line": 5,
-              "column": 1720
+              "column": 1686
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/snailTail.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/skill.ts",
           "resolved": "__unresolved_16",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1736
+              "column": 1702
             },
             "end": {
               "line": 5,
-              "column": 1833
+              "column": 1795
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/collisions/Camera3D.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/snailTail.ts",
           "resolved": "__unresolved_17",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1849
+              "column": 1811
             },
             "end": {
               "line": 5,
-              "column": 1945
+              "column": 1908
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/collisions/Config.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/collisions/Camera3D.ts",
           "resolved": "__unresolved_18",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1961
+              "column": 1924
             },
             "end": {
               "line": 5,
-              "column": 2055
+              "column": 2020
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/collisions/demo2d.ts",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/collisions/Config.ts",
           "resolved": "__unresolved_19",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2071
+              "column": 2036
             },
             "end": {
               "line": 5,
-              "column": 2165
-            }
-          }
-        },
-        {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/collisions/demo3d.ts",
-          "resolved": "__unresolved_20",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 2181
-            },
-            "end": {
-              "line": 5,
-              "column": 2275
-            }
-          }
-        },
-        {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/Main.ts",
-          "resolved": "__unresolved_21",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 2291
-            },
-            "end": {
-              "line": 5,
-              "column": 2359
+              "column": 2130
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/account/Account.ts",
-          "resolved": "__unresolved_22",
+          "resolved": "__unresolved_20",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2375
+              "column": 2146
             },
             "end": {
               "line": 5,
-              "column": 2459
+              "column": 2230
+            }
+          }
+        },
+        {
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/common/config/ConstDefine.ts",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2246
+            },
+            "end": {
+              "line": 5,
+              "column": 2340
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/common/config/GameEvent.ts",
-          "resolved": "__unresolved_23",
+          "resolved": "__unresolved_22",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2475
+              "column": 2356
             },
             "end": {
               "line": 5,
-              "column": 2567
+              "column": 2448
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/common/config/GameUIConfig.ts",
-          "resolved": "__unresolved_24",
+          "resolved": "__unresolved_23",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2583
+              "column": 2464
             },
             "end": {
               "line": 5,
-              "column": 2678
+              "column": 2559
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/common/ecs/SingletonModuleComp.ts",
-          "resolved": "__unresolved_25",
+          "resolved": "__unresolved_24",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2694
+              "column": 2575
             },
             "end": {
               "line": 5,
-              "column": 2793
+              "column": 2674
             }
           }
         },
         {
-          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/demo/Demo.ts",
-          "resolved": "__unresolved_26",
+          "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/gameMain/GameMain.ts",
+          "resolved": "__unresolved_25",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2809
+              "column": 2690
             },
             "end": {
               "line": 5,
-              "column": 2887
+              "column": 2776
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/initialize/Initialize.ts",
-          "resolved": "__unresolved_27",
+          "resolved": "__unresolved_26",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2903
+              "column": 2792
             },
             "end": {
               "line": 5,
-              "column": 2993
+              "column": 2882
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/initialize/bll/InitRes.ts",
-          "resolved": "__unresolved_28",
+          "resolved": "__unresolved_27",
           "loc": {
             "start": {
               "line": 5,
-              "column": 3009
+              "column": 2898
             },
             "end": {
               "line": 5,
-              "column": 3100
+              "column": 2989
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/initialize/view/LoadingViewComp.ts",
-          "resolved": "__unresolved_29",
+          "resolved": "__unresolved_28",
           "loc": {
             "start": {
               "line": 5,
-              "column": 3116
+              "column": 3005
             },
             "end": {
               "line": 5,
-              "column": 3216
+              "column": 3105
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/Oops.ts",
-          "resolved": "__unresolved_30",
+          "resolved": "__unresolved_29",
           "loc": {
             "start": {
               "line": 5,
-              "column": 3232
+              "column": 3121
             },
             "end": {
               "line": 5,
-              "column": 3331
+              "column": 3220
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/Root.ts",
-          "resolved": "__unresolved_31",
+          "resolved": "__unresolved_30",
           "loc": {
             "start": {
               "line": 5,
-              "column": 3347
+              "column": 3236
             },
             "end": {
               "line": 5,
-              "column": 3446
+              "column": 3335
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/audio/AudioEffect.ts",
-          "resolved": "__unresolved_32",
+          "resolved": "__unresolved_31",
           "loc": {
             "start": {
               "line": 5,
-              "column": 3462
+              "column": 3351
             },
             "end": {
               "line": 5,
-              "column": 3581
+              "column": 3470
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/audio/AudioManager.ts",
-          "resolved": "__unresolved_33",
+          "resolved": "__unresolved_32",
           "loc": {
             "start": {
               "line": 5,
-              "column": 3597
+              "column": 3486
             },
             "end": {
               "line": 5,
-              "column": 3717
+              "column": 3606
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/audio/AudioMusic.ts",
-          "resolved": "__unresolved_34",
+          "resolved": "__unresolved_33",
           "loc": {
             "start": {
               "line": 5,
-              "column": 3733
+              "column": 3622
             },
             "end": {
               "line": 5,
-              "column": 3851
+              "column": 3740
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/event/EventDispatcher.ts",
-          "resolved": "__unresolved_35",
+          "resolved": "__unresolved_34",
           "loc": {
             "start": {
               "line": 5,
-              "column": 3867
+              "column": 3756
             },
             "end": {
               "line": 5,
-              "column": 3990
+              "column": 3879
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/event/EventMessage.ts",
-          "resolved": "__unresolved_36",
+          "resolved": "__unresolved_35",
           "loc": {
             "start": {
               "line": 5,
-              "column": 4006
+              "column": 3895
             },
             "end": {
               "line": 5,
-              "column": 4126
+              "column": 4015
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/event/MessageManager.ts",
-          "resolved": "__unresolved_37",
+          "resolved": "__unresolved_36",
           "loc": {
             "start": {
               "line": 5,
-              "column": 4142
+              "column": 4031
             },
             "end": {
               "line": 5,
-              "column": 4264
+              "column": 4153
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/loader/ResLoader.ts",
-          "resolved": "__unresolved_38",
+          "resolved": "__unresolved_37",
           "loc": {
             "start": {
               "line": 5,
-              "column": 4280
+              "column": 4169
             },
             "end": {
               "line": 5,
-              "column": 4398
+              "column": 4287
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/log/Logger.ts",
-          "resolved": "__unresolved_39",
+          "resolved": "__unresolved_38",
           "loc": {
             "start": {
               "line": 5,
-              "column": 4414
+              "column": 4303
             },
             "end": {
               "line": 5,
-              "column": 4526
+              "column": 4415
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/random/RandomManager.ts",
-          "resolved": "__unresolved_40",
+          "resolved": "__unresolved_39",
           "loc": {
             "start": {
               "line": 5,
-              "column": 4542
+              "column": 4431
             },
             "end": {
               "line": 5,
-              "column": 4664
+              "column": 4553
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/storage/StorageManager.ts",
-          "resolved": "__unresolved_41",
+          "resolved": "__unresolved_40",
           "loc": {
             "start": {
               "line": 5,
-              "column": 4680
+              "column": 4569
             },
             "end": {
               "line": 5,
-              "column": 4804
+              "column": 4693
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/timer/Timer.ts",
-          "resolved": "__unresolved_42",
+          "resolved": "__unresolved_41",
           "loc": {
             "start": {
               "line": 5,
-              "column": 4820
+              "column": 4709
             },
             "end": {
               "line": 5,
-              "column": 4933
+              "column": 4822
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/common/timer/TimerManager.ts",
-          "resolved": "__unresolved_43",
+          "resolved": "__unresolved_42",
           "loc": {
             "start": {
               "line": 5,
-              "column": 4949
+              "column": 4838
             },
             "end": {
               "line": 5,
-              "column": 5069
+              "column": 4958
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/game/GameManager.ts",
-          "resolved": "__unresolved_44",
+          "resolved": "__unresolved_43",
           "loc": {
             "start": {
               "line": 5,
-              "column": 5085
+              "column": 4974
             },
             "end": {
               "line": 5,
-              "column": 5196
+              "column": 5085
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/GUI.ts",
-          "resolved": "__unresolved_45",
+          "resolved": "__unresolved_44",
           "loc": {
             "start": {
               "line": 5,
-              "column": 5212
+              "column": 5101
             },
             "end": {
               "line": 5,
-              "column": 5314
+              "column": 5203
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/layer/Defines.ts",
-          "resolved": "__unresolved_46",
+          "resolved": "__unresolved_45",
           "loc": {
             "start": {
               "line": 5,
-              "column": 5330
+              "column": 5219
             },
             "end": {
               "line": 5,
-              "column": 5442
+              "column": 5331
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/layer/DelegateComponent.ts",
-          "resolved": "__unresolved_47",
+          "resolved": "__unresolved_46",
           "loc": {
             "start": {
               "line": 5,
-              "column": 5458
+              "column": 5347
             },
             "end": {
               "line": 5,
-              "column": 5580
+              "column": 5469
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/layer/LayerDialog.ts",
-          "resolved": "__unresolved_48",
+          "resolved": "__unresolved_47",
           "loc": {
             "start": {
               "line": 5,
-              "column": 5596
+              "column": 5485
             },
             "end": {
               "line": 5,
-              "column": 5712
+              "column": 5601
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/layer/LayerManager.ts",
-          "resolved": "__unresolved_49",
+          "resolved": "__unresolved_48",
           "loc": {
             "start": {
               "line": 5,
-              "column": 5728
+              "column": 5617
             },
             "end": {
               "line": 5,
-              "column": 5845
+              "column": 5734
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/layer/LayerNotify.ts",
-          "resolved": "__unresolved_50",
+          "resolved": "__unresolved_49",
           "loc": {
             "start": {
               "line": 5,
-              "column": 5861
+              "column": 5750
             },
             "end": {
               "line": 5,
-              "column": 5977
+              "column": 5866
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/layer/LayerPopup.ts",
-          "resolved": "__unresolved_51",
+          "resolved": "__unresolved_50",
           "loc": {
             "start": {
               "line": 5,
-              "column": 5993
+              "column": 5882
             },
             "end": {
               "line": 5,
-              "column": 6108
+              "column": 5997
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/layer/LayerUI.ts",
-          "resolved": "__unresolved_52",
+          "resolved": "__unresolved_51",
           "loc": {
             "start": {
               "line": 5,
-              "column": 6124
+              "column": 6013
             },
             "end": {
               "line": 5,
-              "column": 6236
+              "column": 6125
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/layer/UIMap.ts",
-          "resolved": "__unresolved_53",
+          "resolved": "__unresolved_52",
           "loc": {
             "start": {
               "line": 5,
-              "column": 6252
+              "column": 6141
             },
             "end": {
               "line": 5,
-              "column": 6362
+              "column": 6251
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/prompt/CommonPrompt.ts",
-          "resolved": "__unresolved_54",
+          "resolved": "__unresolved_53",
           "loc": {
             "start": {
               "line": 5,
-              "column": 6378
+              "column": 6267
             },
             "end": {
               "line": 5,
-              "column": 6496
+              "column": 6385
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/prompt/LoadingIndicator.ts",
-          "resolved": "__unresolved_55",
+          "resolved": "__unresolved_54",
           "loc": {
             "start": {
               "line": 5,
-              "column": 6512
+              "column": 6401
             },
             "end": {
               "line": 5,
-              "column": 6634
+              "column": 6523
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/gui/prompt/Notify.ts",
-          "resolved": "__unresolved_56",
+          "resolved": "__unresolved_55",
           "loc": {
             "start": {
               "line": 5,
-              "column": 6650
+              "column": 6539
             },
             "end": {
               "line": 5,
-              "column": 6762
+              "column": 6651
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/ArrayUtil.ts",
-          "resolved": "__unresolved_57",
+          "resolved": "__unresolved_56",
           "loc": {
             "start": {
               "line": 5,
-              "column": 6778
+              "column": 6667
             },
             "end": {
               "line": 5,
-              "column": 6888
+              "column": 6777
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/CameraUtil.ts",
-          "resolved": "__unresolved_58",
+          "resolved": "__unresolved_57",
           "loc": {
             "start": {
               "line": 5,
-              "column": 6904
+              "column": 6793
             },
             "end": {
               "line": 5,
-              "column": 7015
+              "column": 6904
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/EncryptUtil.ts",
-          "resolved": "__unresolved_59",
+          "resolved": "__unresolved_58",
           "loc": {
             "start": {
               "line": 5,
-              "column": 7031
+              "column": 6920
             },
             "end": {
               "line": 5,
-              "column": 7143
+              "column": 7032
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/ImageUtil.ts",
-          "resolved": "__unresolved_60",
+          "resolved": "__unresolved_59",
           "loc": {
             "start": {
               "line": 5,
-              "column": 7159
+              "column": 7048
             },
             "end": {
               "line": 5,
-              "column": 7269
+              "column": 7158
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/JsonUtil.ts",
-          "resolved": "__unresolved_61",
+          "resolved": "__unresolved_60",
           "loc": {
             "start": {
               "line": 5,
-              "column": 7285
+              "column": 7174
             },
             "end": {
               "line": 5,
-              "column": 7394
+              "column": 7283
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/LayerUtil.ts",
-          "resolved": "__unresolved_62",
+          "resolved": "__unresolved_61",
           "loc": {
             "start": {
               "line": 5,
-              "column": 7410
+              "column": 7299
             },
             "end": {
               "line": 5,
-              "column": 7520
+              "column": 7409
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/MathUtil.ts",
-          "resolved": "__unresolved_63",
+          "resolved": "__unresolved_62",
           "loc": {
             "start": {
               "line": 5,
-              "column": 7536
+              "column": 7425
             },
             "end": {
               "line": 5,
-              "column": 7645
+              "column": 7534
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/ObjectUtil.ts",
-          "resolved": "__unresolved_64",
+          "resolved": "__unresolved_63",
           "loc": {
             "start": {
               "line": 5,
-              "column": 7661
+              "column": 7550
             },
             "end": {
               "line": 5,
-              "column": 7772
+              "column": 7661
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/PhysicsUtil.ts",
-          "resolved": "__unresolved_65",
+          "resolved": "__unresolved_64",
           "loc": {
             "start": {
               "line": 5,
-              "column": 7788
+              "column": 7677
             },
             "end": {
               "line": 5,
-              "column": 7900
+              "column": 7789
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/PlatformUtil.ts",
-          "resolved": "__unresolved_66",
+          "resolved": "__unresolved_65",
           "loc": {
             "start": {
               "line": 5,
-              "column": 7916
+              "column": 7805
             },
             "end": {
               "line": 5,
-              "column": 8029
+              "column": 7918
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/RegexUtil.ts",
-          "resolved": "__unresolved_67",
+          "resolved": "__unresolved_66",
           "loc": {
             "start": {
               "line": 5,
-              "column": 8045
+              "column": 7934
             },
             "end": {
               "line": 5,
-              "column": 8155
+              "column": 8044
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/RotateUtil.ts",
-          "resolved": "__unresolved_68",
+          "resolved": "__unresolved_67",
           "loc": {
             "start": {
               "line": 5,
-              "column": 8171
+              "column": 8060
             },
             "end": {
               "line": 5,
-              "column": 8282
+              "column": 8171
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/StringUtil.ts",
-          "resolved": "__unresolved_69",
+          "resolved": "__unresolved_68",
           "loc": {
             "start": {
               "line": 5,
-              "column": 8298
+              "column": 8187
             },
             "end": {
               "line": 5,
-              "column": 8409
+              "column": 8298
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/Vec3Util.ts",
-          "resolved": "__unresolved_70",
+          "resolved": "__unresolved_69",
           "loc": {
             "start": {
               "line": 5,
-              "column": 8425
+              "column": 8314
             },
             "end": {
               "line": 5,
-              "column": 8534
+              "column": 8423
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/core/utils/ViewUtil.ts",
-          "resolved": "__unresolved_71",
+          "resolved": "__unresolved_70",
           "loc": {
             "start": {
               "line": 5,
-              "column": 8550
+              "column": 8439
             },
             "end": {
               "line": 5,
-              "column": 8659
+              "column": 8548
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/Ambilight.ts",
-          "resolved": "__unresolved_72",
+          "resolved": "__unresolved_71",
           "loc": {
             "start": {
               "line": 5,
-              "column": 8675
+              "column": 8564
             },
             "end": {
               "line": 5,
-              "column": 8798
+              "column": 8687
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/FlashSpine.ts",
-          "resolved": "__unresolved_73",
+          "resolved": "__unresolved_72",
           "loc": {
             "start": {
               "line": 5,
-              "column": 8814
+              "column": 8703
             },
             "end": {
               "line": 5,
-              "column": 8938
+              "column": 8827
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/FlashSprite.ts",
-          "resolved": "__unresolved_74",
+          "resolved": "__unresolved_73",
           "loc": {
             "start": {
               "line": 5,
-              "column": 8954
+              "column": 8843
             },
             "end": {
               "line": 5,
-              "column": 9079
+              "column": 8968
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/SpineFinishedRelease.ts",
-          "resolved": "__unresolved_75",
+          "resolved": "__unresolved_74",
           "loc": {
             "start": {
               "line": 5,
-              "column": 9095
+              "column": 8984
             },
             "end": {
               "line": 5,
-              "column": 9229
+              "column": 9118
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/3d/NavLine.ts",
-          "resolved": "__unresolved_76",
+          "resolved": "__unresolved_75",
           "loc": {
             "start": {
               "line": 5,
-              "column": 9245
+              "column": 9134
             },
             "end": {
               "line": 5,
-              "column": 9366
+              "column": 9255
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/3d/geometry/DrawMeshSector.ts",
-          "resolved": "__unresolved_77",
+          "resolved": "__unresolved_76",
           "loc": {
             "start": {
               "line": 5,
-              "column": 9382
+              "column": 9271
             },
             "end": {
               "line": 5,
-              "column": 9519
+              "column": 9408
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/Effect2DFollow3D.ts",
-          "resolved": "__unresolved_78",
+          "resolved": "__unresolved_77",
           "loc": {
             "start": {
               "line": 5,
-              "column": 9535
+              "column": 9424
             },
             "end": {
               "line": 5,
-              "column": 9662
+              "column": 9551
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectDelayRelease.ts",
-          "resolved": "__unresolved_79",
+          "resolved": "__unresolved_78",
           "loc": {
             "start": {
               "line": 5,
-              "column": 9678
+              "column": 9567
             },
             "end": {
               "line": 5,
-              "column": 9807
+              "column": 9696
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectEvent.ts",
-          "resolved": "__unresolved_80",
+          "resolved": "__unresolved_79",
           "loc": {
             "start": {
               "line": 5,
-              "column": 9823
+              "column": 9712
             },
             "end": {
               "line": 5,
-              "column": 9945
+              "column": 9834
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectFinishedRelease.ts",
-          "resolved": "__unresolved_81",
+          "resolved": "__unresolved_80",
           "loc": {
             "start": {
               "line": 5,
-              "column": 9961
+              "column": 9850
             },
             "end": {
               "line": 5,
-              "column": 10093
+              "column": 9982
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectSingleCase.ts",
-          "resolved": "__unresolved_82",
+          "resolved": "__unresolved_81",
           "loc": {
             "start": {
               "line": 5,
-              "column": 10109
+              "column": 9998
             },
             "end": {
               "line": 5,
-              "column": 10236
+              "column": 10125
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-move/MoveRigidBody.ts",
-          "resolved": "__unresolved_83",
+          "resolved": "__unresolved_82",
           "loc": {
             "start": {
               "line": 5,
-              "column": 10252
+              "column": 10141
             },
             "end": {
               "line": 5,
-              "column": 10374
+              "column": 10263
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-move/MoveTo.ts",
-          "resolved": "__unresolved_84",
+          "resolved": "__unresolved_83",
           "loc": {
             "start": {
               "line": 5,
-              "column": 10390
+              "column": 10279
             },
             "end": {
               "line": 5,
-              "column": 10505
+              "column": 10394
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-move/MoveTranslate.ts",
-          "resolved": "__unresolved_85",
+          "resolved": "__unresolved_84",
           "loc": {
             "start": {
               "line": 5,
-              "column": 10521
+              "column": 10410
             },
             "end": {
               "line": 5,
-              "column": 10643
+              "column": 10532
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/AnimatorAnimation.ts",
-          "resolved": "__unresolved_86",
+          "resolved": "__unresolved_85",
           "loc": {
             "start": {
               "line": 5,
-              "column": 10659
+              "column": 10548
             },
             "end": {
               "line": 5,
-              "column": 10780
+              "column": 10669
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/AnimatorCustomization.ts",
-          "resolved": "__unresolved_87",
+          "resolved": "__unresolved_86",
           "loc": {
             "start": {
               "line": 5,
-              "column": 10796
+              "column": 10685
             },
             "end": {
               "line": 5,
-              "column": 10921
+              "column": 10810
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/AnimatorDragonBones.ts",
-          "resolved": "__unresolved_88",
+          "resolved": "__unresolved_87",
           "loc": {
             "start": {
               "line": 5,
-              "column": 10937
+              "column": 10826
             },
             "end": {
               "line": 5,
-              "column": 11060
+              "column": 10949
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/AnimatorSkeletal.ts",
-          "resolved": "__unresolved_89",
+          "resolved": "__unresolved_88",
           "loc": {
             "start": {
               "line": 5,
-              "column": 11076
+              "column": 10965
             },
             "end": {
               "line": 5,
-              "column": 11196
+              "column": 11085
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/AnimatorSpine.ts",
-          "resolved": "__unresolved_90",
+          "resolved": "__unresolved_89",
           "loc": {
             "start": {
               "line": 5,
-              "column": 11212
+              "column": 11101
             },
             "end": {
               "line": 5,
-              "column": 11329
+              "column": 11218
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/AnimatorSpineSecondary.ts",
-          "resolved": "__unresolved_91",
+          "resolved": "__unresolved_90",
           "loc": {
             "start": {
               "line": 5,
-              "column": 11345
+              "column": 11234
             },
             "end": {
               "line": 5,
-              "column": 11471
+              "column": 11360
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorBase.ts",
-          "resolved": "__unresolved_92",
+          "resolved": "__unresolved_91",
           "loc": {
             "start": {
               "line": 5,
-              "column": 11487
+              "column": 11376
             },
             "end": {
               "line": 5,
-              "column": 11608
+              "column": 11497
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorCondition.ts",
-          "resolved": "__unresolved_93",
+          "resolved": "__unresolved_92",
           "loc": {
             "start": {
               "line": 5,
-              "column": 11624
+              "column": 11513
             },
             "end": {
               "line": 5,
-              "column": 11750
+              "column": 11639
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorController.ts",
-          "resolved": "__unresolved_94",
+          "resolved": "__unresolved_93",
           "loc": {
             "start": {
               "line": 5,
-              "column": 11766
+              "column": 11655
             },
             "end": {
               "line": 5,
-              "column": 11893
+              "column": 11782
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorParams.ts",
-          "resolved": "__unresolved_95",
+          "resolved": "__unresolved_94",
           "loc": {
             "start": {
               "line": 5,
-              "column": 11909
+              "column": 11798
             },
             "end": {
               "line": 5,
-              "column": 12032
+              "column": 11921
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorState.ts",
-          "resolved": "__unresolved_96",
+          "resolved": "__unresolved_95",
           "loc": {
             "start": {
               "line": 5,
-              "column": 12048
+              "column": 11937
             },
             "end": {
               "line": 5,
-              "column": 12170
+              "column": 12059
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorStateLogic.ts",
-          "resolved": "__unresolved_97",
+          "resolved": "__unresolved_96",
           "loc": {
             "start": {
               "line": 5,
-              "column": 12186
+              "column": 12075
             },
             "end": {
               "line": 5,
-              "column": 12313
+              "column": 12202
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorTransition.ts",
-          "resolved": "__unresolved_98",
+          "resolved": "__unresolved_97",
           "loc": {
             "start": {
               "line": 5,
-              "column": 12329
+              "column": 12218
             },
             "end": {
               "line": 5,
-              "column": 12456
+              "column": 12345
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/behavior-tree/BTreeNode.ts",
-          "resolved": "__unresolved_99",
+          "resolved": "__unresolved_98",
           "loc": {
             "start": {
               "line": 5,
-              "column": 12472
+              "column": 12361
             },
             "end": {
               "line": 5,
-              "column": 12590
+              "column": 12479
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/behavior-tree/BehaviorTree.ts",
-          "resolved": "__unresolved_100",
+          "resolved": "__unresolved_99",
           "loc": {
             "start": {
               "line": 5,
-              "column": 12606
+              "column": 12495
             },
             "end": {
               "line": 5,
-              "column": 12727
+              "column": 12616
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/behavior-tree/BranchNode.ts",
-          "resolved": "__unresolved_101",
+          "resolved": "__unresolved_100",
           "loc": {
             "start": {
               "line": 5,
-              "column": 12743
+              "column": 12632
             },
             "end": {
               "line": 5,
-              "column": 12862
+              "column": 12751
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/behavior-tree/Decorator.ts",
-          "resolved": "__unresolved_102",
+          "resolved": "__unresolved_101",
           "loc": {
             "start": {
               "line": 5,
-              "column": 12878
+              "column": 12767
             },
             "end": {
               "line": 5,
-              "column": 12996
+              "column": 12885
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/behavior-tree/IControl.ts",
-          "resolved": "__unresolved_103",
+          "resolved": "__unresolved_102",
           "loc": {
             "start": {
               "line": 5,
-              "column": 13012
+              "column": 12901
             },
             "end": {
               "line": 5,
-              "column": 13129
+              "column": 13018
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/behavior-tree/Priority.ts",
-          "resolved": "__unresolved_104",
+          "resolved": "__unresolved_103",
           "loc": {
             "start": {
               "line": 5,
-              "column": 13145
+              "column": 13034
             },
             "end": {
               "line": 5,
-              "column": 13262
+              "column": 13151
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/behavior-tree/Selector.ts",
-          "resolved": "__unresolved_105",
+          "resolved": "__unresolved_104",
           "loc": {
             "start": {
               "line": 5,
-              "column": 13278
+              "column": 13167
             },
             "end": {
               "line": 5,
-              "column": 13395
+              "column": 13284
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/behavior-tree/Sequence.ts",
-          "resolved": "__unresolved_106",
+          "resolved": "__unresolved_105",
           "loc": {
             "start": {
               "line": 5,
-              "column": 13411
+              "column": 13300
             },
             "end": {
               "line": 5,
-              "column": 13528
+              "column": 13417
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/behavior-tree/Task.ts",
-          "resolved": "__unresolved_107",
+          "resolved": "__unresolved_106",
           "loc": {
             "start": {
               "line": 5,
-              "column": 13544
+              "column": 13433
             },
             "end": {
               "line": 5,
-              "column": 13657
+              "column": 13546
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/behavior-tree/index.ts",
-          "resolved": "__unresolved_108",
+          "resolved": "__unresolved_107",
           "loc": {
             "start": {
               "line": 5,
-              "column": 13673
+              "column": 13562
             },
             "end": {
               "line": 5,
-              "column": 13787
+              "column": 13676
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/camera/FreeFlightCamera.ts",
-          "resolved": "__unresolved_109",
+          "resolved": "__unresolved_108",
           "loc": {
             "start": {
               "line": 5,
-              "column": 13803
+              "column": 13692
             },
             "end": {
               "line": 5,
-              "column": 13921
+              "column": 13810
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/camera/OrbitCamera.ts",
-          "resolved": "__unresolved_110",
+          "resolved": "__unresolved_109",
           "loc": {
             "start": {
               "line": 5,
-              "column": 13937
+              "column": 13826
             },
             "end": {
               "line": 5,
-              "column": 14050
+              "column": 13939
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/collection/AsyncQueue.ts",
-          "resolved": "__unresolved_111",
+          "resolved": "__unresolved_110",
           "loc": {
             "start": {
               "line": 5,
-              "column": 14066
+              "column": 13955
             },
             "end": {
               "line": 5,
-              "column": 14182
+              "column": 14071
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/collection/Collection.ts",
-          "resolved": "__unresolved_112",
+          "resolved": "__unresolved_111",
           "loc": {
             "start": {
               "line": 5,
-              "column": 14198
+              "column": 14087
             },
             "end": {
               "line": 5,
-              "column": 14314
+              "column": 14203
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/ecs/ECS.ts",
-          "resolved": "__unresolved_113",
+          "resolved": "__unresolved_112",
           "loc": {
             "start": {
               "line": 5,
-              "column": 14330
+              "column": 14219
             },
             "end": {
               "line": 5,
-              "column": 14432
+              "column": 14321
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/ecs/ECSComp.ts",
-          "resolved": "__unresolved_114",
+          "resolved": "__unresolved_113",
           "loc": {
             "start": {
               "line": 5,
-              "column": 14448
+              "column": 14337
             },
             "end": {
               "line": 5,
-              "column": 14554
+              "column": 14443
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/ecs/ECSEntity.ts",
-          "resolved": "__unresolved_115",
+          "resolved": "__unresolved_114",
           "loc": {
             "start": {
               "line": 5,
-              "column": 14570
+              "column": 14459
             },
             "end": {
               "line": 5,
-              "column": 14678
+              "column": 14567
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/ecs/ECSGroup.ts",
-          "resolved": "__unresolved_116",
+          "resolved": "__unresolved_115",
           "loc": {
             "start": {
               "line": 5,
-              "column": 14694
+              "column": 14583
             },
             "end": {
               "line": 5,
-              "column": 14801
+              "column": 14690
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/ecs/ECSMask.ts",
-          "resolved": "__unresolved_117",
+          "resolved": "__unresolved_116",
           "loc": {
             "start": {
               "line": 5,
-              "column": 14817
+              "column": 14706
             },
             "end": {
               "line": 5,
-              "column": 14923
+              "column": 14812
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/ecs/ECSMatcher.ts",
-          "resolved": "__unresolved_118",
+          "resolved": "__unresolved_117",
           "loc": {
             "start": {
               "line": 5,
-              "column": 14939
+              "column": 14828
             },
             "end": {
               "line": 5,
-              "column": 15048
+              "column": 14937
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/ecs/ECSModel.ts",
-          "resolved": "__unresolved_119",
+          "resolved": "__unresolved_118",
           "loc": {
             "start": {
               "line": 5,
-              "column": 15064
+              "column": 14953
             },
             "end": {
               "line": 5,
-              "column": 15171
+              "column": 15060
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/ecs/ECSSystem.ts",
-          "resolved": "__unresolved_120",
+          "resolved": "__unresolved_119",
           "loc": {
             "start": {
               "line": 5,
-              "column": 15187
+              "column": 15076
             },
             "end": {
               "line": 5,
-              "column": 15295
+              "column": 15184
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/badge/Badge.ts",
-          "resolved": "__unresolved_121",
+          "resolved": "__unresolved_120",
           "loc": {
             "start": {
               "line": 5,
-              "column": 15311
+              "column": 15200
             },
             "end": {
               "line": 5,
-              "column": 15421
+              "column": 15310
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/badge/RoundRectMask.ts",
-          "resolved": "__unresolved_122",
+          "resolved": "__unresolved_121",
           "loc": {
             "start": {
               "line": 5,
-              "column": 15437
+              "column": 15326
             },
             "end": {
               "line": 5,
-              "column": 15555
+              "column": 15444
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/button/ButtonEffect.ts",
-          "resolved": "__unresolved_123",
+          "resolved": "__unresolved_122",
           "loc": {
             "start": {
               "line": 5,
-              "column": 15571
+              "column": 15460
             },
             "end": {
               "line": 5,
-              "column": 15689
+              "column": 15578
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/button/ButtonSimple.ts",
-          "resolved": "__unresolved_124",
+          "resolved": "__unresolved_123",
           "loc": {
             "start": {
               "line": 5,
-              "column": 15705
+              "column": 15594
             },
             "end": {
               "line": 5,
-              "column": 15823
+              "column": 15712
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/button/ButtonTouchLong.ts",
-          "resolved": "__unresolved_125",
+          "resolved": "__unresolved_124",
           "loc": {
             "start": {
               "line": 5,
-              "column": 15839
+              "column": 15728
             },
             "end": {
               "line": 5,
-              "column": 15960
+              "column": 15849
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/label/LabelChange.ts",
-          "resolved": "__unresolved_126",
+          "resolved": "__unresolved_125",
           "loc": {
             "start": {
               "line": 5,
-              "column": 15976
+              "column": 15865
             },
             "end": {
               "line": 5,
-              "column": 16092
+              "column": 15981
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/label/LabelNumber.ts",
-          "resolved": "__unresolved_127",
+          "resolved": "__unresolved_126",
           "loc": {
             "start": {
               "line": 5,
-              "column": 16108
+              "column": 15997
             },
             "end": {
               "line": 5,
-              "column": 16224
+              "column": 16113
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/label/LabelTime.ts",
-          "resolved": "__unresolved_128",
+          "resolved": "__unresolved_127",
           "loc": {
             "start": {
               "line": 5,
-              "column": 16240
+              "column": 16129
             },
             "end": {
               "line": 5,
-              "column": 16354
+              "column": 16243
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/language/Language.ts",
-          "resolved": "__unresolved_129",
+          "resolved": "__unresolved_128",
           "loc": {
             "start": {
               "line": 5,
-              "column": 16370
+              "column": 16259
             },
             "end": {
               "line": 5,
-              "column": 16486
+              "column": 16375
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageData.ts",
-          "resolved": "__unresolved_130",
+          "resolved": "__unresolved_129",
           "loc": {
             "start": {
               "line": 5,
-              "column": 16502
+              "column": 16391
             },
             "end": {
               "line": 5,
-              "column": 16622
+              "column": 16511
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageLabel.ts",
-          "resolved": "__unresolved_131",
+          "resolved": "__unresolved_130",
           "loc": {
             "start": {
               "line": 5,
-              "column": 16638
+              "column": 16527
             },
             "end": {
               "line": 5,
-              "column": 16759
+              "column": 16648
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/language/LanguagePack.ts",
-          "resolved": "__unresolved_132",
+          "resolved": "__unresolved_131",
           "loc": {
             "start": {
               "line": 5,
-              "column": 16775
+              "column": 16664
             },
             "end": {
               "line": 5,
-              "column": 16895
+              "column": 16784
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageSpine.ts",
-          "resolved": "__unresolved_133",
+          "resolved": "__unresolved_132",
           "loc": {
             "start": {
               "line": 5,
-              "column": 16911
+              "column": 16800
             },
             "end": {
               "line": 5,
-              "column": 17032
+              "column": 16921
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageSprite.ts",
-          "resolved": "__unresolved_134",
+          "resolved": "__unresolved_133",
           "loc": {
             "start": {
               "line": 5,
-              "column": 17048
+              "column": 16937
             },
             "end": {
               "line": 5,
-              "column": 17170
+              "column": 17059
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/JsonOb.ts",
-          "resolved": "__unresolved_135",
+          "resolved": "__unresolved_134",
           "loc": {
             "start": {
               "line": 5,
-              "column": 17186
+              "column": 17075
             },
             "end": {
               "line": 5,
-              "column": 17298
+              "column": 17187
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/StringFormat.ts",
-          "resolved": "__unresolved_136",
+          "resolved": "__unresolved_135",
           "loc": {
             "start": {
               "line": 5,
-              "column": 17314
+              "column": 17203
             },
             "end": {
               "line": 5,
-              "column": 17432
+              "column": 17321
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/VMBase.ts",
-          "resolved": "__unresolved_137",
+          "resolved": "__unresolved_136",
           "loc": {
             "start": {
               "line": 5,
-              "column": 17448
+              "column": 17337
             },
             "end": {
               "line": 5,
-              "column": 17560
+              "column": 17449
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/VMCompsEdit.ts",
-          "resolved": "__unresolved_138",
+          "resolved": "__unresolved_137",
           "loc": {
             "start": {
               "line": 5,
-              "column": 17576
+              "column": 17465
             },
             "end": {
               "line": 5,
-              "column": 17693
+              "column": 17582
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/VMCustom.ts",
-          "resolved": "__unresolved_139",
+          "resolved": "__unresolved_138",
           "loc": {
             "start": {
               "line": 5,
-              "column": 17709
+              "column": 17598
             },
             "end": {
               "line": 5,
-              "column": 17823
+              "column": 17712
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/VMEnv.ts",
-          "resolved": "__unresolved_140",
+          "resolved": "__unresolved_139",
           "loc": {
             "start": {
               "line": 5,
-              "column": 17839
+              "column": 17728
             },
             "end": {
               "line": 5,
-              "column": 17950
+              "column": 17839
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/VMEvent.ts",
-          "resolved": "__unresolved_141",
+          "resolved": "__unresolved_140",
           "loc": {
             "start": {
               "line": 5,
-              "column": 17966
+              "column": 17855
             },
             "end": {
               "line": 5,
-              "column": 18079
+              "column": 17968
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/VMLabel.ts",
-          "resolved": "__unresolved_142",
+          "resolved": "__unresolved_141",
           "loc": {
             "start": {
               "line": 5,
-              "column": 18095
+              "column": 17984
             },
             "end": {
               "line": 5,
-              "column": 18208
+              "column": 18097
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/VMModify.ts",
-          "resolved": "__unresolved_143",
+          "resolved": "__unresolved_142",
           "loc": {
             "start": {
               "line": 5,
-              "column": 18224
+              "column": 18113
             },
             "end": {
               "line": 5,
-              "column": 18338
+              "column": 18227
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/VMParent.ts",
-          "resolved": "__unresolved_144",
+          "resolved": "__unresolved_143",
           "loc": {
             "start": {
               "line": 5,
-              "column": 18354
+              "column": 18243
             },
             "end": {
               "line": 5,
-              "column": 18468
+              "column": 18357
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/VMProgress.ts",
-          "resolved": "__unresolved_145",
+          "resolved": "__unresolved_144",
           "loc": {
             "start": {
               "line": 5,
-              "column": 18484
+              "column": 18373
             },
             "end": {
               "line": 5,
-              "column": 18600
+              "column": 18489
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/VMState.ts",
-          "resolved": "__unresolved_146",
+          "resolved": "__unresolved_145",
           "loc": {
             "start": {
               "line": 5,
-              "column": 18616
+              "column": 18505
             },
             "end": {
               "line": 5,
-              "column": 18729
+              "column": 18618
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/ViewModel.ts",
-          "resolved": "__unresolved_147",
+          "resolved": "__unresolved_146",
           "loc": {
             "start": {
               "line": 5,
-              "column": 18745
+              "column": 18634
             },
             "end": {
               "line": 5,
-              "column": 18860
+              "column": 18749
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvButtonGroup.ts",
-          "resolved": "__unresolved_148",
+          "resolved": "__unresolved_147",
           "loc": {
             "start": {
               "line": 5,
-              "column": 18876
+              "column": 18765
             },
             "end": {
               "line": 5,
-              "column": 18999
+              "column": 18888
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvFrameIndex.ts",
-          "resolved": "__unresolved_149",
+          "resolved": "__unresolved_148",
           "loc": {
             "start": {
               "line": 5,
-              "column": 19015
+              "column": 18904
             },
             "end": {
               "line": 5,
-              "column": 19137
+              "column": 19026
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvRollNumber.ts",
-          "resolved": "__unresolved_150",
+          "resolved": "__unresolved_149",
           "loc": {
             "start": {
               "line": 5,
-              "column": 19153
+              "column": 19042
             },
             "end": {
               "line": 5,
-              "column": 19275
+              "column": 19164
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvSwitchPage.ts",
-          "resolved": "__unresolved_151",
+          "resolved": "__unresolved_150",
           "loc": {
             "start": {
               "line": 5,
-              "column": 19291
+              "column": 19180
             },
             "end": {
               "line": 5,
-              "column": 19413
+              "column": 19302
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/network/HttpRequest.ts",
-          "resolved": "__unresolved_152",
+          "resolved": "__unresolved_151",
           "loc": {
             "start": {
               "line": 5,
-              "column": 19429
+              "column": 19318
             },
             "end": {
               "line": 5,
-              "column": 19543
+              "column": 19432
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/network/NetInterface.ts",
-          "resolved": "__unresolved_153",
+          "resolved": "__unresolved_152",
           "loc": {
             "start": {
               "line": 5,
-              "column": 19559
+              "column": 19448
             },
             "end": {
               "line": 5,
-              "column": 19674
+              "column": 19563
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/network/NetManager.ts",
-          "resolved": "__unresolved_154",
+          "resolved": "__unresolved_153",
           "loc": {
             "start": {
               "line": 5,
-              "column": 19690
+              "column": 19579
             },
             "end": {
               "line": 5,
-              "column": 19803
+              "column": 19692
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/network/NetNode.ts",
-          "resolved": "__unresolved_155",
+          "resolved": "__unresolved_154",
           "loc": {
             "start": {
               "line": 5,
-              "column": 19819
+              "column": 19708
             },
             "end": {
               "line": 5,
-              "column": 19929
+              "column": 19818
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/network/NetProtocolPako.ts",
-          "resolved": "__unresolved_156",
+          "resolved": "__unresolved_155",
           "loc": {
             "start": {
               "line": 5,
-              "column": 19945
+              "column": 19834
             },
             "end": {
               "line": 5,
-              "column": 20063
+              "column": 19952
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/network/NetProtocolProtobuf.ts",
-          "resolved": "__unresolved_157",
+          "resolved": "__unresolved_156",
           "loc": {
             "start": {
               "line": 5,
-              "column": 20079
+              "column": 19968
             },
             "end": {
               "line": 5,
-              "column": 20201
+              "column": 20090
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/network/WebSock.ts",
-          "resolved": "__unresolved_158",
+          "resolved": "__unresolved_157",
           "loc": {
             "start": {
               "line": 5,
-              "column": 20217
+              "column": 20106
             },
             "end": {
               "line": 5,
-              "column": 20327
+              "column": 20216
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/render-texture/RtToModel.ts",
-          "resolved": "__unresolved_159",
+          "resolved": "__unresolved_158",
           "loc": {
             "start": {
               "line": 5,
-              "column": 20343
+              "column": 20232
             },
             "end": {
               "line": 5,
-              "column": 20462
+              "column": 20351
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/render-texture/RtToSprite.ts",
-          "resolved": "__unresolved_160",
+          "resolved": "__unresolved_159",
           "loc": {
             "start": {
               "line": 5,
-              "column": 20478
+              "column": 20367
             },
             "end": {
               "line": 5,
-              "column": 20598
+              "column": 20487
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/module/common/CCComp.ts",
-          "resolved": "__unresolved_161",
+          "resolved": "__unresolved_160",
           "loc": {
             "start": {
               "line": 5,
-              "column": 20614
+              "column": 20503
             },
             "end": {
               "line": 5,
-              "column": 20724
+              "column": 20613
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/module/common/CCVMParentComp.ts",
-          "resolved": "__unresolved_162",
+          "resolved": "__unresolved_161",
           "loc": {
             "start": {
               "line": 5,
-              "column": 20740
+              "column": 20629
             },
             "end": {
               "line": 5,
-              "column": 20858
+              "column": 20747
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/module/common/GameCollision.ts",
-          "resolved": "__unresolved_163",
+          "resolved": "__unresolved_162",
           "loc": {
             "start": {
               "line": 5,
-              "column": 20874
+              "column": 20763
             },
             "end": {
               "line": 5,
-              "column": 20991
+              "column": 20880
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/module/common/GameComponent.ts",
-          "resolved": "__unresolved_164",
+          "resolved": "__unresolved_163",
           "loc": {
             "start": {
               "line": 5,
-              "column": 21007
+              "column": 20896
             },
             "end": {
               "line": 5,
-              "column": 21124
+              "column": 21013
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/module/config/BuildTimeConstants.ts",
-          "resolved": "__unresolved_165",
+          "resolved": "__unresolved_164",
           "loc": {
             "start": {
               "line": 5,
-              "column": 21140
+              "column": 21029
             },
             "end": {
               "line": 5,
-              "column": 21262
+              "column": 21151
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/module/config/Config.ts",
-          "resolved": "__unresolved_166",
+          "resolved": "__unresolved_165",
           "loc": {
             "start": {
               "line": 5,
-              "column": 21278
+              "column": 21167
             },
             "end": {
               "line": 5,
-              "column": 21388
+              "column": 21277
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/module/config/GameConfig.ts",
-          "resolved": "__unresolved_167",
+          "resolved": "__unresolved_166",
           "loc": {
             "start": {
               "line": 5,
-              "column": 21404
+              "column": 21293
             },
             "end": {
               "line": 5,
-              "column": 21518
+              "column": 21407
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/module/config/GameQueryConfig.ts",
-          "resolved": "__unresolved_168",
+          "resolved": "__unresolved_167",
           "loc": {
             "start": {
               "line": 5,
-              "column": 21534
+              "column": 21423
             },
             "end": {
               "line": 5,
-              "column": 21653
+              "column": 21542
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-dof-pass.ts",
-          "resolved": "__unresolved_169",
+          "resolved": "__unresolved_168",
           "loc": {
             "start": {
               "line": 5,
-              "column": 21669
+              "column": 21558
             },
             "end": {
               "line": 5,
-              "column": 21845
+              "column": 21734
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-pass.ts",
-          "resolved": "__unresolved_170",
+          "resolved": "__unresolved_169",
           "loc": {
             "start": {
               "line": 5,
-              "column": 21861
+              "column": 21750
             },
             "end": {
               "line": 5,
-              "column": 22042
+              "column": 21931
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-settings.ts",
-          "resolved": "__unresolved_171",
+          "resolved": "__unresolved_170",
           "loc": {
             "start": {
               "line": 5,
-              "column": 22058
+              "column": 21947
             },
             "end": {
               "line": 5,
-              "column": 22243
+              "column": 22132
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-types.ts",
-          "resolved": "__unresolved_172",
+          "resolved": "__unresolved_171",
           "loc": {
             "start": {
               "line": 5,
-              "column": 22259
+              "column": 22148
             },
             "end": {
               "line": 5,
-              "column": 22441
+              "column": 22330
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts",
-          "resolved": "__unresolved_173",
+          "resolved": "__unresolved_172",
           "loc": {
             "start": {
               "line": 5,
-              "column": 22457
+              "column": 22346
             },
             "end": {
               "line": 5,
-              "column": 22633
+              "column": 22522
             }
           }
         },
         {
           "value": "file:///Volumes/%E5%9B%BA%E6%80%81/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
-          "resolved": "__unresolved_174",
+          "resolved": "__unresolved_173",
           "loc": {
             "start": {
               "line": 5,
-              "column": 22649
+              "column": 22538
             },
             "end": {
               "line": 5,
-              "column": 22818
+              "column": 22707
             }
           }
         }
       ],
       "type": "esm",
       "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/Joystick/Joystick.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/AILib.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Agent.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Body.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Collider.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Maths.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Object.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Shape.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/bullet.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/bulletHell.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/detector.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/enemy.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/ghost.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/gun.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/player.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/skill.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/bulletHell/snailTail.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/collisions/Camera3D.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/collisions/Config.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/collisions/demo2d.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/demos/collisions/demo3d.ts"
-          },
-          "messages": []
-        },
         {
           "resolved": {
             "type": "module",
@@ -3589,7 +3428,147 @@
         {
           "resolved": {
             "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/Joystick.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/AILib.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Agent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Body.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Collider.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Maths.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Shape.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/bullet.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/bulletHell.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/detector.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/enemy.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/ghost.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/gun.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/player.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/skill.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/snailTail.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/collisions/Camera3D.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/collisions/Config.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
             "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/account/Account.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/common/config/ConstDefine.ts"
           },
           "messages": []
         },
@@ -3617,7 +3596,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/demo/Demo.ts"
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/gameMain/GameMain.ts"
           },
           "messages": []
         },
@@ -18580,7 +18559,7 @@
     },
     "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/common/config/GameUIConfig.ts": {
       "mTimestamp": {
-        "mtime": 1746429303000,
+        "mtime": 1746430873000,
         "uuid": "ffa5cdbb-3d85-42be-80bb-63b60eca5ffc"
       },
       "chunkId": "3502465c08e8df8a809257eb627d29786a05308f",
@@ -18974,7 +18953,7 @@
     },
     "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/initialize/view/LoadingViewComp.ts": {
       "mTimestamp": {
-        "mtime": 1746427396000,
+        "mtime": 1746432161000,
         "uuid": "92429ca4-4e7c-450a-b706-c96e7c2568e3"
       },
       "chunkId": "b64622aab0d8947efece4baae43107b5bf5a8ab0",
@@ -22449,7 +22428,7 @@
     },
     "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/Ambilight.ts": {
       "mTimestamp": {
-        "mtime": 1709988380000,
+        "mtime": 1746432648000,
         "uuid": "73c69187-f4cf-45d8-896c-9b47ef8d3097"
       },
       "chunkId": "2569d522e4fc9977d921b18d73335875aac94672",
@@ -22553,7 +22532,7 @@
     },
     "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/FlashSprite.ts": {
       "mTimestamp": {
-        "mtime": 1709988379000,
+        "mtime": 1746432634000,
         "uuid": "a7a9e5d6-6d4a-49de-b38d-aa581460263f"
       },
       "chunkId": "cdd08e135a0b3c3cb4d25642b273f16b029c7512",
@@ -33602,6 +33581,2171 @@
           "resolved": {
             "type": "module",
             "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/bundle/battle/collision/Object.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/AILib.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "e200aacb-5a04-4ad9-a115-77799beb9ba7"
+      },
+      "chunkId": "1ede5f5c294ea8d0bed480abda89f9609d893f67",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 39
+            },
+            "end": {
+              "line": 1,
+              "column": 43
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Agent.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "27880b8d-662f-424c-bc03-cc34ced420d1"
+      },
+      "chunkId": "f61b40a3ea86ea78e9e8220d2799d6969a8b15aa",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 21
+            },
+            "end": {
+              "line": 1,
+              "column": 25
+            }
+          }
+        },
+        {
+          "value": "./Maths",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 39
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Maths.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Body.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "35d5e698-33d7-49c2-ba8f-b24111279140"
+      },
+      "chunkId": "eb6fb6bc93835530a1c9476e807259edbb45c26b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 39
+            },
+            "end": {
+              "line": 1,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "./Object",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 31
+            },
+            "end": {
+              "line": 2,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Collider.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "e991894f-6409-4d11-9182-d646fff5caa8"
+      },
+      "chunkId": "5dfe7256a0e2082f5c5b23568286eb44eafeb045",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./Agent",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 22
+            },
+            "end": {
+              "line": 1,
+              "column": 31
+            }
+          }
+        },
+        {
+          "value": "./Body",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 30
+            }
+          }
+        },
+        {
+          "value": "./Object",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 40
+            },
+            "end": {
+              "line": 3,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./Shape",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 38
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Agent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Body.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Shape.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Maths.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "82beda41-8436-469b-b114-074b809e3527"
+      },
+      "chunkId": "5b0dd7c9d0dc2453091fbb592334988d37f46604",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "f834e33c-a449-4ea8-9ef5-ed8cff5edf7e"
+      },
+      "chunkId": "e52650fba1e80665ed486a3b1dba988c52346cfc",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 116
+            },
+            "end": {
+              "line": 1,
+              "column": 120
+            }
+          }
+        },
+        {
+          "value": "./Collider",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "./Shape",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 59
+            },
+            "end": {
+              "line": 4,
+              "column": 68
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Collider.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Shape.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Shape.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "83d948db-2e76-45ee-856c-d964358c92be"
+      },
+      "chunkId": "78ad1557d0d1920a5a54c69ef3d9b9ca42e4f371",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 33
+            },
+            "end": {
+              "line": 1,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./AILib",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 84
+            },
+            "end": {
+              "line": 2,
+              "column": 93
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/AILib.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/bullet.ts": {
+      "mTimestamp": {
+        "mtime": 1746430403000,
+        "uuid": "10c41c33-3906-4d02-925b-37c288ba162b"
+      },
+      "chunkId": "65688310de1258521c4f041f7d947018930caf5c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 60
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "../../collision/Object",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 33
+            },
+            "end": {
+              "line": 3,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/bulletHell.ts": {
+      "mTimestamp": {
+        "mtime": 1746432770000,
+        "uuid": "14305c80-c89d-4c8d-9bb8-afbb05a3529a"
+      },
+      "chunkId": "737205e83ebb4bd4bc7e3ed636f997e52815a5d3",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 102
+            },
+            "end": {
+              "line": 1,
+              "column": 106
+            }
+          }
+        },
+        {
+          "value": "../../collision/Collider",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "./bullet",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 23
+            },
+            "end": {
+              "line": 4,
+              "column": 33
+            }
+          }
+        },
+        {
+          "value": "./ghost",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 22
+            },
+            "end": {
+              "line": 5,
+              "column": 31
+            }
+          }
+        },
+        {
+          "value": "./player",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 23
+            },
+            "end": {
+              "line": 6,
+              "column": 33
+            }
+          }
+        },
+        {
+          "value": "./snailTail",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 26
+            },
+            "end": {
+              "line": 7,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "./skill",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 22
+            },
+            "end": {
+              "line": 8,
+              "column": 31
+            }
+          }
+        },
+        {
+          "value": "../../Joystick",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 25
+            },
+            "end": {
+              "line": 9,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Collider.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/bullet.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/ghost.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/player.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/snailTail.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/skill.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/Joystick.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/detector.ts": {
+      "mTimestamp": {
+        "mtime": 1746431670000,
+        "uuid": "d96b64ad-1c49-42a8-b88b-4060f3cc0dfc"
+      },
+      "chunkId": "61fb2a995fb34f3ae142767c5225fa82ffb390b7",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 48
+            },
+            "end": {
+              "line": 1,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../../collision/Object",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 40
+            },
+            "end": {
+              "line": 3,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "./player",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 23
+            },
+            "end": {
+              "line": 4,
+              "column": 33
+            }
+          }
+        },
+        {
+          "value": "../../../game/common/config/ConstDefine",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 29
+            },
+            "end": {
+              "line": 5,
+              "column": 70
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/player.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/common/config/ConstDefine.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/enemy.ts": {
+      "mTimestamp": {
+        "mtime": 1746431724000,
+        "uuid": "ab37b69b-c891-4384-8e62-ac860bb01b70"
+      },
+      "chunkId": "1c0d4be959d920c916ecf814baa758febe57c2e5",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 75
+            },
+            "end": {
+              "line": 1,
+              "column": 79
+            }
+          }
+        },
+        {
+          "value": "../../collision/Object",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 33
+            },
+            "end": {
+              "line": 3,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "./player",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 23
+            },
+            "end": {
+              "line": 4,
+              "column": 33
+            }
+          }
+        },
+        {
+          "value": "../../../game/common/config/ConstDefine",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 29
+            },
+            "end": {
+              "line": 5,
+              "column": 70
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/player.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/common/config/ConstDefine.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/ghost.ts": {
+      "mTimestamp": {
+        "mtime": 1746430589000,
+        "uuid": "a6edb24b-b960-4693-b556-7a1cf733ea36"
+      },
+      "chunkId": "c1f5010f0fc30fcbf7155b2eec9b0afea98220c3",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 75
+            },
+            "end": {
+              "line": 1,
+              "column": 79
+            }
+          }
+        },
+        {
+          "value": "../../collision/Object",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 24
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./enemy",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 31
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/enemy.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/gun.ts": {
+      "mTimestamp": {
+        "mtime": 1746431779000,
+        "uuid": "fe09de8f-f51f-4d67-b660-d9867f6c9e60"
+      },
+      "chunkId": "f4e7c84ab072fc4dc4d0242e0da3b957dbaf04e8",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 64
+            },
+            "end": {
+              "line": 1,
+              "column": 68
+            }
+          }
+        },
+        {
+          "value": "./bullet",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 23
+            },
+            "end": {
+              "line": 2,
+              "column": 33
+            }
+          }
+        },
+        {
+          "value": "./bulletHell",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 27
+            },
+            "end": {
+              "line": 3,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/bullet.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/bulletHell.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/player.ts": {
+      "mTimestamp": {
+        "mtime": 1746431769000,
+        "uuid": "069bf3d5-88c3-4866-8872-9e014b2d59c4"
+      },
+      "chunkId": "406f032550562560073cb62c3fdb895ffa2d0c95",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 54
+            },
+            "end": {
+              "line": 1,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "../../collision/Object",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 33
+            },
+            "end": {
+              "line": 3,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "./bulletHell",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 41
+            }
+          }
+        },
+        {
+          "value": "./gun",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 20
+            },
+            "end": {
+              "line": 5,
+              "column": 27
+            }
+          }
+        },
+        {
+          "value": "./skill",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 22
+            },
+            "end": {
+              "line": 6,
+              "column": 31
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/bulletHell.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/gun.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/skill.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/skill.ts": {
+      "mTimestamp": {
+        "mtime": 1746431792000,
+        "uuid": "2fede599-2a9c-436e-8a70-a3b8c1cf72a8"
+      },
+      "chunkId": "87d3e5de5f868e7ddd127b179aef6fa9a65b9a14",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 60
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "../../collision/Object",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 33
+            },
+            "end": {
+              "line": 3,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/snailTail.ts": {
+      "mTimestamp": {
+        "mtime": 1746431838000,
+        "uuid": "d2a8a52c-b729-4735-bca1-cc71918616ca"
+      },
+      "chunkId": "f974e2b603717d27cc4c1ddcdec7693c860d2711",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 60
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "../../collision/Object",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 24
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./enemy",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 31
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/bulletHell/enemy.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/collisions/Camera3D.ts": {
+      "mTimestamp": {
+        "mtime": 1746431945000,
+        "uuid": "449d7ca5-091e-4d8e-9662-036c8e17a364"
+      },
+      "chunkId": "38ee4cbf67e998e113cfb9e40bbaf5d22d089211",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 101
+            },
+            "end": {
+              "line": 2,
+              "column": 105
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/collisions/Config.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "30590317-fea2-4a81-a0bc-b7419ce719a1"
+      },
+      "chunkId": "b0866e8880dbdaf8fe38bb7e1420def92708aa50",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/collisions/demo2d.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "aec980dd-85c4-4063-bed1-e9cde4a4b35a"
+      },
+      "chunkId": "4937779876d6b5c977f396211f46c6094fb2120b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 95
+            },
+            "end": {
+              "line": 1,
+              "column": 99
+            }
+          }
+        },
+        {
+          "value": "./Config",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 23
+            },
+            "end": {
+              "line": 2,
+              "column": 33
+            }
+          }
+        },
+        {
+          "value": "../../collision/Collider",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../../collision/Object",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 24
+            },
+            "end": {
+              "line": 4,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/collisions/Config.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Collider.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/collisions/demo3d.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "66d84727-9d0d-4bfc-90b7-396d1b0d93ff"
+      },
+      "chunkId": "d5841ba1a3a57561c88d93119fda0a304c411dea",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 128
+            },
+            "end": {
+              "line": 1,
+              "column": 132
+            }
+          }
+        },
+        {
+          "value": "../../collision/Collider",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../../collision/Object",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 24
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../collision/Shape",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "./Config",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 23
+            },
+            "end": {
+              "line": 5,
+              "column": 33
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Collider.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Object.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/collision/Shape.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/demos/collisions/Config.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/battle/Joystick.ts": {
+      "mTimestamp": {
+        "mtime": 1746274424000,
+        "uuid": "690837d4-6828-40c1-8d01-63474bede24b"
+      },
+      "chunkId": "3276873ed21b5bb59929c6c2a6bb2714ae9a2e28",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 95
+            },
+            "end": {
+              "line": 1,
+              "column": 99
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/demo/GameMain.ts": {
+      "mTimestamp": {
+        "mtime": 1746422815000,
+        "uuid": "46770dbb-ecc5-4250-99ad-b71fcaaadfda"
+      },
+      "chunkId": "0f48c6f04af1408a9048ccbcf01e7ac6d31a2128",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 38
+            },
+            "end": {
+              "line": 7,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/gameMain/GameMain.ts": {
+      "mTimestamp": {
+        "mtime": 1746430910000,
+        "uuid": "46770dbb-ecc5-4250-99ad-b71fcaaadfda"
+      },
+      "chunkId": "949e5833d4a98119c73f271c5769a82bf0af0eb9",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 38
+            },
+            "end": {
+              "line": 7,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/%E5%9B%BA%E6%80%81/ccProject/assets/script/game/common/config/ConstDefine.ts": {
+      "mTimestamp": {
+        "mtime": 1746432538000,
+        "uuid": "128b8f58-7fe9-48b1-875f-ed7d35487d6c"
+      },
+      "chunkId": "edc680c6b54e544a8d92bedc2c6eeedd540f41ac",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
           },
           "messages": []
         }
