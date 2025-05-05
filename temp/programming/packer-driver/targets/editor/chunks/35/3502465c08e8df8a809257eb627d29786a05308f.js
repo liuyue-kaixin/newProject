@@ -33,7 +33,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
       /** 界面唯一标识（方便服务器通过编号数据触发界面打开） */
       _export("UIID", UIID = /*#__PURE__*/function (UIID) {
         UIID[UIID["Loading"] = 1] = "Loading";
-        UIID[UIID["Demo"] = 2] = "Demo";
+        UIID[UIID["Main"] = 2] = "Main";
         return UIID;
       }({}));
       /** 打开界面方式的配置数据 */
@@ -47,11 +47,12 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
           prefab: "loading/prefab/loading",
           bundle: "resources"
         },
-        [UIID.Demo]: {
+        [UIID.Main]: {
           layer: (_crd && LayerType === void 0 ? (_reportPossibleCrUseOfLayerType({
             error: Error()
           }), LayerType) : LayerType).UI,
-          prefab: "gui/prefab/demo"
+          prefab: "main/prefabs/main",
+          bundle: "bundle"
         }
       });
 

@@ -3,13 +3,13 @@
     "__type__": "cc.Prefab",
     "_name": "skill",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "_native": "",
     "data": {
       "__id__": 1
     },
     "optimizationPolicy": 0,
-    "persistent": false,
-    "asyncLoadAssets": false
+    "persistent": false
   },
   {
     "__type__": "cc.Node",
@@ -55,7 +55,8 @@
       "y": 1,
       "z": 1
     },
-    "_layer": 1073741824,
+    "_mobility": 0,
+    "_layer": 33554432,
     "_euler": {
       "__type__": "cc.Vec3",
       "x": 0,
@@ -68,6 +69,7 @@
     "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "node": {
       "__id__": 1
     },
@@ -95,6 +97,7 @@
     "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "node": {
       "__id__": 1
     },
@@ -102,7 +105,6 @@
     "__prefab": {
       "__id__": 5
     },
-    "_visFlags": 0,
     "_customMaterial": null,
     "_srcBlendFactor": 2,
     "_dstBlendFactor": 4,
@@ -140,6 +142,7 @@
     "__type__": "cc.BoxCollider",
     "_name": "",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "node": {
       "__id__": 1
     },
@@ -171,6 +174,7 @@
     "__type__": "2fedeWZKpxDbopwo7jBz3Ko",
     "_name": "",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "node": {
       "__id__": 1
     },
@@ -194,7 +198,11 @@
       "z": 0
     },
     "radius": 0,
-    "height": 0,
+    "points": [],
+    "agent": false,
+    "weight": 0.5,
+    "maxRadius": 0,
+    "maxVelocity": 0,
     "_id": ""
   },
   {
@@ -209,6 +217,8 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "f21zYEfK5Kyrx5ra18xn1Y"
+    "fileId": "f21zYEfK5Kyrx5ra18xn1Y",
+    "instance": null,
+    "targetOverrides": null
   }
 ]

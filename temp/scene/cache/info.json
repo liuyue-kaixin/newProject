@@ -1,0 +1,12 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i5-7267U CPU @ 3.10GHz",
+        "version": "Darwin Kernel Version 22.6.0: Tue Nov  7 21:48:06 PST 2023; root:xnu-8796.141.3.702.9~2/RELEASE_X86_64"
+    },
+    "sceneListMap": {
+        "ba0b085f-f8d5-40b0-9964-2fd25728d707": "/Volumes/固态/ccProject/assets/main.scene",
+        "5b6511a4-181b-4c81-9f9c-51e4c21b4d64": "/Volumes/固态/ccProject/assets/bundle/main/prefabs/main.prefab"
+    },
+    "deviceMd5": "8ee32c1f6e8f781edfd6f5d00c1786a5"
+}

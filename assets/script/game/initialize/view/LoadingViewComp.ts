@@ -39,7 +39,7 @@ export class LoadingViewComp extends CCVMParentComp {
             oops.gui.remove(UIID.Loading);
 
             // 打开游戏主界面（自定义逻辑）
-            oops.gui.open(UIID.Demo);
+            oops.gui.open(UIID.Main);
         }, 500);
     }
 

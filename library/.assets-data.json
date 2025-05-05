@@ -352,12 +352,16 @@
     "versionCode": 1
   },
   "5b6511a4-181b-4c81-9f9c-51e4c21b4d64": {
-    "url": "db://assets/resources/gui/prefab/demo.prefab",
+    "url": "db://assets/bundle/main/prefabs/main.prefab",
     "value": {
       "depends": [
-        "45828f25-b50d-4c52-a591-e19491a62b8c@f9941"
+        "c93b2303-7f2c-4a6c-b362-e3394e32faf1",
+        "868822a0-410c-473b-a675-d940ab90ac1d@f9941",
+        "329348fa-8862-4fda-91f4-8c7a2ed04a60@f9941"
       ],
       "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "690837d4-6828-40c1-8d01-63474bede24b",
         "46770dbb-ecc5-4250-99ad-b71fcaaadfda"
       ]
     },
@@ -692,25 +696,7 @@
   },
   "c7be2da7-0ca7-49f7-887b-25d3a4242663": {
     "url": "db://assets/bundle/battle/scene.scene",
-    "value": {
-      "depends": [
-        "c7be2da7-0ca7-49f7-887b-25d3a4242663",
-        "158e7e52-3220-4cd7-9694-713e0e6e8278@f9941",
-        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
-        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941",
-        "28765e2f-040a-4c65-8e8c-f9d0bb79d863@f9941",
-        "45828f25-b50d-4c52-a591-e19491a62b8c@f9941",
-        "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7@f9941",
-        "2becf307-8388-4328-9282-2155344db157",
-        "1415cc7d-7fa8-4e58-b49e-cd8af6db6b35",
-        "c93b2303-7f2c-4a6c-b362-e3394e32faf1",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
-      ],
-      "dependScripts": [
-        "70f4f050-dfae-466a-885f-099c7454f64d"
-      ]
-    },
+    "value": {},
     "versionCode": 1
   },
   "51f91924-d562-44b1-8d68-91a9ba13415a": {
@@ -746,77 +732,32 @@
   },
   "51b98c30-f88b-4b45-85c6-d0e68b12d5be": {
     "url": "db://assets/bundle/battle/prefabs/Box2d.prefab",
-    "value": {
-      "depends": [
-        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
-      ],
-      "dependScripts": [
-        "a1d566e8-4f75-4d7e-835b-6dffe8cc9b99"
-      ]
-    },
+    "value": {},
     "versionCode": 1
   },
   "fd664dc2-418f-45d2-a6ec-4423618d3b34": {
     "url": "db://assets/bundle/battle/prefabs/Box3d.prefab",
-    "value": {
-      "depends": [
-        "472d6cd5-7051-4388-97da-69ac3355170f"
-      ],
-      "dependScripts": [
-        "56ae80ae-da79-42f6-8e8f-28361c629701"
-      ]
-    },
+    "value": {},
     "versionCode": 1
   },
   "c50f27a5-943c-4fb2-96b3-604e34ba2ef6": {
     "url": "db://assets/bundle/battle/prefabs/Sphere2d.prefab",
-    "value": {
-      "depends": [
-        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941"
-      ],
-      "dependScripts": [
-        "a1d566e8-4f75-4d7e-835b-6dffe8cc9b99"
-      ]
-    },
+    "value": {},
     "versionCode": 1
   },
   "cec7d9ba-6d49-446d-b4a4-fd0d83ea53af": {
     "url": "db://assets/bundle/battle/prefabs/Sphere3d.prefab",
-    "value": {
-      "depends": [
-        "472d6cd5-7051-4388-97da-69ac3355170f"
-      ],
-      "dependScripts": [
-        "56ae80ae-da79-42f6-8e8f-28361c629701"
-      ]
-    },
+    "value": {},
     "versionCode": 1
   },
   "2becf307-8388-4328-9282-2155344db157": {
     "url": "db://assets/bundle/battle/prefabs/demo2D.prefab",
-    "value": {
-      "depends": [
-        "51b98c30-f88b-4b45-85c6-d0e68b12d5be",
-        "c50f27a5-943c-4fb2-96b3-604e34ba2ef6"
-      ],
-      "dependScripts": [
-        "aec980dd-85c4-4063-bed1-e9cde4a4b35a"
-      ]
-    },
+    "value": {},
     "versionCode": 1
   },
   "1415cc7d-7fa8-4e58-b49e-cd8af6db6b35": {
     "url": "db://assets/bundle/battle/prefabs/demo3D.prefab",
-    "value": {
-      "depends": [
-        "fd664dc2-418f-45d2-a6ec-4423618d3b34",
-        "cec7d9ba-6d49-446d-b4a4-fd0d83ea53af"
-      ],
-      "dependScripts": [
-        "449d7ca5-091e-4d8e-9662-036c8e17a364",
-        "66d84727-9d0d-4bfc-90b7-396d1b0d93ff"
-      ]
-    },
+    "value": {},
     "versionCode": 1
   },
   "b8b065ca-6aad-4ba5-a149-1678e9296b97": {
@@ -1229,6 +1170,16 @@
         "d9f901fe-ac88-4fd8-8dee-77f14afaea4b@6c48a"
       ]
     },
+    "versionCode": 1
+  },
+  "e2090612-c7f4-43b0-a11f-25c70040413a": {
+    "url": "db://assets/bundle/main",
+    "value": {},
+    "versionCode": 1
+  },
+  "ab165d15-d832-486a-9981-b2a8f6c0745b": {
+    "url": "db://assets/bundle/main/prefabs",
+    "value": {},
     "versionCode": 1
   }
 }
