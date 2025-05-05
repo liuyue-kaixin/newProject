@@ -1,0 +1,832 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Volumes/固态/project/assets/res": {
+      "time": 1746422386000,
+      "uuid": "18a36a4e-73d0-4f2d-b336-f363fc0769c3"
+    },
+    "/Volumes/固态/project/assets/resources": {
+      "time": 1746422386000,
+      "uuid": "11349493-059b-466d-8a63-bc29a4d895cd"
+    },
+    "/Volumes/固态/project/assets/script": {
+      "time": 1746418793000,
+      "uuid": "c71845dc-9d65-4d6d-8aca-dcb8079e4aae"
+    },
+    "/Volumes/固态/project/assets/res/common": {
+      "time": 1746418793000,
+      "uuid": "95b1abc4-6bad-4dc1-aa40-21a8a4d829ea"
+    },
+    "/Volumes/固态/project/assets/res/loading": {
+      "time": 1746418793000,
+      "uuid": "989ba6a5-5936-4360-802e-82a5a22158da"
+    },
+    "/Volumes/固态/project/assets/resources/common": {
+      "time": 1746418793000,
+      "uuid": "b9dc5d89-1070-4f62-8a31-5b96306c192b"
+    },
+    "/Volumes/固态/project/assets/resources/config": {
+      "time": 1746418793000,
+      "uuid": "11938e97-a8b3-4375-9632-5313d684e918"
+    },
+    "/Volumes/固态/project/assets/resources/gui": {
+      "time": 1746418793000,
+      "uuid": "8082dcd2-510f-4867-b2f1-c377843e16b4"
+    },
+    "/Volumes/固态/project/assets/resources/language": {
+      "time": 1746418793000,
+      "uuid": "212e9f36-3089-49a2-80d3-28e93d0d19f1"
+    },
+    "/Volumes/固态/project/assets/resources/loading": {
+      "time": 1746418793000,
+      "uuid": "c2392cff-8a0b-4baa-95de-e3bfe2999f3c"
+    },
+    "/Volumes/固态/project/assets/script/game": {
+      "time": 1746418793000,
+      "uuid": "b8688d91-9274-40b5-a605-23ee4e5a4eec"
+    },
+    "/Volumes/固态/project/assets/res/common/texture": {
+      "time": 1746418793000,
+      "uuid": "3877e37f-d7d8-4947-8f6b-0a22217ba4d4"
+    },
+    "/Volumes/固态/project/assets/res/loading/texture": {
+      "time": 1746418793000,
+      "uuid": "9df30361-6dbb-444f-8809-df0b7fd3f29e"
+    },
+    "/Volumes/固态/project/assets/resources/common/prefab": {
+      "time": 1746418793000,
+      "uuid": "853ce1af-fb40-4f30-aebb-f12234f3d7fe"
+    },
+    "/Volumes/固态/project/assets/resources/config/game": {
+      "time": 1746418793000,
+      "uuid": "a2c06fee-9cbe-4e3b-b9ff-a29cdd9e6646"
+    },
+    "/Volumes/固态/project/assets/resources/gui/prefab": {
+      "time": 1746418793000,
+      "uuid": "e05e3ca3-6657-4d57-8c14-544b16c49d9f"
+    },
+    "/Volumes/固态/project/assets/resources/language/json": {
+      "time": 1746418793000,
+      "uuid": "92204c5e-0e0d-437c-9b83-4bc1d2994a5d"
+    },
+    "/Volumes/固态/project/assets/resources/language/spine": {
+      "time": 1746418793000,
+      "uuid": "d4b2745d-3af5-4ffa-8b11-b0ac6a927551"
+    },
+    "/Volumes/固态/project/assets/resources/language/texture": {
+      "time": 1746418793000,
+      "uuid": "b67a859f-640d-4a5a-825e-51971fed24a5"
+    },
+    "/Volumes/固态/project/assets/resources/loading/prefab": {
+      "time": 1746418793000,
+      "uuid": "9e4a59af-22c3-4c0b-b864-98193db88d5f"
+    },
+    "/Volumes/固态/project/assets/script/game/account": {
+      "time": 1746418793000,
+      "uuid": "65e03a7a-ab3e-4ab1-964c-85a3da63e02c"
+    },
+    "/Volumes/固态/project/assets/script/game/common": {
+      "time": 1746418793000,
+      "uuid": "c0e162ab-0190-4687-abe4-c16c332d72bc"
+    },
+    "/Volumes/固态/project/assets/script/game/demo": {
+      "time": 1746418793000,
+      "uuid": "877de6e7-ad53-4ed6-9410-6948b470660c"
+    },
+    "/Volumes/固态/project/assets/script/game/initialize": {
+      "time": 1746418793000,
+      "uuid": "4325eaa8-a4b2-47d4-9c38-1b0d046e0b5b"
+    },
+    "/Volumes/固态/project/assets/resources/language/texture/en": {
+      "time": 1746418793000,
+      "uuid": "ec976edd-f0a0-4f29-a3f9-c803b92ef9be"
+    },
+    "/Volumes/固态/project/assets/resources/language/texture/zh": {
+      "time": 1746418793000,
+      "uuid": "c03f86e4-9b94-4703-a944-93c83c0c07fd"
+    },
+    "/Volumes/固态/project/assets/script/game/common/config": {
+      "time": 1746418793000,
+      "uuid": "61074860-e9b7-4908-b0b8-5dd4eaea38d6"
+    },
+    "/Volumes/固态/project/assets/script/game/common/ecs": {
+      "time": 1746418793000,
+      "uuid": "d8b25dc9-9148-43ce-8bdb-47597cf4d81f"
+    },
+    "/Volumes/固态/project/assets/script/game/initialize/bll": {
+      "time": 1746418793000,
+      "uuid": "885f1a81-eed8-4faa-abb3-7d173cdc9974"
+    },
+    "/Volumes/固态/project/assets/script/game/initialize/view": {
+      "time": 1746418793000,
+      "uuid": "1a305252-1909-4d8d-8214-788067d83b59"
+    },
+    "/Volumes/固态/project/assets/script/Main.ts": {
+      "time": 1746422516000,
+      "uuid": "0eec0b38-aab6-45ee-89cf-95806b0fecbe"
+    },
+    "/Volumes/固态/project/assets/script/game/account/Account.ts": {
+      "time": 1746418793000,
+      "uuid": "33c06a92-3daf-4c45-b4d4-39fd6efbb491"
+    },
+    "/Volumes/固态/project/assets/script/game/demo/Demo.ts": {
+      "time": 1746418793000,
+      "uuid": "46770dbb-ecc5-4250-99ad-b71fcaaadfda"
+    },
+    "/Volumes/固态/project/assets/script/game/initialize/Initialize.ts": {
+      "time": 1746418793000,
+      "uuid": "ffbce42c-e99f-48a0-8e73-ea6b756af330"
+    },
+    "/Volumes/固态/project/assets/script/game/common/config/GameEvent.ts": {
+      "time": 1746418793000,
+      "uuid": "28ac0ad6-53bf-471a-9256-ae7c8ad351a7"
+    },
+    "/Volumes/固态/project/assets/script/game/common/config/GameUIConfig.ts": {
+      "time": 1746418793000,
+      "uuid": "ffa5cdbb-3d85-42be-80bb-63b60eca5ffc"
+    },
+    "/Volumes/固态/project/assets/script/game/common/ecs/SingletonModuleComp.ts": {
+      "time": 1746418793000,
+      "uuid": "c1147d9a-3dcd-4fd0-ad87-f4d964ee62a8"
+    },
+    "/Volumes/固态/project/assets/script/game/initialize/bll/InitRes.ts": {
+      "time": 1746422538000,
+      "uuid": "2ee0cf3e-ed1f-4414-a41b-f8e3e7f66964"
+    },
+    "/Volumes/固态/project/assets/script/game/initialize/view/LoadingViewComp.ts": {
+      "time": 1746418793000,
+      "uuid": "92429ca4-4e7c-450a-b706-c96e7c2568e3"
+    },
+    "/Volumes/固态/project/assets/res.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/res/common.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/res/loading.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/common.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/config.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/gui.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/loading.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/res/common/texture.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/res/loading/texture.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/common/prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/config/game.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/gui/prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/spine.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/texture.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/loading/prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/account.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/common.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/demo.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/initialize.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/texture/en.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/texture/zh.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/common/config.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/common/ecs.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/initialize/bll.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/initialize/view.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/Main.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/account/Account.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/demo/Demo.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/initialize/Initialize.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/common/config/GameEvent.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/common/config/GameUIConfig.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/common/ecs/SingletonModuleComp.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/initialize/bll/InitRes.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/script/game/initialize/view/LoadingViewComp.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/main.scene": {
+      "time": 1746418793000,
+      "uuid": "ba0b085f-f8d5-40b0-9964-2fd25728d707"
+    },
+    "/Volumes/固态/project/assets/resources/config.json": {
+      "time": 1746418793000,
+      "uuid": "0f8f84c7-5a96-49fe-a127-f66d9c90c822"
+    },
+    "/Volumes/固态/project/assets/resources/project.manifest": {
+      "time": 1746418793000,
+      "uuid": "acbe03ba-4e92-43cf-a521-c5337c12e38b"
+    },
+    "/Volumes/固态/project/assets/resources/version.manifest": {
+      "time": 1746418793000,
+      "uuid": "4eada1a4-cb98-4e24-ba67-fa8126531d52"
+    },
+    "/Volumes/固态/project/assets/res/common/texture/loading.png": {
+      "time": 1746418793000,
+      "uuid": "06942a20-0474-4385-9a85-293366d2473e"
+    },
+    "/Volumes/固态/project/assets/res/loading/texture/bg.png": {
+      "time": 1746418793000,
+      "uuid": "0021cb5a-e4f0-4709-b0b6-5e21875720b7"
+    },
+    "/Volumes/固态/project/assets/res/loading/texture/icon_loading_bar.png": {
+      "time": 1746418793000,
+      "uuid": "1ac049d7-c899-492a-89a7-4e8d85ce4cb1"
+    },
+    "/Volumes/固态/project/assets/res/loading/texture/panel_loading_bottom_frame.png": {
+      "time": 1746418793000,
+      "uuid": "a2001856-24f5-4ac7-9309-1207a3210cd8"
+    },
+    "/Volumes/固态/project/assets/resources/common/prefab/netinstable.prefab": {
+      "time": 1746418793000,
+      "uuid": "9cc71d8c-192a-4234-8204-352f42b95c65"
+    },
+    "/Volumes/固态/project/assets/resources/common/prefab/notify.prefab": {
+      "time": 1746418793000,
+      "uuid": "10285c1d-979d-4a7e-80c0-86e0dc2a65d8"
+    },
+    "/Volumes/固态/project/assets/resources/common/prefab/window.prefab": {
+      "time": 1746418793000,
+      "uuid": "2501cdfd-ca13-49a6-9c23-ea51586c54c4"
+    },
+    "/Volumes/固态/project/assets/resources/config/game/Language.json": {
+      "time": 1746418793000,
+      "uuid": "b92e9be8-b6df-4e15-8b4b-16326a243229"
+    },
+    "/Volumes/固态/project/assets/resources/gui/prefab/demo.prefab": {
+      "time": 1746418793000,
+      "uuid": "5b6511a4-181b-4c81-9f9c-51e4c21b4d64"
+    },
+    "/Volumes/固态/project/assets/resources/language/json/en.json": {
+      "time": 1746418793000,
+      "uuid": "2c0f4643-d84a-49b9-9069-8efe9434304c"
+    },
+    "/Volumes/固态/project/assets/resources/language/json/en.ttf": {
+      "time": 1746418793000,
+      "uuid": "859314dc-c952-48fc-84a7-bba774e1f873"
+    },
+    "/Volumes/固态/project/assets/resources/language/json/zh.json": {
+      "time": 1746418793000,
+      "uuid": "f39d9bde-aff1-4255-846f-cbc4169d5d45"
+    },
+    "/Volumes/固态/project/assets/resources/language/json/zh.ttf": {
+      "time": 1746418793000,
+      "uuid": "d06fcc91-daf7-4f73-9c6f-84054f48cf5c"
+    },
+    "/Volumes/固态/project/assets/resources/loading/prefab/loading.prefab": {
+      "time": 1746418793000,
+      "uuid": "b3142304-c27f-4492-b94f-551d154a2bf4"
+    },
+    "/Volumes/固态/project/assets/resources/language/texture/en/image.jpg": {
+      "time": 1746418793000,
+      "uuid": "3d5b607a-face-426b-8200-acf8384108db"
+    },
+    "/Volumes/固态/project/assets/resources/language/texture/zh/image.jpg": {
+      "time": 1746418793000,
+      "uuid": "a65eaaec-d315-4134-a79e-23bb817d1939"
+    },
+    "/Volumes/固态/project/assets/main.scene.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/config.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/project.manifest.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/version.manifest.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/common/prefab/netinstable.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/res/common/texture/loading.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/common/prefab/notify.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/common/prefab/window.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/res/loading/texture/icon_loading_bar.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/config/game/Language.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/res/loading/texture/panel_loading_bottom_frame.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/gui/prefab/demo.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/json/zh.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/json/en.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/res/loading/texture/bg.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/loading/prefab/loading.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/json/en.ttf.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/texture/en/image.jpg.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/texture/zh/image.jpg.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/project/assets/resources/language/json/zh.ttf.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/res": {
+      "time": 1746422386000,
+      "uuid": "18a36a4e-73d0-4f2d-b336-f363fc0769c3"
+    },
+    "/Volumes/固态/ccProject/assets/resources": {
+      "time": 1746422386000,
+      "uuid": "11349493-059b-466d-8a63-bc29a4d895cd"
+    },
+    "/Volumes/固态/ccProject/assets/script": {
+      "time": 1746422759000,
+      "uuid": "c71845dc-9d65-4d6d-8aca-dcb8079e4aae"
+    },
+    "/Volumes/固态/ccProject/assets/res/common": {
+      "time": 1746418793000,
+      "uuid": "95b1abc4-6bad-4dc1-aa40-21a8a4d829ea"
+    },
+    "/Volumes/固态/ccProject/assets/res/loading": {
+      "time": 1746418793000,
+      "uuid": "989ba6a5-5936-4360-802e-82a5a22158da"
+    },
+    "/Volumes/固态/ccProject/assets/resources/common": {
+      "time": 1746418793000,
+      "uuid": "b9dc5d89-1070-4f62-8a31-5b96306c192b"
+    },
+    "/Volumes/固态/ccProject/assets/resources/config": {
+      "time": 1746418793000,
+      "uuid": "11938e97-a8b3-4375-9632-5313d684e918"
+    },
+    "/Volumes/固态/ccProject/assets/resources/gui": {
+      "time": 1746418793000,
+      "uuid": "8082dcd2-510f-4867-b2f1-c377843e16b4"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language": {
+      "time": 1746418793000,
+      "uuid": "212e9f36-3089-49a2-80d3-28e93d0d19f1"
+    },
+    "/Volumes/固态/ccProject/assets/resources/loading": {
+      "time": 1746418793000,
+      "uuid": "c2392cff-8a0b-4baa-95de-e3bfe2999f3c"
+    },
+    "/Volumes/固态/ccProject/assets/script/game": {
+      "time": 1746418793000,
+      "uuid": "b8688d91-9274-40b5-a605-23ee4e5a4eec"
+    },
+    "/Volumes/固态/ccProject/assets/res/common/texture": {
+      "time": 1746418793000,
+      "uuid": "3877e37f-d7d8-4947-8f6b-0a22217ba4d4"
+    },
+    "/Volumes/固态/ccProject/assets/res/loading/texture": {
+      "time": 1746418793000,
+      "uuid": "9df30361-6dbb-444f-8809-df0b7fd3f29e"
+    },
+    "/Volumes/固态/ccProject/assets/resources/common/prefab": {
+      "time": 1746418793000,
+      "uuid": "853ce1af-fb40-4f30-aebb-f12234f3d7fe"
+    },
+    "/Volumes/固态/ccProject/assets/resources/config/game": {
+      "time": 1746418793000,
+      "uuid": "a2c06fee-9cbe-4e3b-b9ff-a29cdd9e6646"
+    },
+    "/Volumes/固态/ccProject/assets/resources/gui/prefab": {
+      "time": 1746418793000,
+      "uuid": "e05e3ca3-6657-4d57-8c14-544b16c49d9f"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/json": {
+      "time": 1746418793000,
+      "uuid": "92204c5e-0e0d-437c-9b83-4bc1d2994a5d"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/spine": {
+      "time": 1746418793000,
+      "uuid": "d4b2745d-3af5-4ffa-8b11-b0ac6a927551"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/texture": {
+      "time": 1746418793000,
+      "uuid": "b67a859f-640d-4a5a-825e-51971fed24a5"
+    },
+    "/Volumes/固态/ccProject/assets/resources/loading/prefab": {
+      "time": 1746418793000,
+      "uuid": "9e4a59af-22c3-4c0b-b864-98193db88d5f"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/account": {
+      "time": 1746418793000,
+      "uuid": "65e03a7a-ab3e-4ab1-964c-85a3da63e02c"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common": {
+      "time": 1746418793000,
+      "uuid": "c0e162ab-0190-4687-abe4-c16c332d72bc"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/demo": {
+      "time": 1746422815000,
+      "uuid": "877de6e7-ad53-4ed6-9410-6948b470660c"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize": {
+      "time": 1746418793000,
+      "uuid": "4325eaa8-a4b2-47d4-9c38-1b0d046e0b5b"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/texture/en": {
+      "time": 1746418793000,
+      "uuid": "ec976edd-f0a0-4f29-a3f9-c803b92ef9be"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/texture/zh": {
+      "time": 1746418793000,
+      "uuid": "c03f86e4-9b94-4703-a944-93c83c0c07fd"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/config": {
+      "time": 1746418793000,
+      "uuid": "61074860-e9b7-4908-b0b8-5dd4eaea38d6"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/ecs": {
+      "time": 1746418793000,
+      "uuid": "d8b25dc9-9148-43ce-8bdb-47597cf4d81f"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize/bll": {
+      "time": 1746418793000,
+      "uuid": "885f1a81-eed8-4faa-abb3-7d173cdc9974"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize/view": {
+      "time": 1746418793000,
+      "uuid": "1a305252-1909-4d8d-8214-788067d83b59"
+    },
+    "/Volumes/固态/ccProject/assets/script/Main.ts": {
+      "time": 1746422516000,
+      "uuid": "0eec0b38-aab6-45ee-89cf-95806b0fecbe"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/account/Account.ts": {
+      "time": 1746418793000,
+      "uuid": "33c06a92-3daf-4c45-b4d4-39fd6efbb491"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/demo/Demo.ts": {
+      "time": 1746422815000,
+      "uuid": "46770dbb-ecc5-4250-99ad-b71fcaaadfda"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize/Initialize.ts": {
+      "time": 1746418793000,
+      "uuid": "ffbce42c-e99f-48a0-8e73-ea6b756af330"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/config/GameEvent.ts": {
+      "time": 1746418793000,
+      "uuid": "28ac0ad6-53bf-471a-9256-ae7c8ad351a7"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/config/GameUIConfig.ts": {
+      "time": 1746418793000,
+      "uuid": "ffa5cdbb-3d85-42be-80bb-63b60eca5ffc"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/ecs/SingletonModuleComp.ts": {
+      "time": 1746418793000,
+      "uuid": "c1147d9a-3dcd-4fd0-ad87-f4d964ee62a8"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize/bll/InitRes.ts": {
+      "time": 1746422538000,
+      "uuid": "2ee0cf3e-ed1f-4414-a41b-f8e3e7f66964"
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize/view/LoadingViewComp.ts": {
+      "time": 1746418793000,
+      "uuid": "92429ca4-4e7c-450a-b706-c96e7c2568e3"
+    },
+    "/Volumes/固态/ccProject/assets/res.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/res/common.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/res/loading.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/common.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/config.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/gui.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/loading.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/res/common/texture.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/res/loading/texture.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/common/prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/config/game.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/gui/prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/spine.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/texture.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/loading/prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/account.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/demo.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/texture/en.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/texture/zh.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/config.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/ecs.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize/bll.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize/view.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/Main.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/account/Account.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/demo/Demo.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize/Initialize.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/config/GameEvent.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/config/GameUIConfig.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/common/ecs/SingletonModuleComp.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize/bll/InitRes.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/script/game/initialize/view/LoadingViewComp.ts.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/main.scene": {
+      "time": 1746418793000,
+      "uuid": "ba0b085f-f8d5-40b0-9964-2fd25728d707"
+    },
+    "/Volumes/固态/ccProject/assets/resources/config.json": {
+      "time": 1746418793000,
+      "uuid": "0f8f84c7-5a96-49fe-a127-f66d9c90c822"
+    },
+    "/Volumes/固态/ccProject/assets/resources/project.manifest": {
+      "time": 1746418793000,
+      "uuid": "acbe03ba-4e92-43cf-a521-c5337c12e38b"
+    },
+    "/Volumes/固态/ccProject/assets/resources/version.manifest": {
+      "time": 1746418793000,
+      "uuid": "4eada1a4-cb98-4e24-ba67-fa8126531d52"
+    },
+    "/Volumes/固态/ccProject/assets/res/common/texture/loading.png": {
+      "time": 1746418793000,
+      "uuid": "06942a20-0474-4385-9a85-293366d2473e"
+    },
+    "/Volumes/固态/ccProject/assets/res/loading/texture/bg.png": {
+      "time": 1746418793000,
+      "uuid": "0021cb5a-e4f0-4709-b0b6-5e21875720b7"
+    },
+    "/Volumes/固态/ccProject/assets/res/loading/texture/icon_loading_bar.png": {
+      "time": 1746418793000,
+      "uuid": "1ac049d7-c899-492a-89a7-4e8d85ce4cb1"
+    },
+    "/Volumes/固态/ccProject/assets/res/loading/texture/panel_loading_bottom_frame.png": {
+      "time": 1746418793000,
+      "uuid": "a2001856-24f5-4ac7-9309-1207a3210cd8"
+    },
+    "/Volumes/固态/ccProject/assets/resources/common/prefab/netinstable.prefab": {
+      "time": 1746418793000,
+      "uuid": "9cc71d8c-192a-4234-8204-352f42b95c65"
+    },
+    "/Volumes/固态/ccProject/assets/resources/common/prefab/notify.prefab": {
+      "time": 1746418793000,
+      "uuid": "10285c1d-979d-4a7e-80c0-86e0dc2a65d8"
+    },
+    "/Volumes/固态/ccProject/assets/resources/common/prefab/window.prefab": {
+      "time": 1746418793000,
+      "uuid": "2501cdfd-ca13-49a6-9c23-ea51586c54c4"
+    },
+    "/Volumes/固态/ccProject/assets/resources/config/game/Language.json": {
+      "time": 1746418793000,
+      "uuid": "b92e9be8-b6df-4e15-8b4b-16326a243229"
+    },
+    "/Volumes/固态/ccProject/assets/resources/gui/prefab/demo.prefab": {
+      "time": 1746418793000,
+      "uuid": "5b6511a4-181b-4c81-9f9c-51e4c21b4d64"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/json/en.json": {
+      "time": 1746418793000,
+      "uuid": "2c0f4643-d84a-49b9-9069-8efe9434304c"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/json/en.ttf": {
+      "time": 1746418793000,
+      "uuid": "859314dc-c952-48fc-84a7-bba774e1f873"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/json/zh.json": {
+      "time": 1746418793000,
+      "uuid": "f39d9bde-aff1-4255-846f-cbc4169d5d45"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/json/zh.ttf": {
+      "time": 1746418793000,
+      "uuid": "d06fcc91-daf7-4f73-9c6f-84054f48cf5c"
+    },
+    "/Volumes/固态/ccProject/assets/resources/loading/prefab/loading.prefab": {
+      "time": 1746418793000,
+      "uuid": "b3142304-c27f-4492-b94f-551d154a2bf4"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/texture/en/image.jpg": {
+      "time": 1746418793000,
+      "uuid": "3d5b607a-face-426b-8200-acf8384108db"
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/texture/zh/image.jpg": {
+      "time": 1746418793000,
+      "uuid": "a65eaaec-d315-4134-a79e-23bb817d1939"
+    },
+    "/Volumes/固态/ccProject/assets/main.scene.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/config.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/version.manifest.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/project.manifest.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/common/prefab/netinstable.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/common/prefab/notify.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/res/loading/texture/icon_loading_bar.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/res/common/texture/loading.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/common/prefab/window.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/res/loading/texture/panel_loading_bottom_frame.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/res/loading/texture/bg.png.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/config/game/Language.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/json/en.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/gui/prefab/demo.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/json/zh.json.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/json/en.ttf.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/loading/prefab/loading.prefab.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/json/zh.ttf.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/texture/en/image.jpg.meta": {
+      "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/resources/language/texture/zh/image.jpg.meta": {
+      "time": 1746418793000
+    }
+  },
+  "missing": {}
+}

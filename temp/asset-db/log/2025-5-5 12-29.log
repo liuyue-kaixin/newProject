@@ -1,0 +1,480 @@
+2025-5-5 12:29:29-log: Cannot access game frame or container.
+2025-5-5 12:29:30-debug: asset-db:require-engine-code (2311ms)
+2025-5-5 12:29:30-log: meshopt wasm decoder initialized
+2025-5-5 12:29:30-log: [bullet]:bullet wasm lib loaded.
+2025-5-5 12:29:31-log: [box2d]:box2d wasm lib loaded.
+2025-5-5 12:29:31-log: Cocos Creator v3.8.6
+2025-5-5 12:29:31-log: Using legacy pipeline
+2025-5-5 12:29:31-log: Forward render pipeline initialized.
+2025-5-5 12:29:31-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:35.47MB, end 82.82MB, increase: 47.36MB
+2025-5-5 12:29:31-debug: [Assets Memory track]: asset-db-plugin-register: programming start:83.99MB, end 86.61MB, increase: 2.61MB
+2025-5-5 12:29:34-debug: [Assets Memory track]: asset-db-plugin-register: builder start:86.64MB, end 230.52MB, increase: 143.88MB
+2025-5-5 12:29:34-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:230.76MB, end 234.06MB, increase: 3.30MB
+2025-5-5 12:29:34-debug: [Assets Memory track]: asset-db-plugin-register: project start:83.84MB, end 234.26MB, increase: 150.42MB
+2025-5-5 12:29:34-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:82.85MB, end 234.29MB, increase: 151.45MB
+2025-5-5 12:29:34-debug: asset-db:worker-init: initPlugin (3685ms)
+2025-5-5 12:29:34-debug: [Assets Memory track]: asset-db:worker-init start:35.46MB, end 234.39MB, increase: 198.94MB
+2025-5-5 12:29:34-debug: Run asset db hook programming:beforePreStart ...
+2025-5-5 12:29:34-debug: Run asset db hook programming:beforePreStart success!
+2025-5-5 12:29:34-debug: Run asset db hook engine-extends:beforePreStart ...
+2025-5-5 12:29:34-debug: Run asset db hook engine-extends:beforePreStart success!
+2025-5-5 12:29:35-debug: asset-db:worker-init (6536ms)
+2025-5-5 12:29:35-debug: asset-db-hook-engine-extends-beforePreStart (146ms)
+2025-5-5 12:29:35-debug: asset-db-hook-programming-beforePreStart (147ms)
+2025-5-5 12:29:35-debug: Preimport db internal success
+2025-5-5 12:29:35-debug: Preimport db assets success
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/corebackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/modulebackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/commonbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gamebackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/guibackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animatorbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effectbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-movebackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-treebackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/camerabackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/collectionbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/guibackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utilsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-viewbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/render-texturebackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/networkbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/commonbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/configbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/audiobackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/eventbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/loaderbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/logbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/randombackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/storagebackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/timerbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layerbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/promptbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/corebackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/2dbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/3dbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/badgebackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/buttonbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/labelbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/languagebackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/uibackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/protocolbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/3d/geometrybackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/Oops.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/Oops.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/Root.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/Root.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/game/GameManager.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/game/GameManager.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/GUI.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/GUI.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/ArrayUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/ArrayUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/CameraUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/CameraUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/EncryptUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/EncryptUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/ImageUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/ImageUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/JsonUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/JsonUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/LayerUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/LayerUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/MathUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/MathUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/ObjectUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/ObjectUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/PhysicsUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/PhysicsUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/PlatformUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/PlatformUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/RegexUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/RegexUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/RotateUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/RotateUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/StringUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/StringUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/Vec3Util.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/Vec3Util.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/ViewUtil.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/utils/ViewUtil.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorAnimation.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorAnimation.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorCustomization.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorCustomization.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorDragonBones.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorDragonBones.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorSkeletal.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorSpine.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorSkeletal.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorSpineSecondary.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorSpineSecondary.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/Effect2DFollow3D.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/Effect2DFollow3D.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/AnimatorSpine.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectDelayRelease.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectDelayRelease.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectEvent.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectEvent.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectFinishedRelease.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectFinishedRelease.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectSingleCase.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/EffectSingleCase.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-move/MoveRigidBody.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-move/MoveRigidBody.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-move/MoveTo.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-move/MoveTo.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-move/MoveTranslate.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-move/MoveTranslate.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/BTreeNode.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/BehaviorTree.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/BTreeNode.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/BehaviorTree.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/BranchNode.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/BranchNode.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/Decorator.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/Decorator.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/IControl.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/IControl.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/Priority.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/Priority.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/Selector.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/Sequence.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/Selector.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/Sequence.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/Task.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/Task.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/index.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/behavior-tree/index.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/camera/FreeFlightCamera.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/camera/FreeFlightCamera.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/camera/OrbitCamera.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/camera/OrbitCamera.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/collection/AsyncQueue.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/collection/AsyncQueue.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/collection/Collection.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/collection/Collection.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECS.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECS.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSComp.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSComp.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSEntity.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSEntity.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSGroup.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSGroup.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSMask.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSMask.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSMatcher.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSMatcher.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSModel.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSModel.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSSystem.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/ecs/ECSSystem.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/JsonOb.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/JsonOb.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/StringFormat.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/StringFormat.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMBase.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMBase.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMCompsEdit.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMCompsEdit.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMCustom.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMCustom.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMEnv.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMEnv.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMEvent.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMEvent.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMLabel.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMLabel.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMModify.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMModify.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMParent.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMParent.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMProgress.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMProgress.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMState.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/VMState.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/ViewModel.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/ViewModel.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/HttpRequest.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/HttpRequest.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/NetInterface.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/NetInterface.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/NetManager.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/NetManager.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/NetNode.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/NetNode.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/NetProtocolPako.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/NetProtocolPako.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/NetProtocolProtobuf.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/NetProtocolProtobuf.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/WebSock.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/WebSock.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/render-texture/RtToModel.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/render-texture/RtToModel.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/render-texture/RtToSprite.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/render-texture/RtToSprite.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/common/CCComp.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/common/CCComp.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/common/CCVMParentComp.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/common/CCVMParentComp.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/common/GameCollision.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/common/GameCollision.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/common/GameComponent.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/common/GameComponent.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/config/BuildTimeConstants.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/config/BuildTimeConstants.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/config/Config.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/config/Config.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/config/GameConfig.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/config/GameConfig.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/config/GameQueryConfig.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/module/config/GameQueryConfig.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/audio/AudioEffect.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/audio/AudioEffect.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/audio/AudioManager.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/audio/AudioManager.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/audio/AudioMusic.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/audio/AudioMusic.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/event/EventDispatcher.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/event/EventDispatcher.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/event/EventMessage.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/event/EventMessage.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/event/MessageManager.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/event/MessageManager.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/loader/ResLoader.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/loader/ResLoader.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/log/Logger.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/log/Logger.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/random/RandomManager.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/random/RandomManager.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/storage/StorageManager.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/storage/StorageManager.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/timer/Timer.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/timer/Timer.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/timer/TimerManager.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/common/timer/TimerManager.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/Defines.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/Defines.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/DelegateComponent.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/DelegateComponent.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/LayerDialog.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/LayerDialog.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/LayerManager.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/LayerManager.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/LayerNotify.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/LayerNotify.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/LayerPopup.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/LayerPopup.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/LayerUI.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/LayerUI.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/UIMap.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/layer/UIMap.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/prompt/CommonPrompt.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/prompt/CommonPrompt.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/prompt/LoadingIndicator.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/prompt/LoadingIndicator.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/prompt/Notify.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/core/gui/prompt/Notify.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorBase.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorBase.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorCondition.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorCondition.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorController.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorController.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorParams.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorParams.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorState.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorState.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorStateLogic.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorStateLogic.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorTransition.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator/core/AnimatorTransition.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/Ambilight.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/Ambilight.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/FlashSpine.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/FlashSpine.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/FlashSprite.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/FlashSprite.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/SpineFinishedRelease.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/2d/SpineFinishedRelease.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/3d/NavLine.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/3d/NavLine.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/badge/Badge.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/badge/Badge.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/badge/RoundRectMask.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/badge/RoundRectMask.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/button/ButtonEffect.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/button/ButtonEffect.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/button/ButtonSimple.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/button/ButtonSimple.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/button/ButtonTouchLong.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/button/ButtonTouchLong.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/label/LabelChange.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/label/LabelChange.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/label/LabelNumber.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/label/LabelNumber.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/label/LabelTime.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/label/LabelTime.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/Language.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/Language.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageData.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageData.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageLabel.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageLabel.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/LanguagePack.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/LanguagePack.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageSpine.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageSpine.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageSprite.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/gui/language/LanguageSprite.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvButtonGroup.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvButtonGroup.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvFrameIndex.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvFrameIndex.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvRollNumber.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvRollNumber.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvSwitchPage.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/ui/BhvSwitchPage.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/3d/geometry/DrawMeshSector.ts(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:35-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/animator-effect/3d/geometry/DrawMeshSector.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:35-debug: Preimport db oops-framework success
+2025-5-5 12:29:35-debug: Run asset db hook programming:afterPreStart ...
+2025-5-5 12:29:35-debug: starting packer-driver...
+2025-5-5 12:29:43-debug: initialize scripting environment...
+2025-5-5 12:29:43-debug: [[Executor]] prepare before lock
+2025-5-5 12:29:43-debug: Set detail map pack:///resolution-detail-map.json: {  "./chunks/a0/a0685618a7bbdeb159dd1f12622aeb1ad573f7b5.js": {    "crypto-es": {      "error": "Error: 以 file:///Volumes/%E5%9B%BA%E6%80%81/project/extensions/oops-plugin-framework/assets/core/utils/EncryptUtil.ts 为起点找不到模块 \"crypto-es\""    }  }}
+2025-5-5 12:29:43-debug: Run asset db hook programming:afterPreStart success!
+2025-5-5 12:29:43-debug: Run asset db hook engine-extends:afterPreStart ...
+2025-5-5 12:29:43-debug: [[Executor]] prepare after unlock
+2025-5-5 12:29:43-debug: Run asset db hook engine-extends:afterPreStart success!
+2025-5-5 12:29:43-debug: Start up the 'internal' database...
+2025-5-5 12:29:44-debug: asset-db-hook-programming-afterPreStart (8616ms)
+2025-5-5 12:29:44-debug: asset-db:worker-effect-data-processing (737ms)
+2025-5-5 12:29:44-debug: asset-db-hook-engine-extends-afterPreStart (737ms)
+2025-5-5 12:29:44-debug: Start up the 'assets' database...
+2025-5-5 12:29:44-debug: asset-db:worker-startup-database[internal] (9222ms)
+2025-5-5 12:29:44-debug: Start up the 'oops-framework' database...
+2025-5-5 12:29:44-warn: Importer exec warning: {asset[/Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/README.md](75bee78b-9817-4c58-a8a2-ac3626541dc2)}: The importer version is lower than asset
+2025-5-5 12:29:44-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/model-view/README.mdbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:44-debug: %cMigrate%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/protocol/pako.min.js(4.0.24)background: #fbe5b5; color: #000;color: #000;
+2025-5-5 12:29:44-debug: %cImport%c: /Volumes/固态/project/extensions/oops-plugin-framework/assets/libs/network/protocol/pako.min.jsbackground: #aaff85; color: #000;color: #000;
+2025-5-5 12:29:44-debug: asset-db:worker-startup-database[assets] (9024ms)
+2025-5-5 12:29:44-debug: lazy register asset handler *
+2025-5-5 12:29:44-debug: lazy register asset handler directory
+2025-5-5 12:29:44-debug: lazy register asset handler text
+2025-5-5 12:29:44-debug: lazy register asset handler json
+2025-5-5 12:29:44-debug: lazy register asset handler spine-data
+2025-5-5 12:29:44-debug: lazy register asset handler dragonbones
+2025-5-5 12:29:44-debug: lazy register asset handler dragonbones-atlas
+2025-5-5 12:29:44-debug: lazy register asset handler terrain
+2025-5-5 12:29:44-debug: lazy register asset handler javascript
+2025-5-5 12:29:44-debug: lazy register asset handler typescript
+2025-5-5 12:29:44-debug: lazy register asset handler scene
+2025-5-5 12:29:44-debug: lazy register asset handler prefab
+2025-5-5 12:29:44-debug: lazy register asset handler sprite-frame
+2025-5-5 12:29:44-debug: lazy register asset handler tiled-map
+2025-5-5 12:29:44-debug: lazy register asset handler buffer
+2025-5-5 12:29:44-debug: lazy register asset handler image
+2025-5-5 12:29:44-debug: lazy register asset handler sign-image
+2025-5-5 12:29:44-debug: lazy register asset handler alpha-image
+2025-5-5 12:29:44-debug: lazy register asset handler texture
+2025-5-5 12:29:44-debug: lazy register asset handler texture-cube
+2025-5-5 12:29:44-debug: lazy register asset handler erp-texture-cube
+2025-5-5 12:29:44-debug: lazy register asset handler render-texture
+2025-5-5 12:29:44-debug: lazy register asset handler texture-cube-face
+2025-5-5 12:29:44-debug: lazy register asset handler rt-sprite-frame
+2025-5-5 12:29:44-debug: lazy register asset handler gltf
+2025-5-5 12:29:44-debug: lazy register asset handler gltf-mesh
+2025-5-5 12:29:44-debug: lazy register asset handler gltf-animation
+2025-5-5 12:29:44-debug: lazy register asset handler gltf-skeleton
+2025-5-5 12:29:44-debug: lazy register asset handler gltf-material
+2025-5-5 12:29:44-debug: lazy register asset handler gltf-scene
+2025-5-5 12:29:44-debug: lazy register asset handler gltf-embeded-image
+2025-5-5 12:29:44-debug: lazy register asset handler fbx
+2025-5-5 12:29:44-debug: lazy register asset handler material
+2025-5-5 12:29:44-debug: lazy register asset handler physics-material
+2025-5-5 12:29:44-debug: lazy register asset handler effect
+2025-5-5 12:29:44-debug: lazy register asset handler effect-header
+2025-5-5 12:29:44-debug: lazy register asset handler audio-clip
+2025-5-5 12:29:44-debug: lazy register asset handler animation-clip
+2025-5-5 12:29:44-debug: lazy register asset handler animation-graph
+2025-5-5 12:29:44-debug: lazy register asset handler animation-graph-variant
+2025-5-5 12:29:44-debug: lazy register asset handler animation-mask
+2025-5-5 12:29:44-debug: lazy register asset handler ttf-font
+2025-5-5 12:29:44-debug: lazy register asset handler bitmap-font
+2025-5-5 12:29:44-debug: lazy register asset handler particle
+2025-5-5 12:29:44-debug: lazy register asset handler sprite-atlas
+2025-5-5 12:29:44-debug: lazy register asset handler auto-atlas
+2025-5-5 12:29:44-debug: lazy register asset handler label-atlas
+2025-5-5 12:29:44-debug: lazy register asset handler render-pipeline
+2025-5-5 12:29:44-debug: lazy register asset handler render-stage
+2025-5-5 12:29:44-debug: lazy register asset handler render-flow
+2025-5-5 12:29:44-debug: lazy register asset handler instantiation-material
+2025-5-5 12:29:44-debug: lazy register asset handler instantiation-mesh
+2025-5-5 12:29:44-debug: lazy register asset handler instantiation-skeleton
+2025-5-5 12:29:44-debug: lazy register asset handler instantiation-animation
+2025-5-5 12:29:44-debug: lazy register asset handler video-clip
+2025-5-5 12:29:44-debug: asset-db:start-database (9738ms)
+2025-5-5 12:29:44-debug: asset-db:ready (22452ms)
+2025-5-5 12:29:44-debug: asset-db:worker-startup-database[oops-framework] (9494ms)
+2025-5-5 12:29:44-debug: fix the bug of updateDefaultUserData
+2025-5-5 12:29:44-debug: init worker message success
+2025-5-5 12:29:44-debug: programming:execute-script (2ms)
+2025-5-5 12:29:45-log: [oops-plugin-hot-update] 热更新插件加载
+2025-5-5 12:29:45-debug: [Build Memory track]: builder:worker-init start:208.32MB, end 220.74MB, increase: 12.42MB
+2025-5-5 12:29:46-debug: builder:worker-init (1407ms)
+2025-5-5 12:29:56-debug: refresh db internal success
+2025-5-5 12:29:56-debug: refresh db assets success
+2025-5-5 12:29:56-debug: refresh db oops-framework success
+2025-5-5 12:29:56-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-5 12:29:56-debug: asset-db:refresh-all-database (56ms)
+2025-5-5 12:29:56-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-5 12:29:56-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-5 12:29:56-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-5 12:30:29-debug: refresh db internal success
+2025-5-5 12:30:29-debug: refresh db assets success
+2025-5-5 12:30:29-debug: refresh db oops-framework success
+2025-5-5 12:30:29-debug: asset-db:refresh-all-database (104ms)
+2025-5-5 12:30:29-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-5 12:30:29-debug: asset-db:worker-effect-data-processing (4ms)
+2025-5-5 12:30:29-debug: asset-db-hook-engine-extends-afterRefresh (4ms)
+2025-5-5 12:30:29-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-5 12:30:39-debug: Query all assets info in project
+2025-5-5 12:30:39-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-5 12:30:39-debug: Skip compress image, progress: 0%
+2025-5-5 12:30:39-debug: Init all bundles start..., progress: 0%
+2025-5-5 12:30:39-debug: Num of bundles: 3..., progress: 0%
+2025-5-5 12:30:39-debug: 查询 Asset Bundle start, progress: 0%
+2025-5-5 12:30:39-debug: // ---- build task 查询 Asset Bundle ----
+2025-5-5 12:30:39-debug: Init bundle root assets start..., progress: 0%
+2025-5-5 12:30:39-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,6a2d0734-bd9e-4ddf-946e-caa52498cb75,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3,ff9b0199-ce04-4cfe-86cc-6c719f08d6e4,de1c2107-70c8-4021-8459-6399f24d01c6,cbf30902-517f-40dc-af90-a550bac27cf1
+2025-5-5 12:30:39-debug:   Number of all scenes: 1
+2025-5-5 12:30:39-debug:   Number of all scripts: 155
+2025-5-5 12:30:39-debug:   Number of other assets: 341
+2025-5-5 12:30:39-debug: Init bundle root assets success..., progress: 0%
+2025-5-5 12:30:39-debug: // ---- build task 查询 Asset Bundle ---- (12ms)
+2025-5-5 12:30:39-log: run build task 查询 Asset Bundle success in 12 ms√, progress: 5%
+2025-5-5 12:30:39-debug: [Build Memory track]: 查询 Asset Bundle start:207.72MB, end 207.85MB, increase: 135.97KB
+2025-5-5 12:30:39-debug: 查询 Asset Bundle start, progress: 5%
+2025-5-5 12:30:39-debug: // ---- build task 查询 Asset Bundle ----
+2025-5-5 12:30:39-debug: // ---- build task 查询 Asset Bundle ---- (7ms)
+2025-5-5 12:30:39-log: run build task 查询 Asset Bundle success in 7 ms√, progress: 10%
+2025-5-5 12:30:39-debug: [Build Memory track]: 查询 Asset Bundle start:207.89MB, end 208.02MB, increase: 131.83KB
+2025-5-5 12:30:39-debug: 整理部分构建选项内数据到 settings.json start, progress: 10%
+2025-5-5 12:30:39-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2025-5-5 12:30:39-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2025-5-5 12:30:39-log: run build task 整理部分构建选项内数据到 settings.json success in 1 ms√, progress: 12%
+2025-5-5 12:30:39-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:208.05MB, end 208.07MB, increase: 26.54KB
+2025-5-5 12:30:39-debug: 填充脚本数据到 settings.json start, progress: 12%
+2025-5-5 12:30:39-debug: // ---- build task 填充脚本数据到 settings.json ----
+2025-5-5 12:30:39-debug: // ---- build task 填充脚本数据到 settings.json ---- (2ms)
+2025-5-5 12:30:39-log: run build task 填充脚本数据到 settings.json success in 2 ms√, progress: 13%
+2025-5-5 12:30:39-debug: [Build Memory track]: 填充脚本数据到 settings.json start:208.11MB, end 208.14MB, increase: 28.93KB
+2025-5-5 12:30:39-debug: 整理部分构建选项内数据到 settings.json start, progress: 13%
+2025-5-5 12:30:39-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2025-5-5 12:30:39-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (7ms)
+2025-5-5 12:30:39-log: run build task 整理部分构建选项内数据到 settings.json success in 7 ms√, progress: 15%
+2025-5-5 12:30:39-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:208.17MB, end 208.31MB, increase: 146.98KB

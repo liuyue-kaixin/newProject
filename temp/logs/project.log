@@ -1,0 +1,131 @@
+5-5-2025 13:54:44 - log: Load engine in /Volumes/固态/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine
+5-5-2025 13:54:44 - log: Register native engine in /Volumes/固态/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+5-5-2025 13:54:45 - log: Request namespace: device-list
+5-5-2025 13:55:01 - info: [PreviewInEditor] 预览环境初始化完毕
+5-5-2025 13:55:16 - log: [Scene] meshopt wasm decoder initialized
+5-5-2025 13:55:16 - log: [Scene] [bullet]:bullet wasm lib loaded.
+5-5-2025 13:55:16 - log: [Scene] [box2d]:box2d wasm lib loaded.
+5-5-2025 13:55:16 - log: [Scene] [PHYSICS]: using builtin.
+5-5-2025 13:55:16 - log: [Scene] Cocos Creator v3.8.6
+5-5-2025 13:55:17 - log: [Scene] Using custom pipeline: Builtin
+5-5-2025 13:55:17 - log: [Scene] [PHYSICS]: switch from builtin to bullet.
+5-5-2025 13:55:17 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+5-5-2025 13:55:18 - warn: [Scene] Open the previous scene failed: 840b2f07-d39c-49eb-9b34-ad0a077bf561 can not be found.Error: [Scene] Open the previous scene failed: 840b2f07-d39c-49eb-9b34-ad0a077bf561 can not be found.
+    at console.warn (/Volumes/固态/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@sentry/src/instrument/console.ts:40:20)
+    at SceneFacadeManager.openScene (/Volumes/固态/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:6909)
+5-5-2025 13:55:48 - log: [PreviewInEditor] meshopt wasm decoder initialized
+5-5-2025 13:55:48 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+5-5-2025 13:55:48 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+5-5-2025 13:55:48 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+5-5-2025 13:55:49 - log: [PreviewInEditor] Cocos Creator v3.8.6
+5-5-2025 13:55:49 - log: [PreviewInEditor] Using custom pipeline: Builtin
+5-5-2025 13:55:50 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+5-5-2025 13:55:50 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+5-5-2025 13:55:51 - log: [PreviewInEditor] Oops Framework v1.1.5
+5-5-2025 13:55:51 - log: [PreviewInEditor] 
+                 ALIPAY : false,
+                ANDROID : false,
+                  BUILD : false,
+              BYTEDANCE : false,
+          COCOS_RUNTIME : false,
+           CULL_MESHOPT : false,
+                  DEBUG : true,
+                    DEV : true,
+                 EDITOR : true,
+  EDITOR_NOT_IN_PREVIEW : false,
+                  HONOR : false,
+                  HTML5 : true,
+                 HUAWEI : false,
+                    IOS : false,
+                    JSB : false,
+                  LINUX : false,
+    LOAD_BOX2D_MANUALLY : false,
+   LOAD_BULLET_MANUALLY : false,
+    LOAD_PHYSX_MANUALLY : false,
+    LOAD_SPINE_MANUALLY : false,
+                    MAC : false,
+                   MIGU : false,
+               MINIGAME : false,
+                 NATIVE : false,
+NATIVE_CODE_BUNDLE_MODE : 2,
+               NET_MODE : 0,
+    NOT_PACK_PHYSX_LIBS : false,
+                   OHOS : false,
+           OPEN_HARMONY : false,
+                   OPPO : false,
+                PREVIEW : false,
+          RUNTIME_BASED : false,
+            SERVER_MODE : false,
+            SUPPORT_JIT : false,
+                 TAOBAO : false,
+        TAOBAO_MINIGAME : false,
+                   TEST : false,
+                 USE_3D : true,
+            USE_UI_SKEW : true,
+                 USE_XR : false,
+                   VIVO : false,
+        WASM_SUBPACKAGE : false,
+                 WEBGPU : false,
+                 WECHAT : false,
+    WECHAT_MINI_PROGRAM : false,
+                WINDOWS : false,
+                 XIAOMI : false
+5-5-2025 13:55:52 - log: [PreviewInEditor] [13:55:51:870][配置日志][GameQueryConfig.ts]:查询参数{
+  url: '/Volumes/固态/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/preload/web/preview.js',
+  username: '87ce2a82-c50a-f897-6387-1e1b21a87f1e'
+}
+5-5-2025 13:55:52 - log: [PreviewInEditor] [13:55:52:030][配置日志][GameConfig.ts]:游戏配置{
+  config: {
+    version: '1.0.5',
+    package: 'com.oops.game',
+    localDataKey: 'oops',
+    localDataIv: 'framework',
+    httpServer: 'http://192.168.0.150/main/',
+    httpTimeout: 10000,
+    frameRate: 60
+  },
+  language: {
+    type: [ 'zh', 'en', [length]: 2 ],
+    path: { json: 'language/json', texture: 'language/texture', spine: '' }
+  },
+  bundle: {
+    enable: false,
+    server: 'http://localhost:8083/assets/bundle',
+    name: 'bundle',
+    version: ''
+  }
+}
+5-5-2025 13:55:52 - log: [PreviewInEditor] [13:55:52:041][视图日志][GUI.ts->resize]:设计尺寸Size {
+  width: 1200,
+  height: 720,
+  [x]: [Getter/Setter],
+  [y]: [Getter/Setter],
+  [__classname__]: 'cc.Size',
+  [__cid__]: 'cc.Size'
+}
+5-5-2025 13:55:52 - log: [PreviewInEditor] [13:55:52:043][视图日志][GUI.ts->resize]:屏幕尺寸Size {
+  width: 1500,
+  height: 1000,
+  [x]: [Getter/Setter],
+  [y]: [Getter/Setter],
+  [__classname__]: 'cc.Size',
+  [__cid__]: 'cc.Size'
+}
+5-5-2025 13:55:52 - log: [PreviewInEditor] [13:55:52:123][视图日志][Main.ts-><anonymous>]:'【系统】游戏画布尺寸变化'
+5-5-2025 13:55:52 - log: [PreviewInEditor] [13:55:52:125][视图日志][GUI.ts->resize]:设计尺寸Size {
+  width: 1200,
+  height: 720,
+  [x]: [Getter/Setter],
+  [y]: [Getter/Setter],
+  [__classname__]: 'cc.Size',
+  [__cid__]: 'cc.Size'
+}
+5-5-2025 13:55:52 - log: [PreviewInEditor] [13:55:52:126][视图日志][GUI.ts->resize]:屏幕尺寸Size {
+  width: 1200,
+  height: 720,
+  [x]: [Getter/Setter],
+  [y]: [Getter/Setter],
+  [__classname__]: 'cc.Size',
+  [__cid__]: 'cc.Size'
+}
+5-5-2025 13:55:57 - info: [PreviewInEditor] 预览环境初始化完毕

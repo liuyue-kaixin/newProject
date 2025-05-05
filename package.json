@@ -1,0 +1,16 @@
+{
+  "creator": {
+    "version": "3.8.6"
+  },
+  "dependencies": {
+    "crypto-es": "^1.2.7"
+  },
+  "description": "oops-framework",
+  "devDependencies": {
+    "@types/node": "^17.0.25"
+  },
+  "name": "oops-framework",
+  "uuid": "beef6937-c688-42fe-b9ff-6902173c162d",
+  "_sourceId": "c30b28da-749e-479b-bcb6-cecd8d7be9e3",
+  "_storeId": "9a8853e59c5b4a4adb8093e8e192b369"
+}
