@@ -447,7 +447,7 @@
       "uuid": "8082dcd2-510f-4867-b2f1-c377843e16b4"
     },
     "/Volumes/固态/ccProject/assets/resources/language": {
-      "time": 1746418793000,
+      "time": 1746425615000,
       "uuid": "212e9f36-3089-49a2-80d3-28e93d0d19f1"
     },
     "/Volumes/固态/ccProject/assets/resources/loading": {
@@ -487,7 +487,7 @@
       "uuid": "d4b2745d-3af5-4ffa-8b11-b0ac6a927551"
     },
     "/Volumes/固态/ccProject/assets/resources/language/texture": {
-      "time": 1746418793000,
+      "time": 1746425615000,
       "uuid": "b67a859f-640d-4a5a-825e-51971fed24a5"
     },
     "/Volumes/固态/ccProject/assets/resources/loading/prefab": {
@@ -688,7 +688,7 @@
       "time": 1746418793000
     },
     "/Volumes/固态/ccProject/assets/main.scene": {
-      "time": 1746418793000,
+      "time": 1746425769000,
       "uuid": "ba0b085f-f8d5-40b0-9964-2fd25728d707"
     },
     "/Volumes/固态/ccProject/assets/resources/config.json": {
@@ -826,6 +826,496 @@
     },
     "/Volumes/固态/ccProject/assets/resources/language/texture/zh/image.jpg.meta": {
       "time": 1746418793000
+    },
+    "/Volumes/固态/ccProject/assets/bundle.meta": {
+      "time": 1746425781000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle.meta": {
+      "time": 1746425702000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/main.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/Joystick.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/texture.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/AILib.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Agent.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Body.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Collider.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Maths.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Object.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Shape.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect/moveUV.effect.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect/scaleXY.effect.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect/sprite3d.effect.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Sprite2d.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Sprite3d.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bullet.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bulletHell.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/detector.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/enemy.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/ghost.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/gun.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/player.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/skill.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/snailTail.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/Camera3D.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/Config.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/demo2d.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/demo3d.ts.meta": {
+      "time": 1746274602000
+    },
+    "/Volumes/固态/ccProject/assets/bundle": {
+      "time": 1746425702000,
+      "uuid": "2541ef24-edf2-4d70-829f-f339d5773702"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick": {
+      "time": 1746274424000,
+      "uuid": "be767544-e8bd-4abc-9f5e-839165d70f45"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision": {
+      "time": 1746274424000,
+      "uuid": "c5baf42d-39d2-4b12-8490-134f48794b0b"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos": {
+      "time": 1746274957000,
+      "uuid": "543df115-de6a-4334-a7eb-d038a1461dac"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle": {
+      "time": 1746340120000,
+      "uuid": "5f01baac-103e-4e5e-92bd-bcf1869c9f77"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect": {
+      "time": 1746274424000,
+      "uuid": "abdfa6f0-33f7-4604-b4dd-a7489de57650"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs": {
+      "time": 1746274424000,
+      "uuid": "c56c0585-ba51-4e21-b81e-9e3ea6972758"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues": {
+      "time": 1746274423000,
+      "uuid": "49f78363-43b5-42ca-9e2e-0ed8f2ebb048"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/texture": {
+      "time": 1746274424000,
+      "uuid": "27c54470-b67d-4641-bc8e-f43899abd359"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/main.ts": {
+      "time": 1746274424000,
+      "uuid": "70f4f050-dfae-466a-885f-099c7454f64d"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/Joystick.ts": {
+      "time": 1746274424000,
+      "uuid": "690837d4-6828-40c1-8d01-63474bede24b"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/AILib.ts": {
+      "time": 1746274424000,
+      "uuid": "e200aacb-5a04-4ad9-a115-77799beb9ba7"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Agent.ts": {
+      "time": 1746274424000,
+      "uuid": "27880b8d-662f-424c-bc03-cc34ced420d1"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Body.ts": {
+      "time": 1746274424000,
+      "uuid": "35d5e698-33d7-49c2-ba8f-b24111279140"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Collider.ts": {
+      "time": 1746274424000,
+      "uuid": "e991894f-6409-4d11-9182-d646fff5caa8"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Maths.ts": {
+      "time": 1746274424000,
+      "uuid": "82beda41-8436-469b-b114-074b809e3527"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell": {
+      "time": 1746274424000,
+      "uuid": "1591bb1a-b26e-4179-9cbf-4498f81158e9"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions": {
+      "time": 1746274424000,
+      "uuid": "eb84b418-2731-443c-b2b5-d79e0b63064e"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Object.ts": {
+      "time": 1746274424000,
+      "uuid": "f834e33c-a449-4ea8-9ef5-ed8cff5edf7e"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/collision/Shape.ts": {
+      "time": 1746274424000,
+      "uuid": "83d948db-2e76-45ee-856c-d964358c92be"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Sprite2d.ts": {
+      "time": 1746274424000,
+      "uuid": "a1d566e8-4f75-4d7e-835b-6dffe8cc9b99"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Sprite3d.ts": {
+      "time": 1746274424000,
+      "uuid": "56ae80ae-da79-42f6-8e8f-28361c629701"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect/moveUV.effect": {
+      "time": 1746274602000,
+      "uuid": "bc7d76c2-3f1a-4667-ad2c-38abd98bd1f6"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell": {
+      "time": 1746274424000,
+      "uuid": "dedd6571-3587-4092-9b83-1441d4f10ce2"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1": {
+      "time": 1746274423000,
+      "uuid": "3d2acd8d-7aee-491c-9111-7d382118696a"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect/scaleXY.effect": {
+      "time": 1746274602000,
+      "uuid": "844977fc-c166-4889-906d-c0388f16ebe0"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect/sprite3d.effect": {
+      "time": 1746274602000,
+      "uuid": "d47c07b0-7352-4518-9dec-1ed02aecc971"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bullet.ts": {
+      "time": 1746274424000,
+      "uuid": "10c41c33-3906-4d02-925b-37c288ba162b"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/bulletHell.ts": {
+      "time": 1746274424000,
+      "uuid": "14305c80-c89d-4c8d-9bb8-afbb05a3529a"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/detector.ts": {
+      "time": 1746274424000,
+      "uuid": "d96b64ad-1c49-42a8-b88b-4060f3cc0dfc"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/enemy.ts": {
+      "time": 1746274424000,
+      "uuid": "ab37b69b-c891-4384-8e62-ac860bb01b70"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/ghost.ts": {
+      "time": 1746274424000,
+      "uuid": "a6edb24b-b960-4693-b556-7a1cf733ea36"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/gun.ts": {
+      "time": 1746274424000,
+      "uuid": "fe09de8f-f51f-4d67-b660-d9867f6c9e60"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/player.ts": {
+      "time": 1746274424000,
+      "uuid": "069bf3d5-88c3-4866-8872-9e014b2d59c4"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/skill.ts": {
+      "time": 1746274424000,
+      "uuid": "2fede599-2a9c-436e-8a70-a3b8c1cf72a8"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/bulletHell/snailTail.ts": {
+      "time": 1746274424000,
+      "uuid": "d2a8a52c-b729-4735-bca1-cc71918616ca"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/Camera3D.ts": {
+      "time": 1746274424000,
+      "uuid": "449d7ca5-091e-4d8e-9662-036c8e17a364"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/Config.ts": {
+      "time": 1746274424000,
+      "uuid": "30590317-fea2-4a81-a0bc-b7419ce719a1"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/demo2d.ts": {
+      "time": 1746274424000,
+      "uuid": "aec980dd-85c4-4063-bed1-e9cde4a4b35a"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/demos/collisions/demo3d.ts": {
+      "time": 1746274424000,
+      "uuid": "66d84727-9d0d-4bfc-90b7-396d1b0d93ff"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/scene.scene.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/Joystick.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect/material3d.mtl.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect/moveUV.mtl.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Box2d.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Box3d.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Sphere2d.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Sphere3d.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/demo2D.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/demo3D.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/Ghost.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/SnailTail.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/bb1.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/bullet.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/ninja.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/texture/inner.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/texture/round.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/BulletHell.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/bullet.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/ghost.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/gun.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/player.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/skill.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/snailTail.prefab.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill1.anim.meta": {
+      "time": 1746274423000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill1.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill2.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill3.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill4.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill5.png.meta": {
+      "time": 1746274609000
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect/moveUV.mtl": {
+      "time": 1746274609000,
+      "uuid": "59449087-a36c-4a5c-93c6-9f8795c511c2"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/effect/material3d.mtl": {
+      "time": 1746274609000,
+      "uuid": "472d6cd5-7051-4388-97da-69ac3355170f"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/scene.scene": {
+      "time": 1746274609000,
+      "uuid": "c7be2da7-0ca7-49f7-887b-25d3a4242663"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/Joystick.prefab": {
+      "time": 1746274609000,
+      "uuid": "51f91924-d562-44b1-8d68-91a9ba13415a"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Box2d.prefab": {
+      "time": 1746274609000,
+      "uuid": "51b98c30-f88b-4b45-85c6-d0e68b12d5be"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Box3d.prefab": {
+      "time": 1746274609000,
+      "uuid": "fd664dc2-418f-45d2-a6ec-4423618d3b34"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Sphere2d.prefab": {
+      "time": 1746274609000,
+      "uuid": "c50f27a5-943c-4fb2-96b3-604e34ba2ef6"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/Sphere3d.prefab": {
+      "time": 1746274609000,
+      "uuid": "cec7d9ba-6d49-446d-b4a4-fd0d83ea53af"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/demo3D.prefab": {
+      "time": 1746274609000,
+      "uuid": "1415cc7d-7fa8-4e58-b49e-cd8af6db6b35"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/demo2D.prefab": {
+      "time": 1746274609000,
+      "uuid": "2becf307-8388-4328-9282-2155344db157"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/bullet.png": {
+      "time": 1746274423000,
+      "uuid": "fbb5cd22-1942-4619-8485-07e8f05847d5"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/ninja.png": {
+      "time": 1746274423000,
+      "uuid": "ade1df4b-bdf9-4be9-9e69-602bfbfca650"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/SnailTail.png": {
+      "time": 1746274423000,
+      "uuid": "3cfef8b3-ac7b-4985-9338-8ddf3fddc9ef"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/bb1.png": {
+      "time": 1746274423000,
+      "uuid": "fdb142d5-8967-42d0-82f4-73bb75ffd9fb"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/Ghost.png": {
+      "time": 1746274423000,
+      "uuid": "b8b065ca-6aad-4ba5-a149-1678e9296b97"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/bullet.prefab": {
+      "time": 1746274609000,
+      "uuid": "10207235-ed29-422a-98ac-58c5c14e3575"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/BulletHell.prefab": {
+      "time": 1746274609000,
+      "uuid": "c93b2303-7f2c-4a6c-b362-e3394e32faf1"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/ghost.prefab": {
+      "time": 1746274609000,
+      "uuid": "a7792874-245f-4507-b288-dca28576c2c9"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/gun.prefab": {
+      "time": 1746274609000,
+      "uuid": "6f22c883-e51d-406b-92df-9034d6ffe08c"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/player.prefab": {
+      "time": 1746274609000,
+      "uuid": "881ab165-9759-4328-bbe9-b8885ba87c55"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/skill.prefab": {
+      "time": 1746274609000,
+      "uuid": "28040096-9dbc-461a-bd60-14f739b234ae"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/prefabs/bulletHell/snailTail.prefab": {
+      "time": 1746274609000,
+      "uuid": "8a64d5cb-a728-4926-982d-77f5550c3561"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill1.anim": {
+      "time": 1746274423000,
+      "uuid": "e95b689e-25d3-4b10-a5be-c97778c022e0"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/texture/inner.png": {
+      "time": 1746274424000,
+      "uuid": "868822a0-410c-473b-a675-d940ab90ac1d"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/Joystick/texture/round.png": {
+      "time": 1746274424000,
+      "uuid": "329348fa-8862-4fda-91f4-8c7a2ed04a60"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill1.png": {
+      "time": 1746274423000,
+      "uuid": "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill2.png": {
+      "time": 1746274423000,
+      "uuid": "851181b1-fd71-4211-a39d-2cc8e4af90dd"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill3.png": {
+      "time": 1746274423000,
+      "uuid": "970b19b0-5d56-49c6-a496-69f39efb6497"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill4.png": {
+      "time": 1746274423000,
+      "uuid": "92fa089a-9fc2-4ae0-b690-e295fe4c4b88"
+    },
+    "/Volumes/固态/ccProject/assets/bundle/battle/textrues/skill1/skill5.png": {
+      "time": 1746274423000,
+      "uuid": "d9f901fe-ac88-4fd8-8dee-77f14afaea4b"
     }
   },
   "missing": {}

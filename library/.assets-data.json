@@ -483,5 +483,752 @@
       ]
     },
     "versionCode": 1
+  },
+  "2541ef24-edf2-4d70-829f-f339d5773702": {
+    "url": "db://assets/bundle",
+    "value": {},
+    "versionCode": 1
+  },
+  "be767544-e8bd-4abc-9f5e-839165d70f45": {
+    "url": "db://assets/bundle/battle/Joystick",
+    "value": {},
+    "versionCode": 1
+  },
+  "c5baf42d-39d2-4b12-8490-134f48794b0b": {
+    "url": "db://assets/bundle/battle/collision",
+    "value": {},
+    "versionCode": 1
+  },
+  "543df115-de6a-4334-a7eb-d038a1461dac": {
+    "url": "db://assets/bundle/battle/demos",
+    "value": {},
+    "versionCode": 1
+  },
+  "5f01baac-103e-4e5e-92bd-bcf1869c9f77": {
+    "url": "db://assets/bundle/battle",
+    "value": {},
+    "versionCode": 1
+  },
+  "abdfa6f0-33f7-4604-b4dd-a7489de57650": {
+    "url": "db://assets/bundle/battle/effect",
+    "value": {},
+    "versionCode": 1
+  },
+  "70f4f050-dfae-466a-885f-099c7454f64d": {
+    "url": "db://assets/bundle/battle/main.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c56c0585-ba51-4e21-b81e-9e3ea6972758": {
+    "url": "db://assets/bundle/battle/prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "49f78363-43b5-42ca-9e2e-0ed8f2ebb048": {
+    "url": "db://assets/bundle/battle/textrues",
+    "value": {},
+    "versionCode": 1
+  },
+  "690837d4-6828-40c1-8d01-63474bede24b": {
+    "url": "db://assets/bundle/battle/Joystick/Joystick.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "27c54470-b67d-4641-bc8e-f43899abd359": {
+    "url": "db://assets/bundle/battle/Joystick/texture",
+    "value": {},
+    "versionCode": 1
+  },
+  "e200aacb-5a04-4ad9-a115-77799beb9ba7": {
+    "url": "db://assets/bundle/battle/collision/AILib.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "27880b8d-662f-424c-bc03-cc34ced420d1": {
+    "url": "db://assets/bundle/battle/collision/Agent.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "35d5e698-33d7-49c2-ba8f-b24111279140": {
+    "url": "db://assets/bundle/battle/collision/Body.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "e991894f-6409-4d11-9182-d646fff5caa8": {
+    "url": "db://assets/bundle/battle/collision/Collider.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "82beda41-8436-469b-b114-074b809e3527": {
+    "url": "db://assets/bundle/battle/collision/Maths.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "f834e33c-a449-4ea8-9ef5-ed8cff5edf7e": {
+    "url": "db://assets/bundle/battle/collision/Object.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "83d948db-2e76-45ee-856c-d964358c92be": {
+    "url": "db://assets/bundle/battle/collision/Shape.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "1591bb1a-b26e-4179-9cbf-4498f81158e9": {
+    "url": "db://assets/bundle/battle/demos/bulletHell",
+    "value": {},
+    "versionCode": 1
+  },
+  "eb84b418-2731-443c-b2b5-d79e0b63064e": {
+    "url": "db://assets/bundle/battle/demos/collisions",
+    "value": {},
+    "versionCode": 1
+  },
+  "bc7d76c2-3f1a-4667-ad2c-38abd98bd1f6": {
+    "url": "db://assets/bundle/battle/effect/moveUV.effect",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "844977fc-c166-4889-906d-c0388f16ebe0": {
+    "url": "db://assets/bundle/battle/effect/scaleXY.effect",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "d47c07b0-7352-4518-9dec-1ed02aecc971": {
+    "url": "db://assets/bundle/battle/effect/sprite3d.effect",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a1d566e8-4f75-4d7e-835b-6dffe8cc9b99": {
+    "url": "db://assets/bundle/battle/prefabs/Sprite2d.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "56ae80ae-da79-42f6-8e8f-28361c629701": {
+    "url": "db://assets/bundle/battle/prefabs/Sprite3d.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "dedd6571-3587-4092-9b83-1441d4f10ce2": {
+    "url": "db://assets/bundle/battle/prefabs/bulletHell",
+    "value": {},
+    "versionCode": 1
+  },
+  "3d2acd8d-7aee-491c-9111-7d382118696a": {
+    "url": "db://assets/bundle/battle/textrues/skill1",
+    "value": {},
+    "versionCode": 1
+  },
+  "10c41c33-3906-4d02-925b-37c288ba162b": {
+    "url": "db://assets/bundle/battle/demos/bulletHell/bullet.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "14305c80-c89d-4c8d-9bb8-afbb05a3529a": {
+    "url": "db://assets/bundle/battle/demos/bulletHell/bulletHell.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "d96b64ad-1c49-42a8-b88b-4060f3cc0dfc": {
+    "url": "db://assets/bundle/battle/demos/bulletHell/detector.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ab37b69b-c891-4384-8e62-ac860bb01b70": {
+    "url": "db://assets/bundle/battle/demos/bulletHell/enemy.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a6edb24b-b960-4693-b556-7a1cf733ea36": {
+    "url": "db://assets/bundle/battle/demos/bulletHell/ghost.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "fe09de8f-f51f-4d67-b660-d9867f6c9e60": {
+    "url": "db://assets/bundle/battle/demos/bulletHell/gun.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "069bf3d5-88c3-4866-8872-9e014b2d59c4": {
+    "url": "db://assets/bundle/battle/demos/bulletHell/player.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2fede599-2a9c-436e-8a70-a3b8c1cf72a8": {
+    "url": "db://assets/bundle/battle/demos/bulletHell/skill.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "d2a8a52c-b729-4735-bca1-cc71918616ca": {
+    "url": "db://assets/bundle/battle/demos/bulletHell/snailTail.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "449d7ca5-091e-4d8e-9662-036c8e17a364": {
+    "url": "db://assets/bundle/battle/demos/collisions/Camera3D.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "30590317-fea2-4a81-a0bc-b7419ce719a1": {
+    "url": "db://assets/bundle/battle/demos/collisions/Config.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "aec980dd-85c4-4063-bed1-e9cde4a4b35a": {
+    "url": "db://assets/bundle/battle/demos/collisions/demo2d.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "66d84727-9d0d-4bfc-90b7-396d1b0d93ff": {
+    "url": "db://assets/bundle/battle/demos/collisions/demo3d.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c7be2da7-0ca7-49f7-887b-25d3a4242663": {
+    "url": "db://assets/bundle/battle/scene.scene",
+    "value": {
+      "depends": [
+        "c7be2da7-0ca7-49f7-887b-25d3a4242663",
+        "158e7e52-3220-4cd7-9694-713e0e6e8278@f9941",
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
+        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941",
+        "28765e2f-040a-4c65-8e8c-f9d0bb79d863@f9941",
+        "45828f25-b50d-4c52-a591-e19491a62b8c@f9941",
+        "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7@f9941",
+        "2becf307-8388-4328-9282-2155344db157",
+        "1415cc7d-7fa8-4e58-b49e-cd8af6db6b35",
+        "c93b2303-7f2c-4a6c-b362-e3394e32faf1",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "70f4f050-dfae-466a-885f-099c7454f64d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "51f91924-d562-44b1-8d68-91a9ba13415a": {
+    "url": "db://assets/bundle/battle/Joystick/Joystick.prefab",
+    "value": {
+      "depends": [
+        "868822a0-410c-473b-a675-d940ab90ac1d@f9941",
+        "329348fa-8862-4fda-91f4-8c7a2ed04a60@f9941"
+      ],
+      "dependScripts": [
+        "690837d4-6828-40c1-8d01-63474bede24b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "472d6cd5-7051-4388-97da-69ac3355170f": {
+    "url": "db://assets/bundle/battle/effect/material3d.mtl",
+    "value": {
+      "depends": [
+        "d47c07b0-7352-4518-9dec-1ed02aecc971"
+      ]
+    },
+    "versionCode": 1
+  },
+  "59449087-a36c-4a5c-93c6-9f8795c511c2": {
+    "url": "db://assets/bundle/battle/effect/moveUV.mtl",
+    "value": {
+      "depends": [
+        "bc7d76c2-3f1a-4667-ad2c-38abd98bd1f6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "51b98c30-f88b-4b45-85c6-d0e68b12d5be": {
+    "url": "db://assets/bundle/battle/prefabs/Box2d.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": [
+        "a1d566e8-4f75-4d7e-835b-6dffe8cc9b99"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fd664dc2-418f-45d2-a6ec-4423618d3b34": {
+    "url": "db://assets/bundle/battle/prefabs/Box3d.prefab",
+    "value": {
+      "depends": [
+        "472d6cd5-7051-4388-97da-69ac3355170f"
+      ],
+      "dependScripts": [
+        "56ae80ae-da79-42f6-8e8f-28361c629701"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c50f27a5-943c-4fb2-96b3-604e34ba2ef6": {
+    "url": "db://assets/bundle/battle/prefabs/Sphere2d.prefab",
+    "value": {
+      "depends": [
+        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941"
+      ],
+      "dependScripts": [
+        "a1d566e8-4f75-4d7e-835b-6dffe8cc9b99"
+      ]
+    },
+    "versionCode": 1
+  },
+  "cec7d9ba-6d49-446d-b4a4-fd0d83ea53af": {
+    "url": "db://assets/bundle/battle/prefabs/Sphere3d.prefab",
+    "value": {
+      "depends": [
+        "472d6cd5-7051-4388-97da-69ac3355170f"
+      ],
+      "dependScripts": [
+        "56ae80ae-da79-42f6-8e8f-28361c629701"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2becf307-8388-4328-9282-2155344db157": {
+    "url": "db://assets/bundle/battle/prefabs/demo2D.prefab",
+    "value": {
+      "depends": [
+        "51b98c30-f88b-4b45-85c6-d0e68b12d5be",
+        "c50f27a5-943c-4fb2-96b3-604e34ba2ef6"
+      ],
+      "dependScripts": [
+        "aec980dd-85c4-4063-bed1-e9cde4a4b35a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1415cc7d-7fa8-4e58-b49e-cd8af6db6b35": {
+    "url": "db://assets/bundle/battle/prefabs/demo3D.prefab",
+    "value": {
+      "depends": [
+        "fd664dc2-418f-45d2-a6ec-4423618d3b34",
+        "cec7d9ba-6d49-446d-b4a4-fd0d83ea53af"
+      ],
+      "dependScripts": [
+        "449d7ca5-091e-4d8e-9662-036c8e17a364",
+        "66d84727-9d0d-4bfc-90b7-396d1b0d93ff"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b8b065ca-6aad-4ba5-a149-1678e9296b97": {
+    "url": "db://assets/bundle/battle/textrues/Ghost.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3cfef8b3-ac7b-4985-9338-8ddf3fddc9ef": {
+    "url": "db://assets/bundle/battle/textrues/SnailTail.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fdb142d5-8967-42d0-82f4-73bb75ffd9fb": {
+    "url": "db://assets/bundle/battle/textrues/bb1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fbb5cd22-1942-4619-8485-07e8f05847d5": {
+    "url": "db://assets/bundle/battle/textrues/bullet.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ade1df4b-bdf9-4be9-9e69-602bfbfca650": {
+    "url": "db://assets/bundle/battle/textrues/ninja.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fdb142d5-8967-42d0-82f4-73bb75ffd9fb@6c48a": {
+    "url": "db://assets/bundle/battle/textrues/bb1.png@6c48a",
+    "value": {
+      "depends": [
+        "fdb142d5-8967-42d0-82f4-73bb75ffd9fb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fbb5cd22-1942-4619-8485-07e8f05847d5@6c48a": {
+    "url": "db://assets/bundle/battle/textrues/bullet.png@6c48a",
+    "value": {
+      "depends": [
+        "fbb5cd22-1942-4619-8485-07e8f05847d5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ade1df4b-bdf9-4be9-9e69-602bfbfca650@6c48a": {
+    "url": "db://assets/bundle/battle/textrues/ninja.png@6c48a",
+    "value": {
+      "depends": [
+        "ade1df4b-bdf9-4be9-9e69-602bfbfca650"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3cfef8b3-ac7b-4985-9338-8ddf3fddc9ef@6c48a": {
+    "url": "db://assets/bundle/battle/textrues/SnailTail.png@6c48a",
+    "value": {
+      "depends": [
+        "3cfef8b3-ac7b-4985-9338-8ddf3fddc9ef"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b8b065ca-6aad-4ba5-a149-1678e9296b97@6c48a": {
+    "url": "db://assets/bundle/battle/textrues/Ghost.png@6c48a",
+    "value": {
+      "depends": [
+        "b8b065ca-6aad-4ba5-a149-1678e9296b97"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fbb5cd22-1942-4619-8485-07e8f05847d5@f9941": {
+    "url": "db://assets/bundle/battle/textrues/bullet.png@f9941",
+    "value": {
+      "depends": [
+        "fbb5cd22-1942-4619-8485-07e8f05847d5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "868822a0-410c-473b-a675-d940ab90ac1d": {
+    "url": "db://assets/bundle/battle/Joystick/texture/inner.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ade1df4b-bdf9-4be9-9e69-602bfbfca650@f9941": {
+    "url": "db://assets/bundle/battle/textrues/ninja.png@f9941",
+    "value": {
+      "depends": [
+        "ade1df4b-bdf9-4be9-9e69-602bfbfca650@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3cfef8b3-ac7b-4985-9338-8ddf3fddc9ef@f9941": {
+    "url": "db://assets/bundle/battle/textrues/SnailTail.png@f9941",
+    "value": {
+      "depends": [
+        "3cfef8b3-ac7b-4985-9338-8ddf3fddc9ef@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fdb142d5-8967-42d0-82f4-73bb75ffd9fb@f9941": {
+    "url": "db://assets/bundle/battle/textrues/bb1.png@f9941",
+    "value": {
+      "depends": [
+        "fdb142d5-8967-42d0-82f4-73bb75ffd9fb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "329348fa-8862-4fda-91f4-8c7a2ed04a60": {
+    "url": "db://assets/bundle/battle/Joystick/texture/round.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c93b2303-7f2c-4a6c-b362-e3394e32faf1": {
+    "url": "db://assets/bundle/battle/prefabs/bulletHell/BulletHell.prefab",
+    "value": {
+      "depends": [
+        "868822a0-410c-473b-a675-d940ab90ac1d@f9941",
+        "329348fa-8862-4fda-91f4-8c7a2ed04a60@f9941",
+        "59449087-a36c-4a5c-93c6-9f8795c511c2",
+        "fdb142d5-8967-42d0-82f4-73bb75ffd9fb@f9941",
+        "a7792874-245f-4507-b288-dca28576c2c9",
+        "8a64d5cb-a728-4926-982d-77f5550c3561",
+        "881ab165-9759-4328-bbe9-b8885ba87c55"
+      ],
+      "dependScripts": [
+        "690837d4-6828-40c1-8d01-63474bede24b",
+        "14305c80-c89d-4c8d-9bb8-afbb05a3529a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "10207235-ed29-422a-98ac-58c5c14e3575": {
+    "url": "db://assets/bundle/battle/prefabs/bulletHell/bullet.prefab",
+    "value": {
+      "depends": [
+        "fbb5cd22-1942-4619-8485-07e8f05847d5@f9941"
+      ],
+      "dependScripts": [
+        "10c41c33-3906-4d02-925b-37c288ba162b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b8b065ca-6aad-4ba5-a149-1678e9296b97@f9941": {
+    "url": "db://assets/bundle/battle/textrues/Ghost.png@f9941",
+    "value": {
+      "depends": [
+        "b8b065ca-6aad-4ba5-a149-1678e9296b97@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a7792874-245f-4507-b288-dca28576c2c9": {
+    "url": "db://assets/bundle/battle/prefabs/bulletHell/ghost.prefab",
+    "value": {
+      "depends": [
+        "b8b065ca-6aad-4ba5-a149-1678e9296b97@f9941",
+        "ba21476f-2866-4f81-9c4d-6e359316e448"
+      ],
+      "dependScripts": [
+        "a6edb24b-b960-4693-b556-7a1cf733ea36"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6f22c883-e51d-406b-92df-9034d6ffe08c": {
+    "url": "db://assets/bundle/battle/prefabs/bulletHell/gun.prefab",
+    "value": {
+      "depends": [
+        "fbb5cd22-1942-4619-8485-07e8f05847d5@f9941",
+        "10207235-ed29-422a-98ac-58c5c14e3575"
+      ],
+      "dependScripts": [
+        "fe09de8f-f51f-4d67-b660-d9867f6c9e60"
+      ]
+    },
+    "versionCode": 1
+  },
+  "881ab165-9759-4328-bbe9-b8885ba87c55": {
+    "url": "db://assets/bundle/battle/prefabs/bulletHell/player.prefab",
+    "value": {
+      "depends": [
+        "ade1df4b-bdf9-4be9-9e69-602bfbfca650@f9941",
+        "6f22c883-e51d-406b-92df-9034d6ffe08c",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "28040096-9dbc-461a-bd60-14f739b234ae"
+      ],
+      "dependScripts": [
+        "d96b64ad-1c49-42a8-b88b-4060f3cc0dfc",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "069bf3d5-88c3-4866-8872-9e014b2d59c4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "28040096-9dbc-461a-bd60-14f739b234ae": {
+    "url": "db://assets/bundle/battle/prefabs/bulletHell/skill.prefab",
+    "value": {
+      "depends": [
+        "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7@f9941"
+      ],
+      "dependScripts": [
+        "2fede599-2a9c-436e-8a70-a3b8c1cf72a8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "868822a0-410c-473b-a675-d940ab90ac1d@6c48a": {
+    "url": "db://assets/bundle/battle/Joystick/texture/inner.png@6c48a",
+    "value": {
+      "depends": [
+        "868822a0-410c-473b-a675-d940ab90ac1d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8a64d5cb-a728-4926-982d-77f5550c3561": {
+    "url": "db://assets/bundle/battle/prefabs/bulletHell/snailTail.prefab",
+    "value": {
+      "depends": [
+        "3cfef8b3-ac7b-4985-9338-8ddf3fddc9ef@f9941",
+        "ba21476f-2866-4f81-9c4d-6e359316e448"
+      ],
+      "dependScripts": [
+        "d2a8a52c-b729-4735-bca1-cc71918616ca"
+      ]
+    },
+    "versionCode": 1
+  },
+  "329348fa-8862-4fda-91f4-8c7a2ed04a60@6c48a": {
+    "url": "db://assets/bundle/battle/Joystick/texture/round.png@6c48a",
+    "value": {
+      "depends": [
+        "329348fa-8862-4fda-91f4-8c7a2ed04a60"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e95b689e-25d3-4b10-a5be-c97778c022e0": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill1.anim",
+    "value": {
+      "depends": [
+        "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7@f9941",
+        "851181b1-fd71-4211-a39d-2cc8e4af90dd@f9941",
+        "970b19b0-5d56-49c6-a496-69f39efb6497@f9941",
+        "92fa089a-9fc2-4ae0-b690-e295fe4c4b88@f9941",
+        "d9f901fe-ac88-4fd8-8dee-77f14afaea4b@f9941"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "851181b1-fd71-4211-a39d-2cc8e4af90dd": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "970b19b0-5d56-49c6-a496-69f39efb6497": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill3.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "868822a0-410c-473b-a675-d940ab90ac1d@f9941": {
+    "url": "db://assets/bundle/battle/Joystick/texture/inner.png@f9941",
+    "value": {
+      "depends": [
+        "868822a0-410c-473b-a675-d940ab90ac1d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "92fa089a-9fc2-4ae0-b690-e295fe4c4b88": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill4.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "329348fa-8862-4fda-91f4-8c7a2ed04a60@f9941": {
+    "url": "db://assets/bundle/battle/Joystick/texture/round.png@f9941",
+    "value": {
+      "depends": [
+        "329348fa-8862-4fda-91f4-8c7a2ed04a60@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d9f901fe-ac88-4fd8-8dee-77f14afaea4b": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill5.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7@6c48a": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill1.png@6c48a",
+    "value": {
+      "depends": [
+        "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "851181b1-fd71-4211-a39d-2cc8e4af90dd@6c48a": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill2.png@6c48a",
+    "value": {
+      "depends": [
+        "851181b1-fd71-4211-a39d-2cc8e4af90dd"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7@f9941": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill1.png@f9941",
+    "value": {
+      "depends": [
+        "6d8d144f-9bc8-43b4-aecf-86b7dc3a0fa7@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "970b19b0-5d56-49c6-a496-69f39efb6497@6c48a": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill3.png@6c48a",
+    "value": {
+      "depends": [
+        "970b19b0-5d56-49c6-a496-69f39efb6497"
+      ]
+    },
+    "versionCode": 1
+  },
+  "851181b1-fd71-4211-a39d-2cc8e4af90dd@f9941": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill2.png@f9941",
+    "value": {
+      "depends": [
+        "851181b1-fd71-4211-a39d-2cc8e4af90dd@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "92fa089a-9fc2-4ae0-b690-e295fe4c4b88@6c48a": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill4.png@6c48a",
+    "value": {
+      "depends": [
+        "92fa089a-9fc2-4ae0-b690-e295fe4c4b88"
+      ]
+    },
+    "versionCode": 1
+  },
+  "970b19b0-5d56-49c6-a496-69f39efb6497@f9941": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill3.png@f9941",
+    "value": {
+      "depends": [
+        "970b19b0-5d56-49c6-a496-69f39efb6497@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d9f901fe-ac88-4fd8-8dee-77f14afaea4b@6c48a": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill5.png@6c48a",
+    "value": {
+      "depends": [
+        "d9f901fe-ac88-4fd8-8dee-77f14afaea4b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "92fa089a-9fc2-4ae0-b690-e295fe4c4b88@f9941": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill4.png@f9941",
+    "value": {
+      "depends": [
+        "92fa089a-9fc2-4ae0-b690-e295fe4c4b88@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d9f901fe-ac88-4fd8-8dee-77f14afaea4b@f9941": {
+    "url": "db://assets/bundle/battle/textrues/skill1/skill5.png@f9941",
+    "value": {
+      "depends": [
+        "d9f901fe-ac88-4fd8-8dee-77f14afaea4b@6c48a"
+      ]
+    },
+    "versionCode": 1
   }
 }
