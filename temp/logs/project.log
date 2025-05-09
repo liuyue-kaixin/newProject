@@ -1,29 +1,40 @@
-5-5-2025 16:33:43 - log: error Error: EEXIST: file already exists, symlink '/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/native' -> '/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine-native'
+5-9-2025 21:55:16 - log: error Error: EEXIST: file already exists, symlink '/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/native' -> '/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine-native'
     at symlinkSync (node:fs:1817:11)
-    at createSymlink (/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/browser/index.ccc:1:7380)
-    at Package.load (/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/browser/index.ccc:1:4286)
-    at Package.execLifeFunc (/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/package.ccc:1:1221)
-    at Package.enable (/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/package.ccc:1:3489)
-    at PackageManager.enable (/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/index.js:1:1763)
-    at Object.<anonymous> (/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator/dist/package/public/browser.ccc:1:2408)
+    at createSymlink (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/browser/index.ccc:1:7380)
+    at Package.load (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/browser/index.ccc:1:4286)
+    at Package.execLifeFunc (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/package.ccc:1:1221)
+    at Package.enable (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/package.ccc:1:3489)
+    at PackageManager.enable (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/index.js:1:1763)
+    at Object.<anonymous> (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator/dist/package/public/browser.ccc:1:2408)
     at Generator.next (<anonymous>)
-    at i (/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator/dist/package/public/browser.ccc:1:131)
+    at i (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator/dist/package/public/browser.ccc:1:131)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
   errno: -17,
   code: 'EEXIST',
   syscall: 'symlink',
-  path: '/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/native',
-  dest: '/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine-native'
+  path: '/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/native',
+  dest: '/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine-native'
 }
-5-5-2025 16:33:43 - log: Load engine in /Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine
-5-5-2025 16:33:43 - log: Register native engine in /Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/native
-5-5-2025 16:33:44 - log: Request namespace: device-list
-5-5-2025 16:34:05 - info: [PreviewInEditor] 预览环境初始化完毕
-5-5-2025 16:34:11 - log: [Scene] meshopt wasm decoder initialized
-5-5-2025 16:34:11 - log: [Scene] [bullet]:bullet wasm lib loaded.
-5-5-2025 16:34:11 - log: [Scene] [box2d]:box2d wasm lib loaded.
-5-5-2025 16:34:11 - log: [Scene] [PHYSICS]: using builtin.
-5-5-2025 16:34:12 - log: [Scene] Cocos Creator v3.8.6
-5-5-2025 16:34:12 - log: [Scene] Using custom pipeline: Builtin
-5-5-2025 16:34:12 - log: [Scene] [PHYSICS]: switch from builtin to bullet.
-5-5-2025 16:34:12 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+5-9-2025 21:55:16 - log: Load engine in /Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine
+5-9-2025 21:55:16 - log: Register native engine in /Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+5-9-2025 21:55:17 - log: Request namespace: device-list
+5-9-2025 21:55:35 - log: [Scene] meshopt wasm decoder initialized
+5-9-2025 21:55:35 - log: [Scene] [bullet]:bullet wasm lib loaded.
+5-9-2025 21:55:35 - log: [Scene] [box2d]:box2d wasm lib loaded.
+5-9-2025 21:55:35 - log: [Scene] [PHYSICS]: using builtin.
+5-9-2025 21:55:36 - log: [Scene] Cocos Creator v3.8.6
+5-9-2025 21:55:36 - log: [Scene] Using custom pipeline: Builtin
+5-9-2025 21:55:36 - log: [Scene] [PHYSICS]: switch from builtin to bullet.
+5-9-2025 21:55:36 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+5-9-2025 21:55:37 - error: [Scene] download failed: import://84/844977fc-c166-4889-906d-c0388f16ebe0.json?_t=1746798937343, status: 0(error)Error: download failed: import://84/844977fc-c166-4889-906d-c0388f16ebe0.json?_t=1746798937343, status: 0(error)
+    at XMLHttpRequest.xhr.onerror (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108247:20)
+    at XMLHttpRequest.sentryWrapped (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/src/helpers.ts:100:17)
+5-9-2025 21:55:37 - error: [Scene] download failed: import://d4/d47c07b0-7352-4518-9dec-1ed02aecc971.json?_t=1746798937344, status: 0(error)Error: download failed: import://d4/d47c07b0-7352-4518-9dec-1ed02aecc971.json?_t=1746798937344, status: 0(error)
+    at XMLHttpRequest.xhr.onerror (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108247:20)
+    at XMLHttpRequest.sentryWrapped (/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/app.asar/node_modules/src/helpers.ts:100:17)
+5-9-2025 21:57:31 - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+5-9-2025 21:57:31 - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+5-9-2025 22:01:25 - info: [PreviewInEditor] 预览环境初始化完毕

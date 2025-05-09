@@ -190,12 +190,15 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
           _initializerDefineProperty(this, "agent", _descriptor8, this);
 
           //Agent开关
+          //@ts-ignore
           _initializerDefineProperty(this, "weight", _descriptor9, this);
 
           //Agent 权值越小，穿透力越强
+          //@ts-ignore
           _initializerDefineProperty(this, "maxRadius", _descriptor10, this);
 
           //Agent碰撞半径,小于等于物体体积
+          //@ts-ignore
           _initializerDefineProperty(this, "maxVelocity", _descriptor11, this);
 
           //Agent 最大速度上限

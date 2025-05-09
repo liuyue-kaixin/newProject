@@ -481,6 +481,22 @@
       "/Volumes/SSD 1/ccProject/assets/chunks/common/color/aces.chunk",
       "/Volumes/SSD 1/ccProject/assets/chunks/common/color/gamma.chunk",
       "/Volumes/SSD 1/ccProject/assets/chunks/legacy/fog-fs.chunk"
+    ],
+    "/Volumes/SSD/ccProject/assets/bundle/battle/effect/moveUV.effect": [
+      "/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-vs.chunk",
+      "/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-global.chunk",
+      "/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-local.chunk",
+      "/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/common-define.chunk",
+      "/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-fs.chunk",
+      "/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/embedded-alpha.chunk",
+      "/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/alpha-test.chunk",
+      "/Volumes/SSD/ccProject/assets/chunks/sprite-vs.chunk",
+      "/Volumes/SSD/ccProject/assets/chunks/builtin/uniforms/cc-global.chunk",
+      "/Volumes/SSD/ccProject/assets/chunks/builtin/uniforms/cc-local.chunk",
+      "/Volumes/SSD/ccProject/assets/chunks/common/common-define.chunk",
+      "/Volumes/SSD/ccProject/assets/chunks/sprite-fs.chunk",
+      "/Volumes/SSD/ccProject/assets/chunks/builtin/internal/embedded-alpha.chunk",
+      "/Volumes/SSD/ccProject/assets/chunks/builtin/internal/alpha-test.chunk"
     ]
   },
   "uuid": {
@@ -494,6 +510,12 @@
       "d47c07b0-7352-4518-9dec-1ed02aecc971"
     ],
     "/Volumes/SSD 1/ccProject/assets/bundle/battle/effect/moveUV.mtl": [
+      "bc7d76c2-3f1a-4667-ad2c-38abd98bd1f6"
+    ],
+    "/Volumes/SSD/ccProject/assets/bundle/battle/effect/material3d.mtl": [
+      "d47c07b0-7352-4518-9dec-1ed02aecc971"
+    ],
+    "/Volumes/SSD/ccProject/assets/bundle/battle/effect/moveUV.mtl": [
       "bc7d76c2-3f1a-4667-ad2c-38abd98bd1f6"
     ]
   }

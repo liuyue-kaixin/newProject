@@ -49,21 +49,21 @@ export class cObject extends Component {
     @property({ group: "Agent" })
     agent: boolean = false; //Agent开关
 
-    
+    //@ts-ignore
     @property({ min:0.01 , max:1.0, step:0.01, group: "Agent", visible() { return this.agent; } })
     weight: number = 0.5; //Agent 权值越小，穿透力越强
-
+    //@ts-ignore
     @property({ group: "Agent", visible() { return this.agent; } })
     maxRadius: number = 0; //Agent碰撞半径,小于等于物体体积
-
+    //@ts-ignore
     @property({ group: "Agent", visible() { return this.agent; } })
     maxVelocity: number = 0; //Agent 最大速度上限
     
     tryVelocity:Vec3 = new Vec3(); //最大期望速度
     velocity: Vec3 = new Vec3(); //当前实际速度
     isDirty: Dirty = Dirty.RTS;
-    shape: cShape = null;
-    body: cBody = null;
+    shape: cShape = null!;
+    body: cBody = null!;
 
 
     onLoad() {
@@ -205,8 +205,8 @@ export class cObject extends Component {
     onDestroy() {
         cCollider.inst.remove(this.body,true);
         this.unscheduleAllCallbacks();
-        this.shape = null;
-        this.body = null;
+        this.shape = null!;
+        this.body = null!;
 
     }
 }

@@ -597,16 +597,12 @@
   },
   "844977fc-c166-4889-906d-c0388f16ebe0": {
     "url": "db://assets/bundle/battle/effect/scaleXY.effect",
-    "value": {
-      "depends": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "d47c07b0-7352-4518-9dec-1ed02aecc971": {
     "url": "db://assets/bundle/battle/effect/sprite3d.effect",
-    "value": {
-      "depends": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "a1d566e8-4f75-4d7e-835b-6dffe8cc9b99": {

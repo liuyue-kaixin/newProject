@@ -5,20 +5,20 @@
     "module": "ES2015",
     "strict": true,
     "types": [
-      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/jsb",
       "./temp/declarations/cc",
+      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/cc.env"
     ],
     "paths": {
       "db://internal/*": [
-        "/Volumes/SSD 1/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
+        "/Users/alice/Documents/folder/cocosCreator/Creator/3.8.6/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
       ],
       "db://assets/*": [
-        "/Volumes/SSD 1/ccProject/assets/*"
+        "/Volumes/SSD/ccProject/assets/*"
       ],
       "db://oops-framework/*": [
-        "/Volumes/SSD 1/ccProject/extensions/oops-plugin-framework/assets/*"
+        "/Volumes/SSD/ccProject/extensions/oops-plugin-framework/assets/*"
       ]
     },
     "experimentalDecorators": true,

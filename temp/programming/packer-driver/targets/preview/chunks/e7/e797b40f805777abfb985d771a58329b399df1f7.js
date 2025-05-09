@@ -1,7 +1,7 @@
 System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__unresolved_3", "__unresolved_4", "__unresolved_5", "__unresolved_6", "__unresolved_7"], function (_export, _context) {
   "use strict";
 
-  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, CCInteger, Component, instantiate, Node, Prefab, Quat, Sprite, Vec2, Vec3, cCollider, Bullet, Ghost, Player, SnailTail, Skill, Joystick, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _dec8, _dec9, _dec10, _dec11, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _descriptor7, _descriptor8, _descriptor9, _descriptor10, _class3, _crd, ccclass, property, tempPos, tempRot, BulletHell;
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, CCInteger, Component, instantiate, Node, Prefab, Quat, Vec3, cCollider, Bullet, Ghost, Player, SnailTail, Skill, Joystick, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _dec8, _dec9, _dec10, _dec11, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _descriptor7, _descriptor8, _descriptor9, _descriptor10, _class3, _crd, ccclass, property, tempPos, tempRot, BulletHell;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -55,8 +55,6 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
       Node = _cc.Node;
       Prefab = _cc.Prefab;
       Quat = _cc.Quat;
-      Sprite = _cc.Sprite;
-      Vec2 = _cc.Vec2;
       Vec3 = _cc.Vec3;
     }, function (_unresolved_2) {
       cCollider = _unresolved_2.cCollider;
@@ -211,13 +209,12 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           }), Player) : Player).inst.getPosition();
           Vec3.lerp(tempPos, this.camera.position, position, 0.25);
           this.camera.position = tempPos; //背景跟随
-
-          var bg = this.node.getChildByName("bg");
-          var sprite = bg == null ? void 0 : bg.getComponent(Sprite);
-          var material = sprite == null ? void 0 : sprite.getSharedMaterial(0);
-          var uvOffset = new Vec2(position.x / 512.0, -position.y / 512.0);
-          material == null || material.setProperty("tilingOffset", uvOffset);
-          bg.position = position;
+          // let bg = this.node.getChildByName("bg");
+          // let sprite = bg?.getComponent(Sprite);
+          // let material = sprite?.getSharedMaterial(0);
+          // let uvOffset = new Vec2(position.x / 512.0, -position.y / 512.0);
+          // material?.setProperty("tilingOffset", uvOffset);
+          // bg!.position = position;
         }
 
       }, _class3._inst = void 0, _class3), (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "ghost", [_dec2], {
@@ -274,7 +271,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
         enumerable: true,
         writable: true,
         initializer: function initializer() {
-          return 1000;
+          return 1;
         }
       }), _descriptor9 = _applyDecoratedDescriptor(_class2.prototype, "raidus", [_dec10], {
         configurable: true,
