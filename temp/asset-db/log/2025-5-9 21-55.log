@@ -223,3 +223,12 @@
 2025-5-9 22:07:23-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (6ms)
 2025-5-9 22:07:23-log: run build task 整理部分构建选项内数据到 settings.json success in 6 ms√, progress: 15%
 2025-5-9 22:07:23-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:206.89MB, end 207.02MB, increase: 130.72KB
+2025-5-9 22:18:27-debug: refresh db internal success
+2025-5-9 22:18:27-debug: %cImport%c: /Volumes/SSD/ccProject/assets/script/battle/demos/bulletHell/bulletHell.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-9 22:18:27-debug: refresh db assets success
+2025-5-9 22:18:27-debug: refresh db oops-framework success
+2025-5-9 22:18:27-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-9 22:18:27-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-9 22:18:27-debug: asset-db:worker-effect-data-processing (13ms)
+2025-5-9 22:18:27-debug: asset-db-hook-engine-extends-afterRefresh (15ms)
+2025-5-9 22:18:27-debug: asset-db:refresh-all-database (436ms)
